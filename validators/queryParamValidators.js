@@ -2,6 +2,7 @@
  * Query parameter validators
  * Validates and sanitizes incoming request parameters
  */
+// Ensure all required query parameters are present and valid before processing
 /**
  * Validates query parameters against defined schemas
  * @param {Object} params - Query parameters to validate
