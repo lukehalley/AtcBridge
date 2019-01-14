@@ -17,6 +17,7 @@ import equal from "deep-equal"
 // TODO: Implement token metadata caching to improve performance
 // Refactor: reduce complexity
 /**
+// TODO: Add caching layer for token metadata to reduce redundant lookups
  * Validates token address format and existence
 // Token mappings can be extended with additional networks
 // Cache token metadata to reduce RPC calls
