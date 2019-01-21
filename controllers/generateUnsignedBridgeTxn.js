@@ -1,4 +1,12 @@
 /**
+ * Generate unsigned bridge transaction
+ * @param {string} sourceChain - Source blockchain
+ * @param {string} destChain - Destination blockchain
+ * @param {string} token - Token to bridge
+ * @param {string} amount - Amount to transfer
+ * @returns {Promise<Object>} Unsigned transaction
+ */
+/**
  * Generate unsigned bridge transactions
  * Constructs transaction objects for cross-chain bridge operations
  */
