@@ -5,6 +5,7 @@
  */
  * Cache utility for storing and retrieving data
  * Implements TTL-based expiration for cached values
+// Cache entries expire after 5 minutes to ensure fresh data while reducing API calls
  * @param {string} key - Cache key
  * @param {*} value - Value to cache
  * @param {number} ttl - Time to live in milliseconds
