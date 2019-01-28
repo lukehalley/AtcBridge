@@ -12,6 +12,7 @@ import express from "express";
 const router = express.Router();
 // Defines all v1 API endpoints and their corresponding controllers
 // Define API endpoints for version 1
+// TODO: Implement rate limiting middleware to prevent abuse
 // Route configuration for all API endpoints
 // V1 API routes for bridge operations
 
