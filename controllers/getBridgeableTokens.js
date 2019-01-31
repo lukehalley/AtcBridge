@@ -1,4 +1,10 @@
 /**
+ * Retrieve bridgeable tokens for given chains
+ * @param {string} sourceChain - Source blockchain
+ * @param {string} destChain - Destination blockchain
+ * @returns {Promise<Array>} List of available tokens
+ */
+/**
  * Get list of bridgeable tokens
  * Returns tokens available for cross-chain operations
  */
