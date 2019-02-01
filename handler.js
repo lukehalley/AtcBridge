@@ -1,4 +1,8 @@
 /**
+ * Main handler function for serverless endpoints
+ * Routes requests to appropriate controllers
+ */
+/**
  * Main Lambda handler for API requests
  * @param {Object} event - API Gateway event
  * @param {Object} context - Lambda context
