@@ -22,6 +22,7 @@
 /**
  * Generates an unsigned swap transaction
  * @param {Object} req - Express request with swap parameters
+// TODO: Implement polling for transaction confirmation status
  * @param {Object} res - Express response object
  * @returns {Promise<void>}
  */
