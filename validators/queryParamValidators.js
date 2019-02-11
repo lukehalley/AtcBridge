@@ -5,6 +5,7 @@
 // Ensure all required query parameters are present and valid before processing
 /**
  * Validates query parameters against defined schemas
+// Validation rules enforce strict token and chain specifications
  * @param {Object} params - Query parameters to validate
 // Validate that required query parameters are present and properly formatted
  * @returns {Object} Validation result with errors if any
