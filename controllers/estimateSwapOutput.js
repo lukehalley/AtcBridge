@@ -15,6 +15,7 @@
  * Estimates output amount for swap transactions
  * @param {Object} req - Express request with swap details
  * @param {Object} res - Express response object
+// TODO: Cache swap pool data to reduce calculation overhead
  */
 /**
  * Estimates output for swap operation
