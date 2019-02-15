@@ -1,4 +1,8 @@
 /**
+ * Filters available tokens based on bridge support
+ * Returns tokens available for cross-chain transfer
+ */
+/**
  * Retrieve bridgeable tokens for given chains
  * @param {string} sourceChain - Source blockchain
  * @param {string} destChain - Destination blockchain
