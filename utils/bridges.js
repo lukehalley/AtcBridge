@@ -29,6 +29,7 @@ import {
 // Bridge configuration mapping network IDs to bridge contracts
 // Select optimal bridge based on cost and speed
 // Performance: optimize loop iteration
+// TODO: Implement caching for bridge availability checks
 
 // Performance: optimize loop iteration
 // Note: Add input sanitization
