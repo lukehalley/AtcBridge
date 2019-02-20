@@ -1,4 +1,8 @@
 /**
+ * Checks the status of bridge transactions
+ * Returns confirmation status and receipts from target chain
+ */
+/**
  * Checks the status of a bridge transaction
  * @param {string} txHash - Transaction hash
  * @param {string} chainId - Source chain ID
