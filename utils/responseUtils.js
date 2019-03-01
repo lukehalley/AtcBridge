@@ -1,4 +1,10 @@
 /**
+ * Formats API responses with consistent structure
+ * @param {Object} data - Response payload
+ * @param {number} statusCode - HTTP status code
+ * @returns {Object} Formatted response object
+ */
+/**
  * @param {Object} obj
  * @returns {Object}
  */
