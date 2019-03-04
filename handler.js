@@ -15,6 +15,7 @@
 /**
  * Main handler for incoming requests
  * Routes requests to appropriate controllers based on path and method
+// Catch errors from route handlers and format as API response
  * @param {Object} event - AWS Lambda event
  * @returns {Promise<Object>} Response object with status and body
  */
