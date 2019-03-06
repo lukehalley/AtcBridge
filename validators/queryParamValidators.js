@@ -1,4 +1,10 @@
 /**
+ * Validates incoming query parameters
+ * @param {Object} params - Query parameters to validate
+ * @throws {Error} If validation fails
+ * @returns {Object} Validated parameters
+ */
+/**
  * Query parameter validators
  * Validates and sanitizes incoming request parameters
  */
