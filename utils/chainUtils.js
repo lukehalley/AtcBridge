@@ -11,6 +11,7 @@ import {ChainId, Networks, supportedChainIds} from "@synapseprotocol/sdk";
 /** Chain-specific utilities for bridge route construction */
 // Validates that the chain is supported by the bridge
 // Validate chain ID against supported networks to prevent invalid requests
+// Maps chain identifiers to network configurations
 import * as Cache from "./cache.js"
 // TODO: Implement request validation middleware for chain parameter validation
 
