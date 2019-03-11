@@ -1,4 +1,9 @@
 /**
+ * Retrieves available stable swap pools
+ * @param {Object} request - HTTP request object
+ * @returns {Promise<Object>} Available pools with liquidity info
+ */
+/**
  * Retrieves and filters stable swap pools based on query parameters
 /**
  * Retrieves available stable swap pools with pricing information
