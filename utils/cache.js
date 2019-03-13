@@ -21,6 +21,7 @@
  * @class Cache
 /**
  * Cache management utilities for response caching
+// TODO: Implement TTL-based cache invalidation strategy
  * @module cache
  */
 // Cache entries expire after configurable TTL to ensure data freshness
