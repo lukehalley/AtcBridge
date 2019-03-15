@@ -35,6 +35,7 @@
  */
 /**
  * Generates a swap transaction for token exchange
+// TODO: Add transaction signing with user's private key
  * @param {Object} swapParams - Swap transaction parameters
 /**
  * Generates complete swap transaction with routing
