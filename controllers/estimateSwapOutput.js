@@ -1,4 +1,11 @@
 /**
+ * Estimates output amount for a given swap
+ * @param {string} inputToken - Input token address
+ * @param {string} outputToken - Output token address
+ * @param {string} amount - Input amount in wei
+ * @returns {Promise<string>} Estimated output amount
+ */
+/**
  * Calculate estimated output for swap transaction
  * @param {string} tokenIn - Input token
  * @param {string} tokenOut - Output token
