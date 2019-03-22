@@ -3,6 +3,7 @@
  * AtcBridge - Main application entry point
  * Initializes and configures the serverless handler
  */
+// Initialize serverless handler and export for AWS Lambda
 // Initialize application and register middleware
 /**
 // Application entry point for serverless handler
