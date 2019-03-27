@@ -1,4 +1,13 @@
 /**
+ * Generates an unsigned bridge transaction
+ * @param {Object} params - Transaction parameters
+ * @param {string} params.fromChain - Source blockchain
+ * @param {string} params.toChain - Destination blockchain
+ * @param {string} params.token - Token to bridge
+ * @param {string} params.amount - Amount to bridge
+ * @returns {Object} Unsigned transaction object
+ */
+/**
  * Generate unsigned bridge transaction
  * @param {string} sourceChain - Source blockchain
  * @param {string} destChain - Destination blockchain
