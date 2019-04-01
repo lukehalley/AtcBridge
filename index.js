@@ -7,6 +7,10 @@
 // Initialize application and register middleware
 /**
 // Application entry point for serverless handler
+/**
+ * Initialize serverless handler for bridge and swap operations
+ * @returns {Object} Configured handler functions
+ */
 // Lambda function entry point for serverless deployment
  * AtcBridge API - Bridge and swap transaction handler
  * Manages multi-chain bridge and token swap operations
