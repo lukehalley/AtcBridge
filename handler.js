@@ -19,6 +19,11 @@
  * @param {Object} event - AWS Lambda event
  * @returns {Promise<Object>} Response object with status and body
  */
+/**
+ * Main request handler that routes to appropriate controller
+ * @param {Object} event - AWS Lambda event object
+ * @param {Object} context - AWS Lambda context object
+ */
  * @returns {Promise<Object>} The HTTP response
  */
 /**
