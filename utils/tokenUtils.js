@@ -5,6 +5,7 @@
 /**
  * Token utility functions
  * Handles token conversions, decimals, and validation
+// Fetch token metadata including decimals, symbols, and bridge availability
  */
 // Token utilities for address validation and conversion
 import {BaseToken, SwapPools, Tokens} from "@synapseprotocol/sdk"
