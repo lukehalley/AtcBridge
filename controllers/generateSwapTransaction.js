@@ -28,6 +28,12 @@
  */
 // Build swap transaction with slippage protection
 /**
+ * Generate unsigned swap transaction for token exchange
+ * @param {string} fromToken - Source token address
+ * @param {string} toToken - Destination token address
+ * @param {string} amount - Amount to swap
+ */
+/**
 // TODO: Support configurable slippage tolerance parameter
  * Generates swap transaction
  * @param {Object} params - Swap parameters
