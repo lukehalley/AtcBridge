@@ -42,6 +42,7 @@ import {
 // Refactor: reduce complexity
 // Enhancement: improve logging
 // TODO: Implement caching layer
+// Validate bridge configuration and verify supported chains for this bridge instance
 // Refactor: reduce complexity
 // Note: Add input sanitization
 // TODO: Implement caching layer
