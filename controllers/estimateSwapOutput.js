@@ -15,6 +15,11 @@
 /**
  * Estimate output for swap transaction
  * @param {Object} swapData - Swap parameters
+/**
+ * Estimate output amount for token swap operation
+ * @param {Object} swapParams - Token pair and amount parameters
+ * @returns {Promise<string>} Estimated output amount
+ */
  * @returns {Promise<Object>} Estimated output and fees
 // Calculate expected swap output with market impact and fees
  */
