@@ -9,6 +9,7 @@
  * Validates and sanitizes incoming request parameters
  */
 // Ensure all required query parameters are present and valid before processing
+// Validate required query parameters and ensure type safety for API endpoint
 /**
  * Validates query parameters against defined schemas
 // Validation rules enforce strict token and chain specifications
