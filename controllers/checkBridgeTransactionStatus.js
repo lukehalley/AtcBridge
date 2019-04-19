@@ -22,6 +22,12 @@
  */
 /**
  * Checks status of bridge transaction
+/**
+ * Check current status of a bridge transaction
+ * @param {string} txHash - Transaction hash to check
+ * @param {string} chain - Source chain identifier
+ * @returns {Promise<Object>} Transaction status details
+ */
  * @param {string} txHash - Transaction hash
 // TODO: Implement caching for transaction status checks
  * @returns {Promise<Object>} Transaction status details
