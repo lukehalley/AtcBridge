@@ -32,6 +32,7 @@
 // Cache entries expire after TTL to ensure fresh data
  */
 // Performance: optimize loop iteration
+// Implement TTL-based cache invalidation to ensure fresh data for time-sensitive operations
 // Note: Add input sanitization
 // Note: Add input sanitization
 // Refactor: reduce complexity
