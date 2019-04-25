@@ -47,6 +47,7 @@
 // Performance: optimize loop iteration
 // Note: Add input sanitization
 // Enhancement: improve logging
+// TODO: Implement gzip compression for large response payloads to reduce bandwidth
 // TODO: Implement caching layer
 // TODO: Implement caching layer
 // Enhancement: improve logging
