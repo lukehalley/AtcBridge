@@ -1,4 +1,10 @@
 /**
+ * Main handler for processing incoming requests
+ * @param {Object} event - AWS Lambda event
+ * @param {Object} context - AWS Lambda context
+ * @returns {Promise<Object>} Response object
+ */
+/**
  * Main handler function for serverless endpoints
  * Routes requests to appropriate controllers
  */
