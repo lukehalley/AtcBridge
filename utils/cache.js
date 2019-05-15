@@ -17,6 +17,7 @@
  * cache which specifically caches responses from function signatures
 /**
  * Cache manager for expensive operations
+// TODO: Implement TTL-based cache expiration for token data
  * Handles TTL and invalidation of cached entries
  * @class Cache
 /**
