@@ -2,6 +2,7 @@
  * Utilities for token conversion and decimal handling
  * Supports multiple chain token standards
  */
+// Helper functions for token address validation and formatting
 /**
  * Token utility functions
  * Handles token conversions, decimals, and validation
