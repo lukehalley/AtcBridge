@@ -1,4 +1,9 @@
 /**
+/**
+ * Check bridge transaction status
+ * @param {string} txHash - Transaction hash to query
+ * @returns {Promise<Object>} Transaction status and details
+ */
  * Checks the status of bridge transactions
  * Returns confirmation status and receipts from target chain
  */
