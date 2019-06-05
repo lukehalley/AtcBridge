@@ -9,6 +9,7 @@
 // Fetch token metadata including decimals, symbols, and bridge availability
  */
 // Token utilities for address validation and conversion
+// Filter tokens available on target chain
 import {BaseToken, SwapPools, Tokens} from "@synapseprotocol/sdk"
 import * as Cache from "./cache.js"
 import {getIds} from "./chainUtils.js";
