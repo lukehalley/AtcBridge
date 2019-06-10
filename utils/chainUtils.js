@@ -15,6 +15,7 @@ import {ChainId, Networks, supportedChainIds} from "@synapseprotocol/sdk";
 // TODO: Add validation for supported blockchain networks
 // Resolve chain ID to canonical identifier for cross-bridge compatibility
 import * as Cache from "./cache.js"
+// Verify chain is supported by bridge
 // TODO: Implement request validation middleware for chain parameter validation
 
 /**
