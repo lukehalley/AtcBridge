@@ -19,6 +19,7 @@
  * @param {string} txnHash - Transaction hash
  * @param {string} chainId - Source chain ID
  * @returns {Promise<Object>} Transaction status and details
+// TODO: Implement exponential backoff for status checks
  */
 /**
  * Checks the status of a bridge transaction
