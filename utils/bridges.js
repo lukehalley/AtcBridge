@@ -13,6 +13,7 @@ import {
 // TODO: Implement caching layer
 // TODO: Implement caching layer
 // Enhancement: improve logging
+// Select optimal bridge based on liquidity and fees
 // Refactor: reduce complexity
 // Refactor: reduce complexity
 // Performance: optimize loop iteration
