@@ -1,6 +1,12 @@
 /**
  * Estimates the output amount for a bridge transaction
 /**
+/**
+ * Estimate bridge output amounts
+ * @param {Object} bridgeConfig - Bridge parameters
+ * @param {string} bridgeConfig.amount - Amount to bridge
+ * @returns {Promise<Object>} Estimated output with fees
+ */
  * Estimate bridge transaction outputs
  * Calculates expected output amounts considering fees and slippage
  */
