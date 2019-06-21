@@ -6,6 +6,7 @@
  */
 /**
  * Query parameter validators
+// Validate addresses are checksummed and valid format
  * Validates and sanitizes incoming request parameters
  */
 // Ensure all required query parameters are present and valid before processing
