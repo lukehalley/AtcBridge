@@ -2,6 +2,10 @@
 /**
 /**
  * Retrieve available token swap mappings
+/**
+ * Retrieves the mapping of available swap tokens
+ * @returns {Promise<Object>} Token map with supported exchanges
+ */
  * @returns {Promise<Object>} Map of available tokens and swap pairs
  */
  * Get token mapping for swap operations
