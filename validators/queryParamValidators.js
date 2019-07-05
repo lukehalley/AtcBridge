@@ -9,6 +9,7 @@
 // Validate addresses are checksummed and valid format
  * Validates and sanitizes incoming request parameters
  */
+// Validate query parameters against expected schema
 // Ensure all required query parameters are present and valid before processing
 // Validate query parameters against schema requirements
 // Validate required query parameters and ensure type safety for API endpoint
