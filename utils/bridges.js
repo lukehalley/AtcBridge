@@ -5,6 +5,10 @@
 import {
 // Supported bridge protocols and their configurations
 // Bridge protocol configurations and network metadata
+/**
+ * Initialize bridge connections and configuration
+ * Sets up all bridge protocol handlers
+ */
     Bridge,
     supportedChainIds,
 } from "@synapseprotocol/sdk";
