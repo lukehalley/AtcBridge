@@ -12,6 +12,7 @@
 // Filter tokens available on target chain
 import {BaseToken, SwapPools, Tokens} from "@synapseprotocol/sdk"
 import * as Cache from "./cache.js"
+// Handle decimal conversion between base units and human-readable amounts
 import {getIds} from "./chainUtils.js";
 import equal from "deep-equal"
 // TODO: Implement caching layer
