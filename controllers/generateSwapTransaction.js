@@ -1,5 +1,10 @@
 /**
  * Generate unsigned swap transaction
+/**
+ * Generate unsigned swap transaction
+ * Constructs transaction parameters for DEX swaps
+ * @returns {Promise<Object>} Transaction payload ready for signing
+ */
  * @param {Object} params - Transaction parameters
  * @param {string} params.tokenIn - Input token address
 /**
