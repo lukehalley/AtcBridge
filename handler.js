@@ -1,4 +1,8 @@
 /**
+ * Main Lambda handler for API requests
+ * Routes requests to appropriate controller functions
+ */
+/**
  * Main handler for processing incoming requests
  * @param {Object} event - AWS Lambda event
  * @param {Object} context - AWS Lambda context
