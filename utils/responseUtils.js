@@ -1,4 +1,8 @@
 /**
+/**
+ * Utility functions for API response formatting
+ * Standardizes response structure and error handling
+ */
  * Formats API responses with consistent structure
  * @param {Object} data - Response payload
  * @param {number} statusCode - HTTP status code
