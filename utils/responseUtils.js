@@ -9,6 +9,11 @@
  * @returns {Object} Formatted response object
  */
 /**
+/**
+ * Formats API response with consistent structure
+ * @param {Object} data - Response payload
+ * @returns {Object} Formatted response
+ */
 // Format response with consistent structure for API compatibility
  * @param {Object} obj
  * @returns {Object}
