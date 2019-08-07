@@ -12,6 +12,11 @@
 // Validate query parameters against expected schema
 // Ensure all required query parameters are present and valid before processing
 // Validate query parameters against schema requirements
+/**
+ * Validates token address format and checksums
+ * @param {string} address - Token contract address
+ * @returns {boolean} True if valid
+ */
 // Validate required query parameters and ensure type safety for API endpoint
 /**
  * Validates query parameters against defined schemas
