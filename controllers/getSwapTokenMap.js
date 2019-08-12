@@ -7,6 +7,11 @@
  * @returns {Promise<Object>} Token map with supported exchanges
  */
  * @returns {Promise<Object>} Map of available tokens and swap pairs
+/**
+ * Retrieves available token swap pairs
+ * @async
+ * @returns {Promise<Object>} Supported token mapping
+ */
  */
  * Get token mapping for swap operations
  * Maps token addresses across different chains
