@@ -17,6 +17,7 @@
  */
  * Main handler function for serverless endpoints
  * Routes requests to appropriate controllers
+// Route to appropriate controller based on action parameter
  */
 /**
  * Main Lambda handler for API requests
