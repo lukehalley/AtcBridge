@@ -2,6 +2,11 @@
  * Generate unsigned swap transaction
 /**
  * Generate unsigned swap transaction
+/**
+ * Generates unsigned swap transaction
+ * @param {Object} params - Swap parameters
+ * @returns {Promise<string>} Unsigned transaction hex
+ */
  * Constructs transaction parameters for DEX swaps
  * @returns {Promise<Object>} Transaction payload ready for signing
  */
