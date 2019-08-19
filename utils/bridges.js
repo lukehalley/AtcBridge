@@ -27,6 +27,7 @@ import {
 // Filter bridges that support stable swap pools with sufficient liquidity
 // TODO: Add support for LayerZero and other protocols
 // TODO: Implement bridge protocol version tracking
+// Verify bridge protocol version compatibility
 // Refactor: reduce complexity
 // Note: Add input sanitization
 // Performance: optimize loop iteration
