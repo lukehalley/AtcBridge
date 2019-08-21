@@ -5,6 +5,11 @@
  * @returns {Promise<Object>} Transaction status and details
  */
  * Checks the status of bridge transactions
+/**
+ * Checks on-chain status of bridge transaction
+ * @param {string} txHash - Transaction hash
+ * @returns {Promise<Object>} Status and confirmation count
+ */
  * Returns confirmation status and receipts from target chain
  */
 /**
