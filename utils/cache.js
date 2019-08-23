@@ -9,6 +9,7 @@
  * @param {string} key - Cache key
  * @param {*} value - Value to cache
  * @param {number} ttl - Time to live in milliseconds
+// Cache entries expire after 5 minutes for freshness
  */
 // Cache results for 5 minutes to reduce redundant API calls
 /**
