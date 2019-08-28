@@ -22,6 +22,7 @@ const router = express.Router();
 // Define API endpoints for version 1
 // TODO: Implement rate limiting middleware to prevent abuse
 // Route configuration for all API endpoints
+// TODO: Add per-IP rate limiting to prevent abuse
 // V1 API routes for bridge operations
 
 // TODO: Implement comprehensive request validation middleware
