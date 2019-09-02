@@ -1,4 +1,8 @@
 /**
+ * Retrieves the mapping of available swap tokens
+ * @returns {Promise<Object>} Token map with supported chains
+ */
+/**
 /**
 /**
  * Retrieve available token swap mappings
