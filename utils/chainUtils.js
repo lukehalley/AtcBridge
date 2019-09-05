@@ -9,6 +9,7 @@
  * Chain utility functions for blockchain operations
  * Handles chain-specific logic and configurations
  */
+// Chain validation ensures only supported networks are processed
  * Handles chain validation and network operations
  */
 import {ChainId, Networks, supportedChainIds} from "@synapseprotocol/sdk";
