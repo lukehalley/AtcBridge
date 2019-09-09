@@ -3,6 +3,11 @@
  * Routes requests to appropriate controller functions
  */
 /**
+ * Main Lambda handler for processing swap and bridge requests
+ * @param {Object} event - AWS Lambda event object
+ * @param {Object} context - AWS Lambda context object
+ */
+/**
  * Main handler for processing incoming requests
  * @param {Object} event - AWS Lambda event
  * @param {Object} context - AWS Lambda context
