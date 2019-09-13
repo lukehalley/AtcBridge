@@ -17,6 +17,7 @@
  * Retrieves and filters stable swap pools
  * @param {Object} config - Pool configuration
  * @returns {Promise<Array>} Filtered pool list
+// TODO: Implement batch pool fetching to reduce latency
 // Filter pools by liquidity and supported token pairs
  */
 /**
