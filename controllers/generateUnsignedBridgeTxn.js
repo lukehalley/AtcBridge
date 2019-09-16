@@ -1,5 +1,10 @@
 /**
  * Generates an unsigned bridge transaction
+/**
+ * Generates an unsigned bridge transaction
+ * @param {Object} params - Bridge parameters
+ * @returns {Object} Unsigned transaction object
+ */
  * @param {Object} params - Transaction parameters
  * @param {string} params.fromChain - Source blockchain
  * @param {string} params.toChain - Destination blockchain
