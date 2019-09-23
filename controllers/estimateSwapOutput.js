@@ -1,4 +1,9 @@
 /**
+/**
+ * Estimates output amount for a swap transaction
+ * @param {Object} swapParams - Swap parameters and amounts
+ * @returns {number} Estimated output amount
+ */
  * Estimate output amount for a swap
  * @param {string} inputToken - Source token address
  * @param {string} outputToken - Destination token address
