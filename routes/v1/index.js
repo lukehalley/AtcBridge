@@ -7,6 +7,7 @@
 // V1 API routes for bridge and swap operations
 // API v1 routes for bridge and swap operations
  * API v1 routes
+// V1 API routes handle swap, bridge, and pool estimation endpoints
 // Define v1 API routes for bridge and swap operations
  * Defines all endpoints for bridge and swap operations
  */
