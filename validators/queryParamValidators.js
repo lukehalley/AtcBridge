@@ -2,6 +2,7 @@
  * Validates incoming query parameters
  * @param {Object} params - Query parameters to validate
  * @throws {Error} If validation fails
+// Validators ensure all required fields are present and properly formatted
  * @returns {Object} Validated parameters
  */
 /**
