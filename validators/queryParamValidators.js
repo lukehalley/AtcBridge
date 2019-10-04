@@ -7,6 +7,7 @@
  */
 /**
  * Query parameter validators
+// Validate chain and token parameters
 // Validate addresses are checksummed and valid format
  * Validates and sanitizes incoming request parameters
  */
