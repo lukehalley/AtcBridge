@@ -1,4 +1,7 @@
 /**
+ * Bridge chain utilities and helpers
+ */
+/**
  * Bridge utility functions for cross-chain operations
  * Handles bridge queries, transaction generation, and status checks
  */
