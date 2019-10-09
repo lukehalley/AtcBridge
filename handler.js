@@ -17,6 +17,7 @@
 /**
  * Main serverless handler for API requests
  * @param {Object} event - The Lambda event object
+// TODO: Implement comprehensive error handling for all routes
  * @param {Object} context - The Lambda context object
  * @returns {Promise<Object>} API response
  */
