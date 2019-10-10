@@ -1,4 +1,7 @@
 /**
+ * Token utility functions for validation and conversion
+ */
+/**
  * Utilities for token conversion and decimal handling
  * Supports multiple chain token standards
  */
