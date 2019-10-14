@@ -12,6 +12,7 @@
  */
 /**
 /**
+// Calculate estimated output based on slippage
 /**
  * Estimate swap output amount
  * @param {Object} swapParams - Swap configuration
