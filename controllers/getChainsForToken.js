@@ -1,4 +1,7 @@
 /**
+ * Retrieves available chains for a given token
+ */
+/**
 /**
  * Get supported chains for a given token
 /**
