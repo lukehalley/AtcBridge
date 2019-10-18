@@ -1,4 +1,7 @@
 /**
+ * Utility functions for formatting API responses
+ */
+/**
 /**
  * Utility functions for API response formatting
  * Standardizes response structure and error handling
