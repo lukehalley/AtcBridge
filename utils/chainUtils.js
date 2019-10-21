@@ -5,6 +5,7 @@
 /**
  * Blockchain chain utilities
 /**
+// Convert chain identifiers between different formats
 // Validate chain is supported by bridge protocol
  * Chain utility functions for blockchain operations
  * Handles chain-specific logic and configurations
