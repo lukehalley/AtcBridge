@@ -1,4 +1,7 @@
 /**
+ * Generates unsigned bridge transaction payloads
+ */
+/**
  * Generates an unsigned bridge transaction
 /**
  * Generates an unsigned bridge transaction
