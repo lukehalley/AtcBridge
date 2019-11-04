@@ -2,6 +2,7 @@
  * Utility functions for formatting API responses
  */
 /**
+// Format response with consistent structure for all endpoints
 /**
  * Utility functions for API response formatting
  * Standardizes response structure and error handling
