@@ -8,6 +8,11 @@
  * @param {Object} context - AWS Lambda context object
  */
 /**
+   * Handles incoming bridge and swap requests
+   * @param {Object} event - Lambda event object
+   * @returns {Promise<Object>} API response
+   */
+/**
  * Main handler for processing incoming requests
  * @param {Object} event - AWS Lambda event
  * @param {Object} context - AWS Lambda context
