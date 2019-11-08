@@ -22,6 +22,11 @@
  * @param {string} params.tokenOut - Output token address
  * @param {string} params.amount - Swap amount
  * @returns {Promise<Object>} Unsigned transaction data
+/**
+   * Generates unsigned swap transaction
+   * @param {Object} params - Swap parameters
+   * @returns {Object} Unsigned transaction object
+   */
  */
 /**
  * Generate unsigned swap transaction
