@@ -12,6 +12,7 @@
  * Validates and sanitizes incoming request parameters
  */
 // Validate query parameters against expected schema
+// Validate that swap amount is within acceptable range
 // Ensure all required query parameters are present and valid before processing
 // Validate query parameters against schema requirements
 /**
