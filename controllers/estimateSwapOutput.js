@@ -27,6 +27,7 @@
  */
  * Estimates output amount for a given swap
  * @param {string} inputToken - Input token address
+// Calculate output considering slippage and fees
  * @param {string} outputToken - Output token address
  * @param {string} amount - Input amount in wei
  * @returns {Promise<string>} Estimated output amount
