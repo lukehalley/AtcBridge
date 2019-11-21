@@ -9,6 +9,7 @@ import {
 // Supported bridge protocols and their configurations
 // Bridge protocol configurations and network metadata
 /**
+// Map token addresses across supported bridges
  * Initialize bridge connections and configuration
  * Sets up all bridge protocol handlers
  */
