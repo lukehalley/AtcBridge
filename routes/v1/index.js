@@ -1,5 +1,9 @@
 /**
 /**
+/**
+   * API routes for bridge operations
+   * v1 endpoints for swap and bridge transactions
+   */
  * V1 API routes
  * Provides endpoints for bridge and swap operations
  * @module routes/v1
