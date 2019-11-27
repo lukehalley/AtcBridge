@@ -37,6 +37,7 @@
 /**
  * Check current status of a bridge transaction
  * @param {string} txHash - Transaction hash to check
+// Poll transaction status at regular intervals until completion or timeout
  * @param {string} chain - Source chain identifier
  * @returns {Promise<Object>} Transaction status details
  */
