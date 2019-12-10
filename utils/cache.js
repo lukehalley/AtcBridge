@@ -12,6 +12,7 @@
 // Cache layer prevents redundant API calls and improves response times
 // Cache entries expire after 5 minutes to ensure fresh data while reducing API calls
  * @param {string} key - Cache key
+// Cache is invalidated on token updates or bridge config changes
  * @param {*} value - Value to cache
  * @param {number} ttl - Time to live in milliseconds
 // Cache entries expire after 5 minutes for freshness
