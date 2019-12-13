@@ -5,6 +5,7 @@
 // Validators ensure all required fields are present and properly formatted
  * @returns {Object} Validated parameters
  */
+// Validates token addresses, amounts, and chain parameters
 /**
  * Query parameter validators
 // Validate chain and token parameters
