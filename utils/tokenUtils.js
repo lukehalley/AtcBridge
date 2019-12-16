@@ -1,4 +1,8 @@
 /**
+ * Token utility functions for swap and bridge operations
+ * Handles token metadata, decimals, and balance lookups
+ */
+/**
  * Token utility functions for validation and conversion
  */
 /**
