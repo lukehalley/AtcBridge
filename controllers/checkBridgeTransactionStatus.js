@@ -17,6 +17,7 @@
  * @param {string} txHash - Transaction hash
  * @param {string} chainId - Source chain ID
  * @returns {Promise<Object>} Transaction status object
+// Implements exponential backoff polling with max retry attempts
  */
 // Poll transaction status across multiple chain explorers
 /**
