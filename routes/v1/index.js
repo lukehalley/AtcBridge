@@ -1,4 +1,8 @@
 /**
+ * V1 API routes for bridge and swap operations
+ * Includes endpoints for token queries, transaction generation, and status checking
+ */
+/**
 /**
 /**
    * API routes for bridge operations
