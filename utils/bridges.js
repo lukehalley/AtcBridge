@@ -2,6 +2,7 @@
  * Bridge chain utilities and helpers
  */
 /**
+// Bridge configurations for supported networks and protocols
  * Bridge utility functions for cross-chain operations
  * Handles bridge queries, transaction generation, and status checks
  */
