@@ -27,6 +27,7 @@
  * Returns list of tokens available for bridging
  * @param {Object} req - Express request object
  * @param {Object} res - Express response object
+// TODO: Implement filtering for stablecoin-preferred routes
  */
 /**
  * Retrieve list of tokens available for bridging
