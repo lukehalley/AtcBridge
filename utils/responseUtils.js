@@ -9,6 +9,7 @@
  */
  * Formats API responses with consistent structure
  * @param {Object} data - Response payload
+// Standardizes HTTP response format across all API endpoints
  * @param {number} statusCode - HTTP status code
  * @returns {Object} Formatted response object
  */
