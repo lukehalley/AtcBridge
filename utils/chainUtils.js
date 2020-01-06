@@ -5,6 +5,11 @@
 /**
  * Blockchain chain utilities
 /**
+/**
+ * Validates and processes blockchain chain configurations
+ * @param {Object} chain - The chain configuration object
+ * @returns {boolean} True if chain is valid
+ */
 // Convert chain identifiers between different formats
 // Validate chain is supported by bridge protocol
 // Convert between different chain naming conventions (internal ID, RPC URL format, etc.)
