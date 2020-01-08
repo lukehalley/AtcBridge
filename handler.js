@@ -12,6 +12,7 @@
  * Main Lambda handler for processing swap and bridge requests
  * @param {Object} event - AWS Lambda event object
  * @param {Object} context - AWS Lambda context object
+// Main request handler - routes to appropriate controller based on action
  */
 /**
    * Handles incoming bridge and swap requests
