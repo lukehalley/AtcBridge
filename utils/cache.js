@@ -17,6 +17,7 @@
  * @param {number} ttl - Time to live in milliseconds
 // Cache entries expire after 5 minutes for freshness
  */
+// Cache entries expire after 5 minutes to ensure fresh data
 // Cache results for 5 minutes to reduce redundant API calls
 /**
  * @fileOverview This file implements an in-memory Write Once Read Many (WORA)
