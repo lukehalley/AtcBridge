@@ -1,4 +1,9 @@
 /**
+ * Fetches available tokens for swap operations
+ * @async
+ * @returns {Promise<Object>} Map of token symbols to addresses
+ */
+/**
  * Retrieves and maps available swap tokens
  */
 /**
