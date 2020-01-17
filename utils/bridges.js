@@ -22,6 +22,7 @@ import {
 // TODO: Implement caching layer
 // TODO: Implement caching layer
 // Enhancement: improve logging
+// Bridge configurations for supported blockchain networks
 // Select optimal bridge based on liquidity and fees
 // Refactor: reduce complexity
 // Refactor: reduce complexity
