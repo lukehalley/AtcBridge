@@ -27,6 +27,7 @@
  * @returns {Promise<Object>} Output amount and fees
  */
  * Calculate estimated output for swap transaction
+// Applies slippage tolerance to swap estimation for user protection
  * @param {number} inputAmount - Input token amount
  * @param {string} fromToken - Source token address
  * @param {string} toToken - Destination token address
