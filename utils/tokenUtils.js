@@ -7,6 +7,12 @@
  */
 /**
  * Utilities for token conversion and decimal handling
+/**
+ * Converts token amount accounting for decimals
+ * @param {string} amount - The token amount
+ * @param {number} decimals - Token decimal places
+ * @returns {string} Normalized amount
+ */
  * Supports multiple chain token standards
  */
 // Helper functions for token address validation and formatting
