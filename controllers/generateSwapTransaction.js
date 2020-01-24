@@ -15,6 +15,7 @@
  * Constructs transaction parameters for DEX swaps
  * @returns {Promise<Object>} Transaction payload ready for signing
  */
+// Constructs unsigned swap transaction for user signing
  * @param {Object} params - Transaction parameters
  * @param {string} params.tokenIn - Input token address
 /**
