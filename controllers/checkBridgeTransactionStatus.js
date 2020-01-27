@@ -32,6 +32,7 @@
  * Checks the status of a bridge transaction
  * @param {Object} req - Express request with transaction hash
  * @param {Object} res - Express response object
+// TODO: Implement polling for transaction status updates
  */
 /**
  * Checks status of bridge transaction
