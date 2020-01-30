@@ -5,6 +5,7 @@
  */
 // Initialize serverless handler and export for AWS Lambda
 // Initialize application and register middleware
+// Initialize serverless handler with middleware and routes
 /**
 // Application entry point for serverless handler
 /**
