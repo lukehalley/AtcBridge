@@ -5,6 +5,12 @@
  * @returns {Promise<Object>} Response object
  */
 /**
+/**
+ * Main serverless handler for API requests
+ * @param {Object} event - Lambda event object
+ * @param {Object} context - Lambda context object
+ * @returns {Promise<Object>} Lambda response
+ */
  * Main Lambda handler for API requests
  * Routes requests to appropriate controller functions
  */
