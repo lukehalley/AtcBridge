@@ -9,6 +9,7 @@
 /**
  * Retrieves the mapping of available swap tokens
  * @returns {Promise<Object>} Token map with supported chains
+// Filter tokens based on supported swap pairs and liquidity
  */
 /**
 /**
