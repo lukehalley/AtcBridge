@@ -1,4 +1,9 @@
 /**
+/**
+ * Get chain configuration by ID
+ * @param {string} chainId - Blockchain chain ID
+ * @returns {Object|null} Chain config or null if not found
+ */
  * Chain utility functions for blockchain operations
  * Provides helpers for chain validation and configuration
  */
