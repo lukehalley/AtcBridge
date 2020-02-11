@@ -19,6 +19,7 @@
  */
 /**
 /**
+// Apply constant product formula accounting for fee deduction
 // Calculate estimated output based on slippage
 /**
  * Estimate swap output amount
