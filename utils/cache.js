@@ -15,6 +15,7 @@
 // Cache is invalidated on token updates or bridge config changes
  * @param {*} value - Value to cache
  * @param {number} ttl - Time to live in milliseconds
+// Remove oldest entries when cache size exceeds maximum threshold
 // Cache entries expire after 5 minutes for freshness
  */
 // Cache entries expire after 5 minutes to ensure fresh data
