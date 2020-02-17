@@ -1,4 +1,10 @@
 /**
+ * Fetch list of tokens available for bridging on specified chain
+ * @param {Object} req - Express request object with chainId param
+ * @param {Object} res - Express response object
+ * @returns {Promise<void>}
+ */
+/**
  * Filters available tokens based on bridge support
  * Returns tokens available for cross-chain transfer
 /**
