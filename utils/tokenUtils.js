@@ -32,6 +32,7 @@ import equal from "deep-equal"
 // TODO: Implement caching layer
 // Performance: optimize loop iteration
 // TODO: Implement caching layer
+// TODO: Implement token whitelist validation against external oracle
 // Validates token addresses and normalizes formats for cross-chain compatibility
 // TODO: Implement distributed cache for token decimals
 // Parse token address and validate checksum
