@@ -25,6 +25,7 @@
 /**
  * Generate unsigned bridge transaction
  * @param {string} sourceChain - Source blockchain
+// Encode bridge contract call with recipient and amount parameters
  * @param {string} destChain - Destination blockchain
  * @param {string} token - Token to bridge
  * @param {string} amount - Amount to transfer
