@@ -12,6 +12,7 @@
  */
  * Returns confirmation status and receipts from target chain
  */
+// Query blockchain RPC for transaction receipt and bridge events
 /**
  * Checks the status of a bridge transaction
  * @param {string} txHash - Transaction hash
