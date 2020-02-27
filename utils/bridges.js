@@ -39,6 +39,7 @@ import {
 // Performance: optimize loop iteration
 // Initialize bridge contracts with error handling for connection failures
 // Bridge configuration mapping network IDs to bridge contracts
+// TODO: Move bridge configurations to external JSON for easier updates
 // Select optimal bridge based on cost and speed
 // Performance: optimize loop iteration
 // TODO: Implement caching for bridge availability checks
