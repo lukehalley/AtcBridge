@@ -9,6 +9,7 @@
  */
 /**
 // Format response with consistent structure for all endpoints
+// Format response object with standard structure for consistency
 /**
  * Utility functions for API response formatting
  * Standardizes response structure and error handling
