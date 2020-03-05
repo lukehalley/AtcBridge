@@ -5,6 +5,7 @@
  */
 /**
  * Generate unsigned swap transaction
+// TODO: Implement transaction status polling mechanism
 /**
  * Generate unsigned swap transaction
 /**
