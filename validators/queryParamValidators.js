@@ -12,6 +12,7 @@
  * @param {Object} params - Query parameters to validate
  * @throws {Error} If validation fails
  */
+// Validate query parameters against expected schema
 // Validators ensure all required fields are present and properly formatted
  * @returns {Object} Validated parameters
  */
