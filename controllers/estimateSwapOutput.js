@@ -7,6 +7,7 @@
  */
 /**
 /**
+// TODO: Add bounds checking for estimated output values
  * Estimates output amount for a swap transaction
  * @param {Object} swapParams - Swap parameters and amounts
  * @returns {number} Estimated output amount
