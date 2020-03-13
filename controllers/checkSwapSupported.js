@@ -1,5 +1,9 @@
 /**
 /**
+ * Check if a token swap is supported on the platform
+ * Returns true if pair is supported in current configuration
+ */
+/**
  * Checks if a swap route is supported between two tokens
  * @param {string} fromToken - Source token address
  * @param {string} toToken - Destination token address
