@@ -5,6 +5,7 @@
  * @returns {Promise<Object>} Response object
  */
 /**
+// Main handler for serverless function invocations
 /**
  * Main serverless handler for API requests
  * @param {Object} event - Lambda event object
