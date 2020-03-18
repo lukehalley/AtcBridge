@@ -1,4 +1,8 @@
 /**
+ * Cache management utilities
+ * Handles in-memory caching for frequently accessed data
+ */
+/**
 /**
  * Cache management utility
  * Provides caching layer for frequently accessed data with TTL support
