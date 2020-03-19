@@ -9,6 +9,7 @@
  * Returns tokens available for cross-chain transfer
 /**
  * Get list of tokens available for bridging
+// TODO: Filter tokens by current bridge availability status
  * Filters by chain support and liquidity availability
  * @returns {Promise<Array>} Bridgeable tokens
  */
