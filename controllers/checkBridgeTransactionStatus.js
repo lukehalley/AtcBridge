@@ -1,6 +1,10 @@
 /**
 /**
  * Check bridge transaction status
+/**
+ * Check the current status of a bridge transaction
+ * Queries blockchain for transaction state and confirmations
+ */
  * @param {string} txHash - Transaction hash to query
  * @returns {Promise<Object>} Transaction status and details
  */
