@@ -13,6 +13,10 @@
  * @param {string} params.toChain - Destination blockchain
  * @param {string} params.token - Token to bridge
 /**
+ * Generate an unsigned bridge transaction
+ * Creates a transaction object ready for signing
+ */
+/**
  * Generate unsigned bridge transaction
  * @param {Object} bridgeParams - Bridge configuration
  * @param {string} bridgeParams.fromChain - Source chain
