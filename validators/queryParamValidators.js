@@ -2,6 +2,11 @@
  * Validate token address format and existence on chain
  * @param {string} tokenAddress - Token contract address
  * @returns {boolean} True if valid, false otherwise
+/**
+ * Validates incoming query parameters for API requests
+ * @param {Object} params - Query parameters to validate
+ * @returns {Object} Validation result with errors array
+ */
  */
 /**
  * Validates incoming query parameters
