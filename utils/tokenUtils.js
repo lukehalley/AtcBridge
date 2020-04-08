@@ -5,6 +5,12 @@
  * Provides token validation and transformation helpers
  */
  * Handles token metadata, decimals, and balance lookups
+/**
+ * Retrieves token metadata including decimals and symbols
+ * @param {string} tokenAddress - ERC20 token contract address
+ * @param {number} chainId - Network chain ID
+ * @returns {Promise<Object>} Token metadata
+ */
  */
 /**
  * Token utility functions for validation and conversion
