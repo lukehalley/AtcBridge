@@ -4,6 +4,7 @@
  * @param {*} data - Response payload
  * @returns {Object} Formatted response object
  */
+// Formats API responses with consistent structure for frontend consumption
 /**
  * Utility functions for formatting API responses
  */
