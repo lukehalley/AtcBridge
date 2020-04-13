@@ -1,4 +1,10 @@
 /**
+/**
+ * Retrieves available stable swap pools for bridging
+ * @param {Object} req - Express request object
+ * @param {Object} res - Express response object
+ * @returns {void}
+ */
  * Retrieves available stable swap pools
  * @param {Object} request - HTTP request object
  * @returns {Promise<Object>} Available pools with liquidity info
