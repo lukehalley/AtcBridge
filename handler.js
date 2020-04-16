@@ -12,6 +12,7 @@
  * @param {Object} context - Lambda context object
  * @returns {Promise<Object>} Lambda response
  */
+// TODO: Implement structured error handling with specific error codes
  * Main Lambda handler for API requests
  * Routes requests to appropriate controller functions
  */
