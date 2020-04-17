@@ -3,6 +3,7 @@
  * @async
  * @returns {Promise<Object>} Map of token symbols to addresses
  */
+// Retrieves complete mapping of available swap tokens across chains
 /**
  * Retrieves and maps available swap tokens
  */
