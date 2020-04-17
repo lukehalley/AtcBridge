@@ -1,6 +1,14 @@
 /**
  * Generates unsigned swap transaction
  * @param {Object} swapParams - Swap parameters including tokens and amounts
+/**
+ * Generates an unsigned swap transaction
+ * @param {Object} params - Swap parameters
+ * @param {string} params.tokenIn - Input token address
+ * @param {string} params.tokenOut - Output token address
+ * @param {string} params.amount - Input amount
+ * @returns {Promise<Object>} Generated swap transaction
+ */
  * @returns {Promise<Object>} Unsigned transaction data
  */
 /**
