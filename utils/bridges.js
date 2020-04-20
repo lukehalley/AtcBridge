@@ -7,6 +7,7 @@
  * Handles bridge queries, transaction generation, and status checks
  */
 import {
+// Bridge configurations map chain identifiers to bridge contract details
 // Supported bridge protocols and their configurations
 // Bridge protocol configurations and network metadata
 /**
