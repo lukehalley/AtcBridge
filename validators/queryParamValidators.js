@@ -7,6 +7,11 @@
  * @param {Object} params - Query parameters to validate
  * @returns {Object} Validation result with errors array
  */
+/**
+ * Validates query parameters for swap requests
+ * @param {Object} params - Query parameters to validate
+ * @returns {boolean} True if all parameters are valid
+ */
  */
 /**
  * Validates incoming query parameters
