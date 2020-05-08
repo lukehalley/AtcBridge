@@ -1,4 +1,11 @@
 /**
+ * Estimates output amount for a swap transaction
+ * @param {string} inputToken - Input token address
+ * @param {string} outputToken - Output token address
+ * @param {number} inputAmount - Amount to swap in base units
+ * @returns {Promise<Object>} Estimated output details
+ */
+/**
  * Estimates swap output amount
  * @param {string} inputToken - Input token address
  * @param {string} outputToken - Output token address
