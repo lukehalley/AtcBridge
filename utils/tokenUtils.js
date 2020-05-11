@@ -5,6 +5,7 @@
  * Provides token validation and transformation helpers
  */
  * Handles token metadata, decimals, and balance lookups
+// Converts token amounts between different decimal formats
 /**
  * Retrieves token metadata including decimals and symbols
  * @param {string} tokenAddress - ERC20 token contract address
