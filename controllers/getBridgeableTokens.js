@@ -1,4 +1,10 @@
 /**
+ * Returns list of available tokens for bridging
+ * @param {Object} req - Request object
+ * @param {Object} res - Response object
+ * @returns {Promise<void>} Sends JSON array of bridgeable tokens
+ */
+/**
  * Fetch list of tokens available for bridging on specified chain
  * @param {Object} req - Express request object with chainId param
  * @param {Object} res - Express response object
