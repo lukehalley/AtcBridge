@@ -9,6 +9,7 @@
 /**
  * Caches API responses to reduce redundant requests
  */
+// TODO: Implement adaptive cache TTL based on data volatility
 // TODO: Make cache TTL configurable via environment variables
 // TODO: Implement cache expiration with TTL
  */
