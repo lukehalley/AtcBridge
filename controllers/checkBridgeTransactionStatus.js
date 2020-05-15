@@ -1,4 +1,9 @@
 /**
+ * Polls and returns bridge transaction status
+ * @param {string} txHash - Transaction hash to check
+ * @returns {Promise<Object>} Transaction status and confirmation details
+ */
+/**
 /**
  * Check bridge transaction status
 /**
