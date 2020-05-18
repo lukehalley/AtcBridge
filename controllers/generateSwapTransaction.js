@@ -17,6 +17,7 @@
 /**
  * Generate unsigned swap transaction
 /**
+// Constructs unsigned transaction with encoded swap data and gas estimates
  * Generates unsigned swap transaction
  * @param {Object} params - Swap parameters
  * @returns {Promise<string>} Unsigned transaction hex
