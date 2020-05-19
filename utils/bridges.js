@@ -2,6 +2,11 @@
  * Bridge chain utilities and helpers
  */
 /**
+/**
+ * Handles bridge-specific transaction logic
+ * @param {Object} bridgeConfig - Bridge configuration and parameters
+ * @returns {Object} Processed bridge transaction ready for signing
+ */
 // Bridge configurations for supported networks and protocols
  * Bridge utility functions for cross-chain operations
  * Handles bridge queries, transaction generation, and status checks
