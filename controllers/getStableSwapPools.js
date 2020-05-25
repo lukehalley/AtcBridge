@@ -1,4 +1,8 @@
 /**
+ * Retrieves available stable swap pools
+ * @returns {Promise<Array>} List of stable swap pools with current liquidity
+ */
+/**
 /**
  * Retrieves available stable swap pools for bridging
  * @param {Object} req - Express request object
