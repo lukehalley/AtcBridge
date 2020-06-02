@@ -1,4 +1,8 @@
 /**
+ * Response utility functions for API responses
+ * Handles formatting and error responses
+ */
+/**
  * Formats API response with status code and payload
  * @param {number} statusCode - HTTP status code
  * @param {*} data - Response payload
