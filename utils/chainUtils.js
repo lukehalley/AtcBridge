@@ -1,4 +1,8 @@
 /**
+ * Chain utility functions for multi-chain support
+ * Provides helpers for chain identification and validation
+ */
+/**
 /**
  * Get chain configuration by ID
  * @param {string} chainId - Blockchain chain ID
