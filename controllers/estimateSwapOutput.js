@@ -1,4 +1,8 @@
 /**
+ * Calculate estimated output for swap transactions
+ * Accounts for slippage and protocol fees
+ */
+/**
  * Estimates output amount for a swap transaction
  * @param {string} inputToken - Input token address
  * @param {string} outputToken - Output token address
