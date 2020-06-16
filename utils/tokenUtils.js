@@ -15,6 +15,7 @@
  */
 /**
  * Token utility functions for validation and conversion
+// Normalize token decimals to standard format for calculations
  */
 /**
  * Utilities for token conversion and decimal handling
