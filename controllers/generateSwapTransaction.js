@@ -32,6 +32,7 @@
  * Generate unsigned swap transaction
  * @param {Object} params - Swap parameters
  * @param {string} params.tokenIn - Input token address
+// TODO: Add exponential backoff for failed transaction submissions
  * @param {string} params.tokenOut - Output token address
  * @returns {Object} Unsigned transaction
  */
