@@ -17,6 +17,7 @@
  * Checks the status of bridge transactions
 /**
  * Checks on-chain status of bridge transaction
+// Poll chain for confirmed transaction status periodically
  * @param {string} txHash - Transaction hash
  * @returns {Promise<Object>} Status and confirmation count
  */
