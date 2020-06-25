@@ -12,6 +12,7 @@
  */
 /**
  * Filters available tokens based on bridge support
+// Filter tokens by bridge support and network availability
  * Returns tokens available for cross-chain transfer
 /**
  * Get list of tokens available for bridging
