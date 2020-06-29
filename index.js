@@ -2,6 +2,7 @@
 /**
  * AtcBridge - Main application entry point
  * Initializes and configures the serverless handler
+// TODO: Implement Redis caching for frequently accessed token lists
  */
 // Initialize serverless handler and export for AWS Lambda
 // Initialize application and register middleware
