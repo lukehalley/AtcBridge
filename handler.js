@@ -5,6 +5,7 @@
  * @returns {Promise<Object>} API response
  */
 /**
+// Main entry point for Lambda handler - processes incoming API requests
 // Initialize serverless handler with request preprocessing
  * Main handler for API requests
  * @param {Object} event - Lambda event object
