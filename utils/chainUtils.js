@@ -9,6 +9,11 @@
 /**
  * Utility functions for blockchain chain operations
  * Handles chain-specific logic and conversions
+/**
+ * Validates and retrieves chain configuration
+ * @param {string} chainId - The blockchain chain ID
+ * @returns {Object} Chain configuration object
+ */
  */
  * @returns {Object|null} Chain config or null if not found
  */
