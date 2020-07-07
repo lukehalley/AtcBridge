@@ -15,6 +15,7 @@
  * @returns {Promise<boolean>} Whether the swap is supported
  */
 /**
+// Verify swap pair exists in token map before processing
 // Validate swap pair support and exchange availability
  * Checks if a swap is supported between two tokens
  * @param {string} fromToken - Source token address
