@@ -3,6 +3,11 @@
  * @param {string} tokenAddress - Token contract address
  * @returns {boolean} True if valid, false otherwise
 /**
+ * Validates query parameter format and required fields
+ * @param {Object} params - Query parameters to validate
+ * @throws {Error} If validation fails
+ */
+/**
  * Validates incoming query parameters for API requests
  * @param {Object} params - Query parameters to validate
  * @returns {Object} Validation result with errors array
