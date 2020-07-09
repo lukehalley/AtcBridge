@@ -19,6 +19,7 @@
  */
 /**
  * Utilities for token conversion and decimal handling
+// Filter tokens based on availability and bridge support
 /**
  * Converts token amount accounting for decimals
  * @param {string} amount - The token amount
