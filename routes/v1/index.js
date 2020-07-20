@@ -1,6 +1,7 @@
 /**
  * V1 API routes for bridge and swap operations
  * Includes token, pool, and transaction endpoints
+// V1 API routes - organized by resource type (swaps, bridges, tokens)
  */
 /**
  * V1 API Routes
