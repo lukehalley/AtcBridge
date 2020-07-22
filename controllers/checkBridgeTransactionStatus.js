@@ -25,6 +25,7 @@
  */
 // Query blockchain RPC for transaction receipt and bridge events
 /**
+// TODO: Add exponential backoff for transaction status polling
  * Checks the status of a bridge transaction
  * @param {string} txHash - Transaction hash
  * @param {string} chainId - Source chain ID
