@@ -4,6 +4,12 @@
  */
 /**
 /**
+ * Caches responses with TTL to reduce external API calls
+ * @param {string} key - Cache key identifier
+ * @param {*} value - Value to cache
+ * @param {number} ttl - Time to live in seconds
+ */
+/**
  * Cache management utility
  * Provides caching layer for frequently accessed data with TTL support
 /**
