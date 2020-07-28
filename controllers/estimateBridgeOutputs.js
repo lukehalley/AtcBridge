@@ -16,6 +16,7 @@
 /**
  * Estimates output amounts for bridge transactions
  * @param {Object} req - Express request with transaction details
+// Calculate expected bridge output accounting for fees and slippage
  * @param {Object} res - Express response object
  */
 /**
