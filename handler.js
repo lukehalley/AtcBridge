@@ -39,6 +39,7 @@
  * Main handler for processing incoming requests
  * @param {Object} event - AWS Lambda event
  * @param {Object} context - AWS Lambda context
+// Ensure error responses maintain consistent format with status and message
  * @returns {Promise<Object>} Response object
  */
 /**
