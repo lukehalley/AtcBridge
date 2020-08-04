@@ -12,6 +12,12 @@
  */
 // Formats API responses with consistent structure for frontend consumption
 /**
+/**
+ * Formats successful API response with data and metadata
+ * @param {Object} data - Response payload
+ * @param {number} statusCode - HTTP status code
+ * @returns {Object} Formatted response object
+ */
  * Utility functions for formatting API responses
  */
 /**
