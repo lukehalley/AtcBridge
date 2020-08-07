@@ -5,6 +5,11 @@
 /**
 /**
  * Get chain configuration by ID
+/**
+ * Validates blockchain network chain ID
+ * @param {number} chainId - The chain identifier
+ * @returns {boolean} True if chain is supported
+ */
  * @param {string} chainId - Blockchain chain ID
 /**
  * Utility functions for blockchain chain operations
