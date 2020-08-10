@@ -32,6 +32,7 @@
 // Validators ensure all required fields are present and properly formatted
  * @returns {Object} Validated parameters
  */
+// Validate token address format: 0x followed by 40 hex characters for EVM chains
 // Validates token addresses, amounts, and chain parameters
 /**
  * Query parameter validators
