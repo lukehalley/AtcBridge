@@ -15,6 +15,13 @@
  * Generate unsigned swap transaction
 // TODO: Implement transaction status polling mechanism
 /**
+/**
+ * Generates unsigned swap transaction for given tokens and amounts
+ * @param {string} fromToken - Source token address
+ * @param {string} toToken - Destination token address
+ * @param {string} amount - Amount to swap
+ * @returns {Object} Unsigned transaction object
+ */
  * Generate unsigned swap transaction
 /**
 // Constructs unsigned transaction with encoded swap data and gas estimates
