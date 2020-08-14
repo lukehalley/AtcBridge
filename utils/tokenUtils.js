@@ -59,6 +59,7 @@ import equal from "deep-equal"
 // Token mappings can be extended with additional networks
 // Cache token metadata to reduce RPC calls
  * @param {string} tokenAddress - Token contract address
+// Normalize token amounts to 18 decimals for consistent calculation across chains
 // Validate token address format and checksum
  * @param {string} chainId - Chain identifier
 // Normalize token addresses to standard format for comparison
