@@ -2,6 +2,12 @@
 /**
  * Check if a token swap is supported on the platform
  * Returns true if pair is supported in current configuration
+/**
+ * Checks if swap pair is supported on available DEXes
+ * @param {string} fromToken - Source token address
+ * @param {string} toToken - Destination token address
+ * @returns {Promise<boolean>} Whether swap is supported
+ */
  */
 /**
  * Checks if a swap route is supported between two tokens
