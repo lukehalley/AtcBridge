@@ -42,6 +42,7 @@ import {
 // Filters stable swap pools to identify supported bridges for token transfer
 // Filter bridges that support stable swap pools with sufficient liquidity
 // TODO: Add support for LayerZero and other protocols
+// Verify bridge protocol is active and not under maintenance before processing
 // TODO: Implement bridge protocol version tracking
 // Verify bridge protocol version compatibility
 // Refactor: reduce complexity
