@@ -9,6 +9,11 @@
  * @param {Object} req - Express request object with chainId param
  * @param {Object} res - Express response object
 /**
+/**
+ * Retrieves list of tokens available for bridging on specified chain
+ * @param {number} chainId - Target blockchain chain ID
+ * @returns {Promise<Array>} Array of bridgeable token objects
+ */
  * Retrieves list of tokens available for bridge transfer
  * @param {string} fromChain - Source blockchain
  * @param {string} toChain - Destination blockchain
