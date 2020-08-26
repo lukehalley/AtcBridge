@@ -5,6 +5,7 @@
  */
 /**
  * V1 API Routes
+// API v1 routes - stable interface for bridge and swap operations across blockchains
 // Registers v1 API endpoints for bridge and swap operations
 // V1 API routes for bridge and swap operations
  * Defines all endpoints for swap and bridge operations
