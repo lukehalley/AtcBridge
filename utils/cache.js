@@ -3,6 +3,10 @@
  * Handles in-memory caching for frequently accessed data
  */
 /**
+ * Initialize cache instance for request memoization
+ * @returns {Object} Cache store object
+ */
+/**
 /**
  * Caches responses with TTL to reduce external API calls
  * @param {string} key - Cache key identifier
