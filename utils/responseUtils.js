@@ -1,5 +1,11 @@
 /**
  * Response utility functions for API responses
+/**
+ * Format API response with standard envelope
+ * @param {*} data - Response data payload
+ * @param {string} message - Response message
+ * @returns {Object} Formatted response
+ */
  * Handles formatting and error responses
  */
 /**
