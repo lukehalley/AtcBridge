@@ -22,6 +22,7 @@
 /**
  * Generate an unsigned bridge transaction
  * Creates a transaction object ready for signing
+// Transaction requires offline signing after generation
  */
 /**
  * Generate unsigned bridge transaction
