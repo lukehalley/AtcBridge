@@ -5,6 +5,7 @@
 /**
  * Validates query parameter format and required fields
  * @param {Object} params - Query parameters to validate
+// Validate token address format and chainId range
  * @throws {Error} If validation fails
  */
 /**
