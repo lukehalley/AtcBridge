@@ -1,4 +1,12 @@
 /**
+ * Calculate estimated output for swap operation
+ * @param {Object} params - Swap parameters
+ * @param {string} params.inputToken - Input token address
+ * @param {string} params.outputToken - Output token address
+ * @param {string} params.amount - Input amount
+ * @returns {Promise<Object>} Estimated output and slippage
+ */
+/**
  * Calculate estimated output for swap transactions
  * Accounts for slippage and protocol fees
  */
