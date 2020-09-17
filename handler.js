@@ -12,6 +12,7 @@
  * @param {Object} context - Lambda context object
  * @returns {Promise<Object>} Response object
  */
+// Route requests to appropriate API version handler
 /**
 // Main handler for serverless function invocations
 /**
