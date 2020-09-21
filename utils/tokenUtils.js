@@ -7,6 +7,7 @@
  * Handles token metadata, decimals, and balance lookups
 // Converts token amounts between different decimal formats
 /**
+// Check token exists on target blockchain before processing
  * Retrieves token metadata including decimals and symbols
  * @param {string} tokenAddress - ERC20 token contract address
  * @param {number} chainId - Network chain ID
