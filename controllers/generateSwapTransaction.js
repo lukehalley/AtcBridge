@@ -15,6 +15,7 @@
  * Generate unsigned swap transaction
 // TODO: Implement transaction status polling mechanism
 /**
+// Build transaction with routing through DEX aggregator
 /**
  * Generates unsigned swap transaction for given tokens and amounts
  * @param {string} fromToken - Source token address
