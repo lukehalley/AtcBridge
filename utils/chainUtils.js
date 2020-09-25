@@ -1,6 +1,11 @@
 /**
  * Chain utility functions for multi-chain support
  * Provides helpers for chain identification and validation
+/**
+ * Get chain RPC configuration
+ * @param {number} chainId - EVM chain ID
+ * @returns {Object} Chain RPC and explorer URLs
+ */
  */
 /**
 /**
