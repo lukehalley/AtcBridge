@@ -3,6 +3,10 @@
  * Manages supported bridges and chain connections
  */
 /**
+/**
+ * Get supported cross-chain bridges
+ * @returns {Array<Object>} Array of bridge configurations
+ */
  * Bridge chain utilities and helpers
  */
 /**
