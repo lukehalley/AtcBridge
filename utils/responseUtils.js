@@ -5,6 +5,12 @@
  * @param {*} data - Response data payload
  * @param {string} message - Response message
  * @returns {Object} Formatted response
+/**
+ * Formats error response with appropriate HTTP status
+ * @param {Error} error - The error object
+ * @param {number} statusCode - HTTP status code
+ * @returns {Object} Formatted response object
+ */
  */
  * Handles formatting and error responses
  */
