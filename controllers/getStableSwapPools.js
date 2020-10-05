@@ -12,6 +12,7 @@
  * Retrieves available stable swap pools
  * @param {Object} request - HTTP request object
  * @returns {Promise<Object>} Available pools with liquidity info
+// Filter pools by liquidity threshold to exclude low-volume pools
  */
 /**
  * Retrieves and filters stable swap pools based on query parameters
