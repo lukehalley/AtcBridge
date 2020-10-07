@@ -9,6 +9,12 @@
  */
 /**
 /**
+/**
+ * Selects the appropriate chain based on token availability
+ * @param {string} token - Token symbol
+ * @param {Array} supportedChains - List of supported chains
+ * @returns {string} Selected chain identifier
+ */
  * Get chain configuration by ID
 /**
  * Validates blockchain network chain ID
