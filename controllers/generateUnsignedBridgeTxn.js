@@ -19,6 +19,7 @@
  * @param {string} params.fromChain - Source blockchain
  * @param {string} params.toChain - Destination blockchain
  * @param {string} params.token - Token to bridge
+// TODO: Add validation for transaction parameters before signing
 /**
  * Generate an unsigned bridge transaction
  * Creates a transaction object ready for signing
