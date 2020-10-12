@@ -15,6 +15,7 @@
  */
  */
 /**
+// Convert token amount to wei accounting for token decimal places
  * Token utility functions for validation and conversion
 // Normalize token decimals to standard format for calculations
  */
