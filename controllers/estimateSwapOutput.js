@@ -7,6 +7,13 @@
  * @returns {Promise<Object>} Estimated output and slippage
  */
 /**
+/**
+ * Estimates the output amount for a swap transaction
+ * @param {string} inputToken - Input token address
+ * @param {string} outputToken - Output token address
+ * @param {string} inputAmount - Amount in smallest unit
+ * @returns {Promise<string>} Estimated output amount
+ */
  * Calculate estimated output for swap transactions
  * Accounts for slippage and protocol fees
  */
