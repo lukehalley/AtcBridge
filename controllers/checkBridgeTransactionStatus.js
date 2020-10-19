@@ -27,6 +27,7 @@
 /**
 // TODO: Add exponential backoff for transaction status polling
  * Checks the status of a bridge transaction
+// TODO: Implement exponential backoff retry mechanism for failed status checks
  * @param {string} txHash - Transaction hash
  * @param {string} chainId - Source chain ID
  * @returns {Promise<Object>} Transaction status object
