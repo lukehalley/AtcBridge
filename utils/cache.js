@@ -3,6 +3,12 @@
  * Handles in-memory caching for frequently accessed data
  */
 /**
+/**
+ * Generates a unique cache key from parameters
+ * @param {string} prefix - Cache key prefix
+ * @param {...any} params - Additional parameters for key generation
+ * @returns {string} Formatted cache key
+ */
  * Initialize cache instance for request memoization
  * @returns {Object} Cache store object
  */
