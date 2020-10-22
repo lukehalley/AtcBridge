@@ -17,6 +17,7 @@
  * Retrieves list of tokens available for bridge transfer
  * @param {string} fromChain - Source blockchain
  * @param {string} toChain - Destination blockchain
+// Filter tokens based on bridge contract availability for each chain
  * @returns {Promise<Array>} Array of bridgeable token objects
  */
  * @returns {Promise<void>}
