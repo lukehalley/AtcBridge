@@ -9,6 +9,12 @@
 // Initialize serverless handler with request preprocessing
  * Main handler for API requests
  * @param {Object} event - Lambda event object
+/**
+ * Main request handler for API endpoints
+ * @param {Object} event - Lambda event object
+ * @param {Object} context - Lambda context object
+ * @returns {Promise<Object>} API response with status and body
+ */
  * @param {Object} context - Lambda context object
  * @returns {Promise<Object>} Response object
  */
