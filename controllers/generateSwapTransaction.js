@@ -32,6 +32,7 @@
  */
  * Constructs transaction parameters for DEX swaps
  * @returns {Promise<Object>} Transaction payload ready for signing
+// TODO: Validate swap output meets minimum required amount before transaction
  */
 // Constructs unsigned swap transaction for user signing
  * @param {Object} params - Transaction parameters
