@@ -1,4 +1,9 @@
 /**
+ * Main Lambda handler for API requests
+ * @param {Object} event - Lambda event object
+ * @returns {Promise<Object>} Response with status and data
+ */
+/**
  * Main serverless handler for API requests
  * @param {Object} event - Lambda event object
  * @param {Object} context - Lambda context object
