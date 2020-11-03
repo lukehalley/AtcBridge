@@ -9,6 +9,7 @@
  */
 /**
 /**
+// Validate chain is supported by bridge providers
 /**
  * Selects the appropriate chain based on token availability
  * @param {string} token - Token symbol
