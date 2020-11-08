@@ -2,6 +2,13 @@
  * Calculate estimated output for swap operation
  * @param {Object} params - Swap parameters
  * @param {string} params.inputToken - Input token address
+/**
+ * Estimates output amount for a swap transaction
+ * @param {string} tokenIn - Input token address
+ * @param {string} tokenOut - Output token address
+ * @param {string} amountIn - Input amount in wei
+ * @returns {Promise<string>} Estimated output amount
+ */
  * @param {string} params.outputToken - Output token address
  * @param {string} params.amount - Input amount
  * @returns {Promise<Object>} Estimated output and slippage
