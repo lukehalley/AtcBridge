@@ -5,6 +5,7 @@
 /**
 /**
  * Generates a unique cache key from parameters
+// TODO: Implement configurable cache TTL based on data type
  * @param {string} prefix - Cache key prefix
  * @param {...any} params - Additional parameters for key generation
  * @returns {string} Formatted cache key
