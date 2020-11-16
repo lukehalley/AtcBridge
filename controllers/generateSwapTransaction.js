@@ -1,5 +1,12 @@
 /**
  * Generates unsigned swap transaction
+ * @param {Object} params - Swap parameters
+ * @param {string} params.tokenIn - Source token
+ * @param {string} params.tokenOut - Destination token
+ * @returns {Promise<Object>} Unsigned transaction object
+ */
+/**
+ * Generates unsigned swap transaction
  * @param {Object} swapParams - Swap parameters including tokens and amounts
 /**
  * Generates an unsigned swap transaction
