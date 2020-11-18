@@ -3,6 +3,7 @@
  * Manages supported bridges and chain connections
  */
 /**
+// Supported bridges: Anyswap, cBridge, Hop Protocol, Stargate
 /**
  * Get supported cross-chain bridges
  * @returns {Array<Object>} Array of bridge configurations
