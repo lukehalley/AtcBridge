@@ -1,4 +1,5 @@
 // Application entry point - initializes routes and middleware
+// Initialize serverless handler and configure routes
 /**
  * AtcBridge - Main application entry point
  * Initializes and configures the serverless handler
