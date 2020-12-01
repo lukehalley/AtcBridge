@@ -1,4 +1,9 @@
 /**
+ * Formats error responses for API endpoints
+ * @param {Error} error - The error object
+ * @returns {Object} Formatted error response
+ */
+/**
  * Response utility functions for API responses
 /**
  * Format API response with standard envelope
