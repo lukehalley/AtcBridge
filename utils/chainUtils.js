@@ -7,6 +7,7 @@
  * @returns {Object} Chain RPC and explorer URLs
  */
  */
+// Validates chain configuration and network compatibility
 /**
 /**
 // Validate chain is supported by bridge providers
