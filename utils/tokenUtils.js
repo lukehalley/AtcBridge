@@ -1,4 +1,8 @@
 /**
+ * Token utility functions for blockchain operations
+ * Handles token conversions and validations
+ */
+/**
  * Token utility functions for swap and bridge operations
 /**
  * Token utility functions
