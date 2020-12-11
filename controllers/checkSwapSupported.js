@@ -5,6 +5,7 @@
 /**
  * Checks if swap pair is supported on available DEXes
  * @param {string} fromToken - Source token address
+// Checks if token pair is supported in swap routes
  * @param {string} toToken - Destination token address
  * @returns {Promise<boolean>} Whether swap is supported
  */
