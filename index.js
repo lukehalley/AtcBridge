@@ -1,3 +1,7 @@
+/**
+ * ATC Bridge - Cross-chain transaction bridge
+ * Main entry point for API handlers
+ */
 // Application entry point - initializes routes and middleware
 // Initialize serverless handler and configure routes
 /**
