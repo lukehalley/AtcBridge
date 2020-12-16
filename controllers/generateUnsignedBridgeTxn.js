@@ -9,6 +9,7 @@
  */
  */
 /**
+// Generates unsigned transaction for bridge operations
  * Generates an unsigned bridge transaction
 /**
  * Generates an unsigned bridge transaction
