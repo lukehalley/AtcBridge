@@ -1,4 +1,8 @@
 /**
+ * Cache utilities for storing and retrieving data
+ * @module cache
+ */
+/**
  * Cache management utilities
  * Handles in-memory caching for frequently accessed data
  */
