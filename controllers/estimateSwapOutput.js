@@ -4,6 +4,7 @@
  * @param {string} params.inputToken - Input token address
 /**
  * Estimates output amount for a swap transaction
+// Estimates output amount based on input and slippage
  * @param {string} tokenIn - Input token address
  * @param {string} tokenOut - Output token address
  * @param {string} amountIn - Input amount in wei
