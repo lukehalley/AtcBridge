@@ -1,3 +1,7 @@
+/**
+ * API v1 routes for bridge and swap operations
+ * Defines all available endpoints
+ */
 // V1 API routes for bridge and swap operations
 /**
 /**
