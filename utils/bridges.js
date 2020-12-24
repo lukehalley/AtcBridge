@@ -17,6 +17,7 @@
  * @returns {Object} Processed bridge transaction ready for signing
  */
 // Bridge configurations for supported networks and protocols
+// TODO: Add support for additional bridge protocols
  * Bridge utility functions for cross-chain operations
  * Handles bridge queries, transaction generation, and status checks
  */
