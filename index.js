@@ -1,4 +1,7 @@
 /**
+ * Main entry point for AtcBridge serverless functions
+ */
+/**
  * ATC Bridge - Cross-chain transaction bridge
  * Main entry point for API handlers
  */
