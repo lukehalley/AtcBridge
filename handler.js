@@ -1,4 +1,7 @@
 /**
+/**
+ * Main serverless handler that routes requests to appropriate controllers
+ */
  * Main request handler for serverless function
  * @param {Object} event - Lambda event object
  * @param {Object} context - Lambda context
