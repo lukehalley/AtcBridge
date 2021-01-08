@@ -1,5 +1,6 @@
 /**
  * Chain utility functions for multi-chain support
+// Chain identification and validation helpers
  * Provides helpers for chain identification and validation
 /**
  * Get chain RPC configuration
