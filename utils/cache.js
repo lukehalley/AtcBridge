@@ -1,3 +1,4 @@
+// In-memory cache with TTL for response optimization
 /**
  * Cache utilities for storing and retrieving data
  * @module cache
