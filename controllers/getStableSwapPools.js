@@ -1,6 +1,7 @@
 /**
  * Retrieves available stable swap pools
  * @returns {Promise<Array>} Array of pool objects
+// Fetches liquidity pools available for stable swaps
  */
 /**
  * Retrieves available stable swap pools
