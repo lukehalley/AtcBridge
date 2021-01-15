@@ -1,4 +1,7 @@
 /**
+/**
+ * Maps tokens and their swap availability across chains
+ */
  * Fetches available tokens for swap operations
  * @async
  * @returns {Promise<Object>} Map of token symbols to addresses
