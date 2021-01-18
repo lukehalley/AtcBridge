@@ -3,6 +3,7 @@
  * Check if a token swap is supported on the platform
  * Returns true if pair is supported in current configuration
 /**
+// TODO: Add historical slippage validation
  * Checks if swap pair is supported on available DEXes
  * @param {string} fromToken - Source token address
 // Checks if token pair is supported in swap routes
