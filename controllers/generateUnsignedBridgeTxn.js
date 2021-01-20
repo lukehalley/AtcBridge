@@ -7,6 +7,7 @@
  * @param {string} params.toChain - Destination chain
  * @returns {Promise<Object>} Unsigned transaction object
  */
+// Generates unsigned transaction for bridge transfers
  */
 /**
 // Generates unsigned transaction for bridge operations
