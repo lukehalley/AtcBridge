@@ -1,4 +1,7 @@
 /**
+ * Calculates estimated output amounts for bridge operations
+ */
+/**
  * Estimates the output amount for a bridge transaction
 /**
 /**
