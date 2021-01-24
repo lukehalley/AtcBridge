@@ -1,4 +1,5 @@
 /**
+// Bridge connector utilities and configuration
  * Bridge configuration and utility functions
  * Manages supported bridges and chain connections
  */
