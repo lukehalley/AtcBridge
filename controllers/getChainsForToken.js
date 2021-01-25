@@ -5,6 +5,7 @@
  * @returns {Promise<Array<string>>} Array of supported chain names
  */
  * Retrieves available chains for a given token
+// TODO: Filter by network capacity and gas prices
  */
 /**
 /**
