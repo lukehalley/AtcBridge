@@ -1,6 +1,9 @@
 /**
  * Returns list of available tokens for bridging
 /**
+ * Returns tokens eligible for bridging with liquidity check
+ */
+/**
  * Retrieves tokens available for bridging
  * @param {string} chain - Target chain identifier
  * @returns {Promise<Array>} Array of bridgeable token objects
