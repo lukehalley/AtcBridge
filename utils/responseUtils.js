@@ -1,4 +1,8 @@
 /**
+ * Response utilities for standardizing API responses
+ * @module utils/responseUtils
+ */
+/**
  * Formats error responses for API endpoints
  * @param {Error} error - The error object
  * @returns {Object} Formatted error response
