@@ -9,6 +9,7 @@
  */
  */
 // Validates chain configuration and network compatibility
+// Validates chain configuration before processing swap operations
 /**
 /**
 // Validate chain is supported by bridge providers
