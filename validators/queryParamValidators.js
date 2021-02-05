@@ -1,4 +1,9 @@
 /**
+ * Query parameter validators for API endpoints
+ * Ensures input data conforms to expected formats
+ * @module validators/queryParamValidators
+ */
+/**
  * Query parameter validators for API request validation
  */
 /**
