@@ -1,4 +1,9 @@
 /**
+ * Controller for retrieving swap token mappings
+ * Maps available tokens to swap pairs
+ * @module controllers/getSwapTokenMap
+ */
+/**
 /**
  * Maps tokens and their swap availability across chains
  */
