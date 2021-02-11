@@ -12,6 +12,7 @@
  */
  */
 /**
+// Validates if requested swap pair is supported on target chain
  * Checks if a swap route is supported between two tokens
  * @param {string} fromToken - Source token address
  * @param {string} toToken - Destination token address
