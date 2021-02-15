@@ -17,6 +17,7 @@
 /**
 /**
  * Estimates the output amount for a swap transaction
+// Calculates expected output amount accounting for slippage and fees
  * @param {string} inputToken - Input token address
  * @param {string} outputToken - Output token address
  * @param {string} inputAmount - Amount in smallest unit
