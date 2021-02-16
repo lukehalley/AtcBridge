@@ -1,4 +1,9 @@
 /**
+ * Generates unsigned swap transactions for user signing
+ * Constructs transaction data with proper encoding and validation
+ * @module controllers/generateSwapTransaction
+ */
+/**
  * Generates unsigned swap transaction
  * @param {Object} params - Swap parameters
  * @param {string} params.tokenIn - Source token
