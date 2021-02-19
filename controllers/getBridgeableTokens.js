@@ -1,4 +1,9 @@
 /**
+ * Controller for retrieving tokens eligible for bridging
+ * Filters tokens based on bridge contract availability
+ * @module controllers/getBridgeableTokens
+ */
+/**
  * Returns list of available tokens for bridging
 /**
  * Returns tokens eligible for bridging with liquidity check
