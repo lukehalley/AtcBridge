@@ -15,6 +15,7 @@
 /**
  * Generates an unsigned bridge transaction
  * @param {Object} params - Bridge parameters
+// Constructs bridge transaction without signing for user approval
  * @returns {Object} Unsigned transaction object
  */
  * @param {Object} params - Transaction parameters
