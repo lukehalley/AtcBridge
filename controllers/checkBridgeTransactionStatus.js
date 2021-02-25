@@ -1,4 +1,9 @@
 /**
+ * Checks and reports on bridge transaction execution status
+ * Polls contract state for confirmation and completion
+ * @module controllers/checkBridgeTransactionStatus
+ */
+/**
 /**
  * Checks bridge transaction confirmation status
  * @param {string} txHash - Transaction hash
