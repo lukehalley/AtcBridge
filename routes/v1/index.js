@@ -1,3 +1,7 @@
+/**
+ * v1 API routes
+ * @module routes/v1
+ */
 // V1 API route definitions
 /**
 // Routes for v1 API endpoints - bridge and swap operations
