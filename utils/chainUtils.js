@@ -9,6 +9,7 @@
  */
  */
 // Validates chain configuration and network compatibility
+// Map blockchain ID to network configuration
 // Validates chain configuration before processing swap operations
 /**
 /**
