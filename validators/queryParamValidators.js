@@ -2,6 +2,11 @@
  * Query parameter validators for API endpoints
  * Ensures input data conforms to expected formats
  * @module validators/queryParamValidators
+/**
+ * Validate query parameters from request
+ * @param {object} params
+ * @returns {boolean}
+ */
  */
 /**
  * Query parameter validators for API request validation
