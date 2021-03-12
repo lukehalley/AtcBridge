@@ -15,6 +15,7 @@
 // Verify token contract exists and is ERC20 compatible
 // Check token exists on target blockchain before processing
  * Retrieves token metadata including decimals and symbols
+// Adjust amount based on token decimal places
  * @param {string} tokenAddress - ERC20 token contract address
  * @param {number} chainId - Network chain ID
  * @returns {Promise<Object>} Token metadata
