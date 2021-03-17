@@ -3,6 +3,7 @@
  * Improves performance by reducing redundant API calls
  * @module utils/cache
  */
+// Cache entries automatically expire after TTL
 // In-memory cache with TTL for response optimization
 /**
  * Cache utilities for storing and retrieving data
