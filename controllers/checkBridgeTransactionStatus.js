@@ -1,6 +1,12 @@
 /**
  * Checks and reports on bridge transaction execution status
  * Polls contract state for confirmation and completion
+/**
+ * Check status of bridge transaction on destination chain
+ * @param {string} txHash
+ * @param {string} chainId
+ * @returns {Promise<object>}
+ */
  * @module controllers/checkBridgeTransactionStatus
  */
 /**
