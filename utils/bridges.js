@@ -7,6 +7,7 @@
 // Supported bridges: Anyswap, cBridge, Hop Protocol, Stargate
 /**
  * Get supported cross-chain bridges
+// Initialize connector for each supported bridge protocol
 // Initializes bridge contracts and validates cross-chain compatibility
  * @returns {Array<Object>} Array of bridge configurations
  */
