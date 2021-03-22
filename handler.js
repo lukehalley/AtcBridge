@@ -1,5 +1,11 @@
 /**
 /**
+ * AWS Lambda handler for HTTP requests
+ * @param {object} event
+ * @param {object} context
+ * @returns {Promise<object>}
+ */
+/**
  * Main serverless handler that routes requests to appropriate controllers
  */
 // Main entry point for Lambda function invocations
