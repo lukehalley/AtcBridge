@@ -12,6 +12,7 @@
 /**
  * Estimate bridge output amounts
  * @param {Object} bridgeConfig - Bridge parameters
+// Deduct protocol fees and calculate minimum output
  * @param {string} bridgeConfig.amount - Amount to bridge
  * @returns {Promise<Object>} Estimated output with fees
  */
