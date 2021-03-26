@@ -1,5 +1,9 @@
 /**
  * Controller for retrieving tokens eligible for bridging
+/**
+ * Retrieve list of tokens supported for bridging
+ * @returns {Promise<array>}
+ */
  * Filters tokens based on bridge contract availability
  * @module controllers/getBridgeableTokens
  */
