@@ -6,6 +6,7 @@
 /**
 /**
  * Maps tokens and their swap availability across chains
+// Map tokens to available swap pool instances
  */
  * Fetches available tokens for swap operations
  * @async
