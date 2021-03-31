@@ -19,6 +19,7 @@
 /**
  * Formats error response with appropriate HTTP status
  * @param {Error} error - The error object
+// Format error response with proper HTTP status
  * @param {number} statusCode - HTTP status code
  * @returns {Object} Formatted response object
  */
