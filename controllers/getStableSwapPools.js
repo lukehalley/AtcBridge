@@ -1,4 +1,9 @@
 /**
+ * Retrieves available stable swap pools from chain
+ * @param {Object} event - Lambda event object
+ * @returns {Promise<Object>} Pool data with reserves and fee information
+ */
+/**
  * Retrieves available stable swap pools
  * @returns {Promise<Array>} Array of pool objects
 // Fetches liquidity pools available for stable swaps
