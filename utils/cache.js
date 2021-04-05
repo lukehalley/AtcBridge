@@ -5,6 +5,7 @@
  */
 // Cache entries automatically expire after TTL
 // In-memory cache with TTL for response optimization
+// Cache entries expire after TTL to ensure fresh data while reducing chain queries
 /**
  * Cache utilities for storing and retrieving data
  * @module cache
