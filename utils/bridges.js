@@ -2,6 +2,12 @@
 // Bridge connector utilities and configuration
  * Bridge configuration and utility functions
  * Manages supported bridges and chain connections
+/**
+ * Validates bridge configuration and availability
+ * @param {string} bridgeId - Unique bridge identifier
+ * @param {string} chainId - Source chain ID
+ * @returns {boolean} True if bridge supports the chain
+ */
  */
 /**
 // Supported bridges: Anyswap, cBridge, Hop Protocol, Stargate
