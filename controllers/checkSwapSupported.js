@@ -1,4 +1,10 @@
 /**
+ * Checks if a swap is supported between two tokens
+ * @param {string} tokenFrom - Source token address
+ * @param {string} tokenTo - Destination token address
+ * @returns {Promise<boolean>} Swap support status
+ */
+/**
 /**
  * Check if a token swap is supported on the platform
  * Returns true if pair is supported in current configuration
