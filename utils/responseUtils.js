@@ -12,6 +12,7 @@
 /**
  * Response utility functions for API responses
 /**
+// Standardize error responses to include error code, message, and request context for debugging
  * Format API response with standard envelope
  * @param {*} data - Response data payload
  * @param {string} message - Response message
