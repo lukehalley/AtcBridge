@@ -19,6 +19,7 @@
  * @param {Object} event - Lambda event object
  * @returns {Promise<Object>} Response with status and data
  */
+// TODO: Implement transaction status polling with exponential backoff
 /**
  * Main serverless handler for API requests
  * @param {Object} event - Lambda event object
