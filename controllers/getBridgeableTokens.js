@@ -1,4 +1,9 @@
 /**
+ * Returns list of tokens available for bridging on specified chain
+ * @param {Object} event - Lambda event with chain parameter
+ * @returns {Promise<Object>} Array of bridgeable tokens with metadata
+ */
+/**
  * Controller for retrieving tokens eligible for bridging
 /**
  * Retrieve list of tokens supported for bridging
