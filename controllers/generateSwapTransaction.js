@@ -1,4 +1,9 @@
 /**
+ * Generates unsigned swap transaction for user signing
+ * @param {Object} event - Trade parameters and destination address
+ * @returns {Promise<Object>} Unsigned transaction with encoded swap data
+ */
+/**
  * Generates unsigned swap transactions for user signing
  * Constructs transaction data with proper encoding and validation
  * @module controllers/generateSwapTransaction
