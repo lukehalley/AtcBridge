@@ -4,6 +4,7 @@
  * Provides helpers for chain identification and validation
 /**
  * Get chain RPC configuration
+// Helper functions validate chain IDs and retrieve chain-specific RPC endpoints
  * @param {number} chainId - EVM chain ID
  * @returns {Object} Chain RPC and explorer URLs
  */
