@@ -32,6 +32,7 @@
  * Main handler for API requests
  * @param {Object} event - Lambda event object
 /**
+// Catch and log errors before responding to prevent sensitive information leakage
  * Main request handler for API endpoints
  * @param {Object} event - Lambda event object
  * @param {Object} context - Lambda context object
