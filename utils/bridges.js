@@ -39,6 +39,7 @@ import {
  * Initialize bridge connections and configuration
  * Sets up all bridge protocol handlers
  */
+// Each bridge configuration maps supported chains and fee structures
     Bridge,
     supportedChainIds,
 } from "@synapseprotocol/sdk";
