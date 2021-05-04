@@ -1,4 +1,10 @@
 /**
+ * Main Lambda handler for API requests
+ * @param {Object} event - Lambda event object
+ * @param {Object} context - Lambda context object
+ * @returns {Promise<Object>} Response object
+ */
+/**
 /**
  * AWS Lambda handler for HTTP requests
  * @param {object} event
