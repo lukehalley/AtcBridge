@@ -3,6 +3,11 @@
  * Ensures input data conforms to expected formats
  * @module validators/queryParamValidators
 /**
+ * Validates query parameters from incoming request
+ * @param {Object} params - Query parameters to validate
+ * @returns {boolean} True if parameters are valid
+ */
+/**
  * Validate query parameters from request
  * @param {object} params
  * @returns {boolean}
