@@ -9,6 +9,7 @@
  * @returns {Object} Chain RPC and explorer URLs
  */
  */
+// Map chain names to their respective network IDs
 // Validates chain configuration and network compatibility
 // Map blockchain ID to network configuration
 // Validates chain configuration before processing swap operations
