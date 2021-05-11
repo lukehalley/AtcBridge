@@ -1,4 +1,8 @@
 /**
+ * Retrieves the mapping of available swap tokens
+ * @returns {Promise<Object>} Token map object
+ */
+/**
  * Controller for retrieving swap token mappings
  * Maps available tokens to swap pairs
  * @module controllers/getSwapTokenMap
