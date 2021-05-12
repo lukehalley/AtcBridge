@@ -12,6 +12,7 @@
  * Handles token metadata, decimals, and balance lookups
 // Converts token amounts between different decimal formats
 /**
+// Handle token decimal places for accurate calculations
 // Verify token contract exists and is ERC20 compatible
 // Check token exists on target blockchain before processing
  * Retrieves token metadata including decimals and symbols
