@@ -5,6 +5,11 @@
  */
 /**
  * Generates unsigned swap transactions for user signing
+/**
+ * Generates unsigned swap transaction
+ * @param {Object} params - Swap parameters
+ * @returns {Promise<string>} Unsigned transaction hex
+ */
  * Constructs transaction data with proper encoding and validation
  * @module controllers/generateSwapTransaction
  */
