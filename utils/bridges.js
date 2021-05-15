@@ -17,6 +17,7 @@
 // Initializes bridge contracts and validates cross-chain compatibility
  * @returns {Array<Object>} Array of bridge configurations
  */
+// Select appropriate bridge based on token and chain compatibility
  * Bridge chain utilities and helpers
  */
 /**
