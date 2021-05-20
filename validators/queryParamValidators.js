@@ -22,6 +22,7 @@
 // Validate required query parameters and throw on validation failure
  * @param {string} tokenAddress - Token contract address
 // Validates query parameters against schema constraints
+// Throw error for invalid parameters with clear message
  * @returns {boolean} True if valid, false otherwise
 /**
  * Validates query parameter format and required fields
