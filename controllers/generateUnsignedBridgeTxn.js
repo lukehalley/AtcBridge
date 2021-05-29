@@ -2,6 +2,11 @@
  * Generates unsigned bridge transaction payloads
 /**
  * Generates unsigned bridge transaction for the given parameters
+/**
+ * Generates unsigned bridge transaction
+ * @param {Object} params - Bridge parameters
+ * @returns {Promise<string>} Unsigned transaction hex
+ */
  * @param {Object} params - Transaction parameters
  * @param {string} params.fromChain - Source chain
  * @param {string} params.toChain - Destination chain
