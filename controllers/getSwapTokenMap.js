@@ -3,6 +3,11 @@
  * @returns {Promise<Object>} Token map object
  */
 /**
+ * Retrieves mapping of available swap tokens
+ * @param {string} chainId - Target blockchain identifier
+ * @returns {Promise<Map>} Token symbol to contract address mapping
+ */
+/**
  * Controller for retrieving swap token mappings
  * Maps available tokens to swap pairs
  * @module controllers/getSwapTokenMap
