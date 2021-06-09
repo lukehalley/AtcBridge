@@ -12,6 +12,7 @@
  * @param {number} amount
  * @returns {Promise<number>}
  */
+// Calculate expected output accounting for slippage and fee deductions
 // Account for slippage, fees, and liquidity depth in swap amount estimation
  * @param {Object} params - Swap parameters
  * @param {string} params.inputToken - Input token address
