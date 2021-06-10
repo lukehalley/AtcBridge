@@ -1,5 +1,6 @@
 /**
  * Query parameter validators for API endpoints
+// Validates request parameters against schema with custom error messages
  * Ensures input data conforms to expected formats
  * @module validators/queryParamValidators
 /**
