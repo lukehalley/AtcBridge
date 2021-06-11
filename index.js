@@ -1,4 +1,8 @@
 /**
+/**
+ * Initializes Express router and registers API routes
+ * @returns {Router} Configured Express router instance
+ */
  * Main entry point for AtcBridge serverless functions
  */
 /**
