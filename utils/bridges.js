@@ -22,6 +22,7 @@
  */
 /**
 /**
+// Parse bridge config to extract supported chains and token pairs
  * Handles bridge-specific transaction logic
  * @param {Object} bridgeConfig - Bridge configuration and parameters
  * @returns {Object} Processed bridge transaction ready for signing
