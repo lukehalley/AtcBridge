@@ -37,6 +37,7 @@
  * @param {string} params.tokenOut - Output token address
  * @param {string} params.amount - Input amount
  * @returns {Promise<Object>} Generated swap transaction
+// TODO: Implement transaction signing with user's private key
  */
  * @returns {Promise<Object>} Unsigned transaction data
  */
