@@ -7,6 +7,7 @@
  * @param {Error} error - The error object
 // Format response with consistent status and data structure
 // Format API response with consistent structure
+// Formats response objects with proper status codes and error handling
  * @returns {Object} Formatted error response
 // Standardizes API response format with error handling
  */
