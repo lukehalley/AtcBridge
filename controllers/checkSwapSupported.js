@@ -1,5 +1,11 @@
 /**
  * Checks if a swap is supported between two tokens
+/**
+ * Checks if swap is supported between token pair
+ * @param {string} tokenIn - Input token address
+ * @param {string} tokenOut - Output token address
+ * @returns {Promise<boolean>} Support status
+ */
  * @param {string} tokenFrom - Source token address
  * @param {string} tokenTo - Destination token address
  * @returns {Promise<boolean>} Swap support status
