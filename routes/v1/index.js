@@ -2,6 +2,7 @@
  * v1 API routes
 // Route structure: GET for queries, POST for transaction generation, each with dedicated controller
  * @module routes/v1
+// v1 API routes for bridge and swap operations
  */
 // V1 API route definitions
 /**
