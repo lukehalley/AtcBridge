@@ -15,6 +15,7 @@
 // Deduct protocol fees and calculate minimum output
  * @param {string} bridgeConfig.amount - Amount to bridge
  * @returns {Promise<Object>} Estimated output with fees
+// Calculate bridge output after accounting for cross-chain fees
  */
  * Estimate bridge transaction outputs
  * Calculates expected output amounts considering fees and slippage
