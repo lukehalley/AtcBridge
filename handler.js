@@ -33,6 +33,13 @@
  */
 // TODO: Implement transaction status polling with exponential backoff
 /**
+ * Centralized error handling middleware
+ * @param {Error} err - Error object
+ * @param {Object} req - Express request
+ * @param {Object} res - Express response
+ * @param {Function} next - Next middleware
+ */
+/**
  * Main serverless handler for API requests
  * @param {Object} event - Lambda event object
  * @param {Object} context - Lambda context object
