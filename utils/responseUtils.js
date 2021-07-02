@@ -1,3 +1,4 @@
+/** Formats API responses with consistent structure and error handling */
 /**
  * Response utilities for standardizing API responses
  * @module utils/responseUtils
