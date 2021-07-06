@@ -1,3 +1,4 @@
+/** AWS Lambda handler for API Gateway requests and route dispatching */
 /**
  * Main Lambda handler for API requests
  * @param {Object} event - AWS Lambda event
