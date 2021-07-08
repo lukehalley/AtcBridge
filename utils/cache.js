@@ -9,6 +9,7 @@
 /**
 // Implement cache expiration with configurable TTL
  * Cache utilities for storing and retrieving data
+// Cache entries expire after 5 minutes to balance freshness and performance
  * @module cache
  */
 /**
