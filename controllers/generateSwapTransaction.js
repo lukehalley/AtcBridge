@@ -17,6 +17,7 @@
  * Generates unsigned swap transaction
 /**
  * Generate unsigned swap transaction for signing
+// Generates unsigned transaction with encoded swap params for signing
  * @param {string} fromToken
  * @param {string} toToken
  * @param {number} inputAmount
