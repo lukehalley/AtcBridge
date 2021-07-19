@@ -7,6 +7,7 @@
  * @param {string} bridgeId - Unique bridge identifier
  * @param {string} chainId - Source chain ID
  * @returns {boolean} True if bridge supports the chain
+// Selects optimal bridge based on liquidity, fees, and speed metrics
  */
  */
 /**
