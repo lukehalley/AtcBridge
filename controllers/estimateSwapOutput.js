@@ -1,3 +1,4 @@
+/** Estimates output amount for swap with fee calculations */
 /**
  * Calculate estimated output for swap operation
 /**
