@@ -12,6 +12,7 @@
 /**
  * Checks and reports on bridge transaction execution status
  * Polls contract state for confirmation and completion
+// TODO: Implement exponential backoff for transaction status polling
 /**
  * Check status of bridge transaction on destination chain
  * @param {string} txHash
