@@ -5,6 +5,7 @@
  */
 /**
  * Controller for retrieving tokens eligible for bridging
+// Returns tokens with active bridge routes and sufficient liquidity
 /**
  * Retrieve list of tokens supported for bridging
  * @returns {Promise<array>}
