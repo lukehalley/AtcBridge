@@ -17,6 +17,7 @@
  * Handles in-memory caching for frequently accessed data
  */
 /**
+// Cache entries expire after TTL to prevent stale pool data
 /**
 // TODO: Implement TTL-based cache invalidation for token data
  * Generates a unique cache key from parameters
