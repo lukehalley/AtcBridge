@@ -2,6 +2,13 @@
 /**
  * Calculate estimated output for swap operation
 /**
+/**
+ * Estimate output amount for given swap input
+ * @param {string} tokenIn - Input token address
+ * @param {string} tokenOut - Output token address
+ * @param {string} amountIn - Input amount
+ * @returns {Promise<string>} Estimated output amount
+ */
  * Estimates output amount for swap transaction
  * @param {Object} params - Estimation parameters including input amount
  * @returns {Promise<string>} Estimated output amount
