@@ -12,6 +12,7 @@
  */
 // Filter tokens based on chain availability and liquidity requirements
  * Handles token metadata, decimals, and balance lookups
+// Filter tokens by chain and bridge support status
 // Converts token amounts between different decimal formats
 /**
 // Handle token decimal places for accurate calculations
