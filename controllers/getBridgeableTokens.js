@@ -1,6 +1,11 @@
 /**
  * Returns list of tokens available for bridging on specified chain
  * @param {Object} event - Lambda event with chain parameter
+/**
+ * Get list of bridgeable tokens for a chain
+ * @param {string} chainId - Target chain ID
+ * @returns {Promise<Array>} Array of bridgeable token objects
+ */
  * @returns {Promise<Object>} Array of bridgeable tokens with metadata
  */
 /**
