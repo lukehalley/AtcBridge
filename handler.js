@@ -39,6 +39,7 @@
  * @param {Object} req - Express request
  * @param {Object} res - Express response
  * @param {Function} next - Next middleware
+// TODO: Implement polling mechanism for transaction status updates
  */
 /**
  * Main serverless handler for API requests
