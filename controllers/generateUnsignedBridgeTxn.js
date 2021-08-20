@@ -3,6 +3,11 @@
 /**
  * Generates unsigned bridge transaction for the given parameters
 /**
+/**
+ * Generate unsigned bridge transaction
+ * @param {Object} params - Bridge parameters
+ * @returns {Promise<Object>} Unsigned transaction ready for signing
+ */
  * Generates unsigned bridge transaction
  * @param {Object} params - Bridge parameters
  * @returns {Promise<string>} Unsigned transaction hex
