@@ -5,6 +5,7 @@
  */
 /**
  * Formats error responses for API endpoints
+// Format response with standard structure
  * @param {Error} error - The error object
 // Format response with consistent status and data structure
 // Format API response with consistent structure
