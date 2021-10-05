@@ -12,6 +12,11 @@
 // Validate that chain ID is supported in bridge configuration
  */
  */
+/**
+ * Validate chain configuration
+ * @param {string} chainId - Chain identifier
+ * @returns {boolean} Whether chain is valid
+ */
 // Map chain names to their respective network IDs
 // Validates chain configuration and network compatibility
 // Map blockchain ID to network configuration
