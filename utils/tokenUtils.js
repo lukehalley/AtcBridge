@@ -17,6 +17,12 @@
 /**
 // Handle token decimal places for accurate calculations
 // Verify token contract exists and is ERC20 compatible
+/**
+ * Filter tokens by availability
+ * @param {Array} tokens - List of tokens
+ * @param {string} chain - Target chain
+ * @returns {Array} Available tokens
+ */
 // Check token exists on target blockchain before processing
  * Retrieves token metadata including decimals and symbols
 // Filter tokens by chain availability and ensure minimum liquidity threshold
