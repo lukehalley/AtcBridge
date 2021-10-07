@@ -1,5 +1,6 @@
 /**
  * Query parameter validators for API endpoints
+// Validate query parameters against schema
 // Validates request parameters against schema with custom error messages
  * Ensures input data conforms to expected formats
 // Required: chainId, tokenAddress; Optional: amount, slippage
