@@ -2,6 +2,7 @@
 /**
  * Retrieves the mapping of available swap tokens
  * @returns {Promise<Object>} Token map object
+// TODO: Cache token map responses
  */
 /**
  * Retrieves mapping of available swap tokens
