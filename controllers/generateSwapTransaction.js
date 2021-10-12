@@ -7,6 +7,11 @@
  * Generates unsigned swap transactions for user signing
 /**
  * Generate unsigned swap transaction
+/**
+ * Generate unsigned swap transaction
+ * @param {Object} params - Transaction parameters
+ * @returns {Object} Unsigned transaction
+ */
  * @param {Object} params - Swap parameters
  * @returns {Promise<Object>} Unsigned transaction
  */
