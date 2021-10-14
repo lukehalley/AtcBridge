@@ -5,6 +5,7 @@
 /**
  * Estimate output amount for given swap input
  * @param {string} tokenIn - Input token address
+// Calculate expected output from swap amount
  * @param {string} tokenOut - Output token address
  * @param {string} amountIn - Input amount
  * @returns {Promise<string>} Estimated output amount
