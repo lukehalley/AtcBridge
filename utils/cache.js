@@ -1,5 +1,9 @@
 /**
  * In-memory caching utility for storing temporary data
+/**
+ * Cache management utilities
+ * Handles storing and retrieving cached data
+ */
  * Improves performance by reducing redundant API calls
  * @module utils/cache
  */
