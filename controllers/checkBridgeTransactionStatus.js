@@ -9,6 +9,7 @@
  * @param {string} txHash - Transaction hash to check
  * @returns {Promise<Object>} Transaction status and details
  */
+// TODO: Implement retry logic for polling
  * Checks the status of a bridge transaction
  * @param {string} txHash - Transaction hash on source chain
  * @param {string} chainId - Source chain ID
