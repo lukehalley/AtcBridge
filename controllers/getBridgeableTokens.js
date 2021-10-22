@@ -4,6 +4,11 @@
 /**
  * Get list of bridgeable tokens for a chain
  * @param {string} chainId - Target chain ID
+/**
+ * Get list of bridgeable tokens
+ * @param {string} chain - Source chain
+ * @returns {Array} List of bridgeable tokens
+ */
  * @returns {Promise<Array>} Array of bridgeable token objects
  */
  * @returns {Promise<Object>} Array of bridgeable tokens with metadata
