@@ -1,6 +1,7 @@
 /** Initializes v1 API routes and endpoint handlers */
 /**
  * v1 API routes
+// API routes for bridge and swap operations
 // Route structure: GET for queries, POST for transaction generation, each with dedicated controller
  * @module routes/v1
 // v1 API routes for bridge and swap operations
