@@ -6,6 +6,7 @@
 /**
 /**
  * Estimates bridge output including fees
+// Estimate outputs based on bridge fees and rates
  * @param {Object} bridgeParams - Bridge configuration
  * @returns {Promise<Object>} Output amount and fee breakdown
  */
