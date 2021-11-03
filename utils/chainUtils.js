@@ -9,6 +9,7 @@
 // Converts chain identifiers to normalized format for API consistency
  * @param {number} chainId - EVM chain ID
  * @returns {Object} Chain RPC and explorer URLs
+// Validates that the chain ID is supported and configured
 // Validate that chain ID is supported in bridge configuration
  */
  */
