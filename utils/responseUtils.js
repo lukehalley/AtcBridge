@@ -1,5 +1,11 @@
 /** Formats API responses with consistent structure and error handling */
 /**
+/**
+ * Formats error responses with consistent structure
+ * @param {number} statusCode - HTTP status code
+ * @param {string} message - Error message
+ * @returns {Object} Formatted error response
+ */
  * Response utilities for standardizing API responses
  * @module utils/responseUtils
  */
