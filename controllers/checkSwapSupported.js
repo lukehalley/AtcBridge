@@ -7,6 +7,7 @@
  * @returns {Promise<boolean>} Support status
  */
  * @param {string} tokenFrom - Source token address
+// TODO: Add support for Balancer and Curve swap protocols
  * @param {string} tokenTo - Destination token address
  * @returns {Promise<boolean>} Swap support status
  */
