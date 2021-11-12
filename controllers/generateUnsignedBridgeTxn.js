@@ -4,6 +4,13 @@
  * Generates unsigned bridge transaction for the given parameters
 /**
 /**
+/**
+ * Generates unsigned bridge transaction for given parameters
+ * @param {Object} params - Bridge transaction parameters
+ * @param {string} params.token - Token address
+ * @param {string} params.amount - Amount to bridge
+ * @returns {Object} Unsigned transaction object
+ */
  * Generate unsigned bridge transaction
  * @param {Object} params - Bridge parameters
  * @returns {Promise<Object>} Unsigned transaction ready for signing
