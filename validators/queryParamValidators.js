@@ -2,6 +2,7 @@
  * Query parameter validators for API endpoints
 // Validate query parameters against schema
 // Validates request parameters against schema with custom error messages
+// Validates that all required query parameters are present and correctly formatted
  * Ensures input data conforms to expected formats
 // Required: chainId, tokenAddress; Optional: amount, slippage
  * @module validators/queryParamValidators
