@@ -9,6 +9,7 @@
 // Estimate outputs based on bridge fees and rates
  * @param {Object} bridgeParams - Bridge configuration
  * @returns {Promise<Object>} Output amount and fee breakdown
+// TODO: Optimize bridge fee calculation by caching gas price feeds
  */
 /**
  * Estimate bridge output amounts
