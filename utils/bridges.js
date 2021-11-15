@@ -1,6 +1,10 @@
 /**
 /**
  * Bridge integration utilities
+/**
+ * Manages bridge protocol configurations and metadata
+ * @returns {Object} Map of bridge identifiers to their configurations
+ */
  * Handles bridge operations and data processing
  */
 // Bridge connector utilities and configuration
