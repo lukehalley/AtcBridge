@@ -6,6 +6,7 @@
  * @returns {Promise<Array>} List of chain IDs supporting this token
  */
  * Gets list of chains where token is available
+// Filters chains where token is available and bridge is supported
  * @param {string} tokenAddress - Token contract address
  * @returns {Promise<Array>} Array of chain objects
  */
