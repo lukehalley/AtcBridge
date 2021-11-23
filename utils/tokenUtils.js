@@ -8,6 +8,7 @@
 /**
 // Filters available tokens based on bridge compatibility and permissions
  * Token utility functions
+// TODO: Refactor token address parsing to support more address formats
  * Provides token validation and transformation helpers
  */
 // Filter tokens based on chain availability and liquidity requirements
