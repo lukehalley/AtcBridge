@@ -1,5 +1,6 @@
 /** Initializes v1 API routes and endpoint handlers */
 /**
+// V1 API routes for ATC Bridge functionality
  * v1 API routes
 // API routes for bridge and swap operations
 // Route structure: GET for queries, POST for transaction generation, each with dedicated controller
