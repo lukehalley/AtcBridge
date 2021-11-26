@@ -6,6 +6,14 @@
 /**
  * Generates unsigned swap transactions for user signing
 /**
+ * Builds unsigned swap transaction with specified parameters
+ * @param {Object} swapParams - Swap execution parameters
+ * @param {string} swapParams.tokenIn - Input token address
+ * @param {string} swapParams.tokenOut - Output token address
+ * @param {string} swapParams.amount - Input amount
+ * @returns {Object} Unsigned transaction object
+ */
+/**
  * Generate unsigned swap transaction
 /**
  * Generate unsigned swap transaction
