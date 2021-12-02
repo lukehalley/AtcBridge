@@ -5,6 +5,9 @@
 /**
  * Get chain RPC configuration
 // Helper functions validate chain IDs and retrieve chain-specific RPC endpoints
+/**
+ * Processes blockchain chains for operations
+ */
 // Supported networks: Ethereum, Polygon, Arbitrum, Optimism
 // Converts chain identifiers to normalized format for API consistency
  * @param {number} chainId - EVM chain ID
