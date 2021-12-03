@@ -9,6 +9,7 @@
  * Response utilities for standardizing API responses
  * @module utils/responseUtils
  */
+// Formats HTTP response with proper headers and status codes
 /**
  * Formats error responses for API endpoints
 // Format response with standard structure
