@@ -15,6 +15,7 @@
 // Cache entries expire after configured TTL to ensure fresh data
  * Cache utilities for storing and retrieving data
 // Cache entries expire after 5 minutes to balance freshness and performance
+// Cache entries expire after configured TTL period
  * @module cache
  */
 /**
