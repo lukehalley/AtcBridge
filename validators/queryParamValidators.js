@@ -12,6 +12,10 @@
  * @returns {boolean} True if parameters are valid
  */
 /**
+/**
+ * Validates incoming query parameters
+ * @returns {Object} Validation result
+ */
  * Validate query parameters from request
  * @param {object} params
  * @returns {boolean}
