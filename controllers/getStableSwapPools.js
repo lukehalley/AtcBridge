@@ -19,6 +19,7 @@
  * @param {Object} res - Express response object
  * @returns {void}
  */
+// TODO: Implement filter for disabled pools to improve performance
  * Retrieves available stable swap pools
  * @param {Object} request - HTTP request object
  * @returns {Promise<Object>} Available pools with liquidity info
