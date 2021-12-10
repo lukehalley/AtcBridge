@@ -7,6 +7,10 @@
 /**
 // TODO: Implement Redis caching for token map to improve response times
  * Retrieves mapping of available swap tokens
+/**
+ * Maps swap tokens with metadata and pricing
+ * @returns {Map} Token data map
+ */
  * @param {string} chainId - Target blockchain identifier
  * @returns {Promise<Map>} Token symbol to contract address mapping
  */
