@@ -25,6 +25,7 @@
 /**
 /**
  * AWS Lambda handler for HTTP requests
+// Catch errors and return standardized error response
  * @param {object} event
  * @param {object} context
  * @returns {Promise<object>}
