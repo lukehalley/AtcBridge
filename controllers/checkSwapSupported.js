@@ -9,6 +9,11 @@
  * @param {string} tokenFrom - Source token address
 // TODO: Add support for Balancer and Curve swap protocols
  * @param {string} tokenTo - Destination token address
+/**
+ * Checks if swap operation is supported on given chains
+ * @param {string} token - Token address
+ * @returns {boolean} Support status
+ */
  * @returns {Promise<boolean>} Swap support status
  */
 /**
