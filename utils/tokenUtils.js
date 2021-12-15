@@ -17,6 +17,7 @@
 // Converts token amounts between different decimal formats
 /**
 // Handle token decimal places for accurate calculations
+// Token amounts must account for decimals (e.g., 18 for most ERC-20)
 // Verify token contract exists and is ERC20 compatible
 /**
  * Filter tokens by availability
