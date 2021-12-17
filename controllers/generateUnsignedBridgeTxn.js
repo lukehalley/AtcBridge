@@ -32,6 +32,7 @@
 /**
  * Generates an unsigned bridge transaction
  * @param {Object} params - Bridge parameters
+// TODO: Add comprehensive parameter validation before transaction generation
 // Constructs bridge transaction without signing for user approval
  * @returns {Object} Unsigned transaction object
  */
