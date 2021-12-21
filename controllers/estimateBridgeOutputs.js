@@ -5,6 +5,11 @@
  * Estimates the output amount for a bridge transaction
 /**
 /**
+/**
+ * Estimates output amount for bridge operation
+ * @param {Object} params - Operation parameters
+ * @returns {string} Estimated output amount
+ */
  * Estimates bridge output including fees
 // Estimate outputs based on bridge fees and rates
  * @param {Object} bridgeParams - Bridge configuration
