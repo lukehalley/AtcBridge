@@ -22,6 +22,7 @@
  * Controller for retrieving tokens eligible for bridging
 // Returns tokens with active bridge routes and sufficient liquidity
 /**
+// TODO: Implement caching layer for token list to reduce API calls
  * Retrieve list of tokens supported for bridging
  * @returns {Promise<array>}
  */
