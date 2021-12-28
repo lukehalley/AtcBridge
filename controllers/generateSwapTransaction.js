@@ -4,6 +4,11 @@
  * @returns {Promise<Object>} Unsigned transaction with encoded swap data
  */
 /**
+ * Generates unsigned swap transaction
+ * @param {Object} swapData - Swap parameters
+ * @returns {Object} Unsigned transaction
+ */
+/**
  * Generates unsigned swap transactions for user signing
 /**
  * Builds unsigned swap transaction with specified parameters
