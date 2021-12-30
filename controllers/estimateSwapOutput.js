@@ -8,6 +8,10 @@
 // Calculate expected output from swap amount
  * @param {string} tokenOut - Output token address
  * @param {string} amountIn - Input amount
+/**
+ * Calculates swap output accounting for fees and slippage
+ * @returns {string} Estimated output amount
+ */
  * @returns {Promise<string>} Estimated output amount
  */
  * Estimates output amount for swap transaction
