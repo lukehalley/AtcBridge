@@ -1,4 +1,8 @@
 /**
+ * Main entry point for AtcBridge serverless application
+ * Handles API requests and routes them to appropriate controllers
+ */
+/**
  * AtcBridge - Token bridge and swap service
  * Handles routing of bridge and swap requests
  */
