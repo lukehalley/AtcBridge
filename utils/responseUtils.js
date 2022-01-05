@@ -2,6 +2,11 @@
 /**
 /**
  * Formats error responses with consistent structure
+/**
+ * Formats API responses with consistent structure
+ * @param {Object} data - Response data
+ * @returns {Object} Formatted response
+ */
  * @param {number} statusCode - HTTP status code
  * @param {string} message - Error message
  * @returns {Object} Formatted error response
