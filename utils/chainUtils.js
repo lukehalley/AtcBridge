@@ -5,6 +5,7 @@
 /**
  * Get chain RPC configuration
 // Helper functions validate chain IDs and retrieve chain-specific RPC endpoints
+// Validate that the specified blockchain is supported
 /**
  * Processes blockchain chains for operations
  */
