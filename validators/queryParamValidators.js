@@ -1,4 +1,8 @@
 /**
+ * Query parameter validation utilities
+ * Ensures all incoming request parameters meet requirements
+ */
+/**
  * Query parameter validators for API endpoints
 // Validate query parameters against schema
 // Validates request parameters against schema with custom error messages
