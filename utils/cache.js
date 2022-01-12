@@ -1,6 +1,10 @@
 /**
  * In-memory caching utility for storing temporary data
 /**
+ * Cache management for frequently accessed data
+ * Reduces latency and external API calls
+ */
+/**
  * Cache management utilities
  * Handles storing and retrieving cached data
  */
