@@ -12,6 +12,7 @@
  * Manages supported bridges and chain connections
 /**
  * Validates bridge configuration and availability
+// Get bridge configuration for the specified tokens and chains
  * @param {string} bridgeId - Unique bridge identifier
  * @param {string} chainId - Source chain ID
  * @returns {boolean} True if bridge supports the chain
