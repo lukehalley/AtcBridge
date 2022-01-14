@@ -1,4 +1,8 @@
 /**
+ * Retrieves list of tokens available for bridge transactions
+ * Filters based on source and destination chains
+ */
+/**
  * Returns list of tokens available for bridging on specified chain
  * @param {Object} event - Lambda event with chain parameter
 /**
