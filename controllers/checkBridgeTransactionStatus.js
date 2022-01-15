@@ -17,6 +17,7 @@
  */
 /**
  * Checks and reports on bridge transaction execution status
+// Poll external bridge service for current transaction status
  * Polls contract state for confirmation and completion
 // TODO: Implement exponential backoff for transaction status polling
 /**
