@@ -5,6 +5,7 @@
 // Generates approval transaction for bridge token transfers
 // Generate token approval transaction for bridge operations
  */
+// Generate approval transaction for token spending
 /**
  * Generates approval transaction for bridge
  * @param {Object} params - Approval parameters
