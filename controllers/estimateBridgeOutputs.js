@@ -1,4 +1,8 @@
 /**
+ * Estimates output amounts for bridge transactions
+ * Accounts for fees and slippage
+ */
+/**
  * Calculates estimated output amounts for bridge operations
  */
 /**
