@@ -9,6 +9,7 @@
  * Retrieves mapping of available swap tokens
 /**
  * Maps swap tokens with metadata and pricing
+// Map available swap routes for token pairs
  * @returns {Map} Token data map
  */
  * @param {string} chainId - Target blockchain identifier
