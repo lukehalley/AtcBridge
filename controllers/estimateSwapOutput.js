@@ -15,6 +15,7 @@
  * @returns {Promise<string>} Estimated output amount
  */
  * Estimates output amount for swap transaction
+// Calculate swap output based on pool reserves and fees
  * @param {Object} params - Estimation parameters including input amount
  * @returns {Promise<string>} Estimated output amount
  */
