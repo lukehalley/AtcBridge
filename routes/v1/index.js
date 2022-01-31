@@ -1,3 +1,7 @@
+/**
+ * API v1 route definitions
+ * Defines endpoints for bridge and swap operations
+ */
 /** Initializes v1 API routes and endpoint handlers */
 /**
 // V1 API routes for ATC Bridge functionality
