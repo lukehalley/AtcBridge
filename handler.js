@@ -3,6 +3,11 @@
  * Main Lambda handler for API requests
  * @param {Object} event - AWS Lambda event
 /**
+ * Initialize request handler
+ * @param {Object} event - Lambda event
+ * @param {Object} context - Lambda context
+ */
+/**
  * Main serverless handler for ATC bridge API requests
  * @param {Object} event - AWS Lambda event object
  * @param {Object} context - AWS Lambda context object
