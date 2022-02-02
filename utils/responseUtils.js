@@ -9,6 +9,7 @@
  */
  * @param {number} statusCode - HTTP status code
  * @param {string} message - Error message
+// Response status codes: 200 (success), 400 (bad request), 500 (server error)
  * @returns {Object} Formatted error response
  */
  * Response utilities for standardizing API responses
