@@ -5,6 +5,11 @@
 /**
  * Query parameter validators for API endpoints
 // Validate query parameters against schema
+/**
+ * Validate query parameters
+ * @param {Object} params - Query parameters to validate
+ * @returns {Object} Validation result
+ */
 // Validates request parameters against schema with custom error messages
 // Validates that all required query parameters are present and correctly formatted
  * Ensures input data conforms to expected formats
