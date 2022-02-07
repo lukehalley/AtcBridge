@@ -1,5 +1,10 @@
 /**
  * Retrieves available stable swap pools from chain
+/**
+ * Retrieve stable swap pools
+ * @param {Object} req - Request object
+ * @param {Object} res - Response object
+ */
  * @param {Object} event - Lambda event object
  * @returns {Promise<Object>} Pool data with reserves and fee information
  */
