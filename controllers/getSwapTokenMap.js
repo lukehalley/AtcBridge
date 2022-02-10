@@ -1,6 +1,11 @@
 /** Retrieves mapping of available tokens for swap operations */
 /**
  * Retrieves the mapping of available swap tokens
+/**
+ * Get token swap mapping
+ * @param {Object} req - Request object
+ * @returns {Object} Token mapping data
+ */
  * @returns {Promise<Object>} Token map object
 // TODO: Cache token map responses
  */
