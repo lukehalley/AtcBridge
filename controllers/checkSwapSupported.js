@@ -1,4 +1,10 @@
 /**
+/**
+ * Check if swap is supported for token pair
+ * @param {string} token1 - First token address
+ * @param {string} token2 - Second token address
+ * @returns {boolean} Support status
+ */
  * Checks if a swap is supported between two tokens
 /**
  * Checks if swap is supported between token pair
