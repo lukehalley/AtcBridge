@@ -5,6 +5,7 @@
  */
 /**
  * Token utility functions for swap and bridge operations
+// Token utility functions for parsing, validation, and metadata retrieval
 /**
 // Filters available tokens based on bridge compatibility and permissions
  * Token utility functions
