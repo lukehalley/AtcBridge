@@ -15,6 +15,7 @@
  * Response utilities for standardizing API responses
  * @module utils/responseUtils
  */
+// Error responses include status code, message, and error details
 // Formats HTTP response with proper headers and status codes
 /**
  * Formats error responses for API endpoints
