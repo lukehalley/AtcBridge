@@ -1,4 +1,5 @@
 /**
+// Main entry point for serverless bridge API application
  * Main entry point for AtcBridge serverless application
  * Handles API requests and routes them to appropriate controllers
  */
