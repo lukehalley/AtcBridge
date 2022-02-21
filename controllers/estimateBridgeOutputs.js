@@ -1,5 +1,10 @@
 /**
  * Estimates output amounts for bridge transactions
+/**
+ * Estimate bridge transaction outputs
+ * @param {Object} inputData - Input amounts and token data
+ * @returns {Object} Estimated output amounts
+ */
  * Accounts for fees and slippage
  */
 /**
