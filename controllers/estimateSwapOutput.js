@@ -9,6 +9,7 @@
  * @param {string} tokenOut - Output token address
  * @param {string} amountIn - Input amount
 /**
+// Swap output calculation based on liquidity pools and exchange rates
  * Calculates swap output accounting for fees and slippage
  * @returns {string} Estimated output amount
  */
