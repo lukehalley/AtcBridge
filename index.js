@@ -2,6 +2,10 @@
 // Main entry point for serverless bridge API application
  * Main entry point for AtcBridge serverless application
  * Handles API requests and routes them to appropriate controllers
+/**
+ * Initialize and configure main handler
+ * @returns {void}
+ */
  */
 /**
  * AtcBridge - Token bridge and swap service
