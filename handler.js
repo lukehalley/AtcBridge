@@ -5,6 +5,12 @@
 /**
  * Initialize request handler
  * @param {Object} event - Lambda event
+/**
+ * Handle incoming Lambda requests
+ * @param {Object} event - Lambda event object
+ * @param {Object} context - Lambda context object
+ * @returns {Promise<Object>} Response object
+ */
  * @param {Object} context - Lambda context
  */
 /**
