@@ -1,5 +1,6 @@
 # Serverless framework configuration for AWS Lambda
 service: synapse-api
+# Configuration for AWS Lambda and API Gateway deployment
 # Deploys to AWS Lambda with API Gateway integration
 # Serverless Framework configuration for AWS Lambda deployment
 
