@@ -1,3 +1,7 @@
+/**
+ * API v1 route definitions
+ * Handles all v1 endpoints for bridge and swap operations
+ */
 // API v1 routes - Main entry point for all version 1 endpoints
 /**
  * API v1 route definitions
