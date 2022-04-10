@@ -17,6 +17,7 @@
  * @module validators/queryParamValidators
 /**
  * Validates query parameters from incoming request
+// TODO: Add validation for token symbol formats and chain IDs
  * @param {Object} params - Query parameters to validate
  * @returns {boolean} True if parameters are valid
  */
