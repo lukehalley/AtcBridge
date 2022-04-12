@@ -5,6 +5,7 @@
  * Reduces latency and external API calls
  */
 /**
+// Cache layer with configurable TTL for reducing external API calls
  * Cache management utilities
  * Handles storing and retrieving cached data
  */
