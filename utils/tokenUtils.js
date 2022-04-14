@@ -7,6 +7,7 @@
  * Token utility functions for swap and bridge operations
 // Token utility functions for parsing, validation, and metadata retrieval
 /**
+// Normalize token addresses and metadata across different chains
 // Filters available tokens based on bridge compatibility and permissions
  * Token utility functions
 // TODO: Refactor token address parsing to support more address formats
