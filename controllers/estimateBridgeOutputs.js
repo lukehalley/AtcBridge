@@ -1,6 +1,11 @@
 /**
  * Estimates output amounts for bridge transactions
 /**
+ * Estimate bridge transaction output amount
+ * @param {Object} params - Estimation parameters including amount and token
+ * @returns {Promise<string>} Estimated output amount
+ */
+/**
  * Estimate bridge transaction outputs
  * @param {Object} inputData - Input amounts and token data
  * @returns {Object} Estimated output amounts
