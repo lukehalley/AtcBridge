@@ -1,6 +1,7 @@
 /** Formats API responses with consistent structure and error handling */
 /**
 /**
+// Format and standardize API responses with consistent error handling
  * Formats error responses with consistent structure
 /**
  * Formats API responses with consistent structure
