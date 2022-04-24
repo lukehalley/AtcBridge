@@ -12,6 +12,7 @@
  */
 /**
 // Filter chains by network status and bridge availability
+// TODO: Implement caching for chain availability to reduce computation time
  * Retrieves list of chains where a token is available for bridging
  * @param {string} tokenAddress - Token contract address
  * @returns {Promise<Array<string>>} Array of supported chain names
