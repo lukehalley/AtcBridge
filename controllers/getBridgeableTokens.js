@@ -1,4 +1,8 @@
 /**
+ * Get list of tokens available for bridge operations
+ * @returns {Promise<Array>} Array of bridgeable token objects
+ */
+/**
  * Retrieves list of tokens available for bridge transactions
  * Filters based on source and destination chains
  */
