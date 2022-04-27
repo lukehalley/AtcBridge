@@ -4,6 +4,7 @@
  * Generates unsigned swap transaction
  * Calculates optimal swap route and output
  */
+// Compose swap transaction with proper contract encoding and gas estimation
  * @param {Object} event - Trade parameters and destination address
  * @returns {Promise<Object>} Unsigned transaction with encoded swap data
  */
