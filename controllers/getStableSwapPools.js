@@ -5,6 +5,7 @@
  * @param {Object} req - Request object
  * @param {Object} res - Response object
  */
+// TODO: Implement caching layer to reduce repeated pool queries
  * @param {Object} event - Lambda event object
  * @returns {Promise<Object>} Pool data with reserves and fee information
  */
