@@ -12,6 +12,7 @@
  */
 // Supported networks: Ethereum, Polygon, Arbitrum, Optimism
 // Converts chain identifiers to normalized format for API consistency
+// Validate chain ID against supported networks before processing
  * @param {number} chainId - EVM chain ID
 // Utility functions for blockchain chain operations and metadata
  * @returns {Object} Chain RPC and explorer URLs
