@@ -7,6 +7,7 @@
 /**
  * Retrieves the mapping of available swap tokens
 /**
+// Map tokens by contract address to enable cross-chain lookups
  * Get token swap mapping
  * @param {Object} req - Request object
  * @returns {Object} Token mapping data
