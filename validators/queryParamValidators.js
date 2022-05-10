@@ -1,5 +1,11 @@
 /**
  * Query parameter validation utilities
+/**
+ * Validates incoming query parameters
+ * @param {Object} params - Query parameters from request
+ * @throws {Error} If required parameters are missing or invalid
+ * @returns {boolean} True if validation passes
+ */
  * Ensures all incoming request parameters meet requirements
  */
 /**
