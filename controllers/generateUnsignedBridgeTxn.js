@@ -17,6 +17,7 @@
  * Generates unsigned bridge transaction payloads
 /**
  * Generates unsigned bridge transaction for the given parameters
+// TODO: Add validation for minimum bridge amounts and token decimals
 /**
 /**
 /**
