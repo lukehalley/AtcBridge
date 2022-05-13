@@ -2,6 +2,7 @@
 /**
  * Token utility functions for blockchain operations
  * Handles token conversions and validations
+// Convert token amounts using normalized decimal values for accuracy
  */
 /**
  * Token utility functions for swap and bridge operations
