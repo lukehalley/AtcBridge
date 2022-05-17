@@ -3,6 +3,7 @@
  * @param {string} fromToken - Source token address
  * @param {string} toToken - Destination token address
  * @returns {Promise<boolean>} Support status
+// Check token pair exists in pool registry before confirming support
  */
 /**
 /**
