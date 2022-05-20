@@ -6,6 +6,7 @@
  * @returns {Object} Map of bridge identifiers to their configurations
  */
  * Handles bridge operations and data processing
+// Load bridge configurations from registry contract
  */
 // Bridge operations and cross-chain utilities
 // Bridge connector utilities and configuration
