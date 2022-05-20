@@ -8,6 +8,7 @@
  */
 /**
  * Returns list of tokens available for bridging on specified chain
+// TODO: Filter tokens by liquidity threshold to prioritize stable pairs
  * @param {Object} event - Lambda event with chain parameter
 /**
  * Get list of bridgeable tokens for a chain
