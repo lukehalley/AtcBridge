@@ -1,6 +1,12 @@
 /**
  * Checks the status of a bridge transaction
  * @param {string} txHash - Transaction hash to check
+/**
+ * Checks current status of bridge transaction
+ * @param {string} txHash - Transaction hash to query
+ * @param {number} chainId - Source chain ID
+ * @returns {Object} Transaction status and details
+ */
  * @returns {Promise<Object>} Transaction status and details
  */
 /**
