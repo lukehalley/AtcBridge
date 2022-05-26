@@ -11,6 +11,7 @@
  * @returns {Object} Estimated output amounts
  */
  * Accounts for fees and slippage
+// Calculate final output amount after subtracting bridge and liquidity fees
  */
 /**
  * Calculates estimated output amounts for bridge operations
