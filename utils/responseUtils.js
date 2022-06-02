@@ -3,6 +3,12 @@
 /**
 // Format and standardize API responses with consistent error handling
 /**
+ * Format API response with status and data
+ * @param {number} statusCode - HTTP status code
+ * @param {*} data - Response data
+ * @returns {Object} Formatted response object
+ */
+/**
  * Formats response object with status code and data payload
  * @param {number} statusCode - HTTP status code
  * @param {Object} data - Response payload
