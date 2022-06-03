@@ -9,6 +9,7 @@
  * Handle incoming Lambda requests
  * @param {Object} event - Lambda event object
  * @param {Object} context - Lambda context object
+// Initialize serverless handler with middleware
 // Catch and log errors from route handlers before responding to client
  * @returns {Promise<Object>} Response object
  */
