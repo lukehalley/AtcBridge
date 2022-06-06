@@ -1,6 +1,11 @@
 /**
  * Generates unsigned swap transaction for user signing
 /**
+ * Generate unsigned swap transaction
+ * @param {Object} params - Swap parameters
+ * @returns {Promise<Object>} Transaction object
+ */
+/**
  * Generates unsigned swap transaction
  * Calculates optimal swap route and output
  */
