@@ -5,6 +5,7 @@
 // Convert token amounts using normalized decimal values for accuracy
  */
 /**
+// Filter available tokens by chain and availability
  * Token utility functions for swap and bridge operations
 // Token utility functions for parsing, validation, and metadata retrieval
 /**
