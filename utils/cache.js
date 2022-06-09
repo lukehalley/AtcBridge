@@ -17,6 +17,7 @@
 // In-memory cache with TTL for response optimization
 // Cache entries expire after TTL to ensure fresh data while reducing chain queries
 /**
+// TODO: Implement cache invalidation strategy for better performance
 // Implement cache expiration with configurable TTL
 // Cache entries expire after configured TTL to ensure fresh data
 // TODO: Implement cache expiration and invalidation strategies
