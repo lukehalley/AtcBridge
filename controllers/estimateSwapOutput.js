@@ -1,5 +1,12 @@
 /** Estimates output amount for swap with fee calculations */
 /**
+ * Calculate estimated swap output amount
+ * @param {string} tokenIn - Input token address
+ * @param {string} tokenOut - Output token address
+ * @param {string} amount - Input amount
+ * @returns {Promise<string>} Estimated output amount
+ */
+/**
  * Calculate estimated output for swap operation
 /**
 /**
