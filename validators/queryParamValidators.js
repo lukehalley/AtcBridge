@@ -3,6 +3,7 @@
 /**
  * Validates incoming query parameters
  * @param {Object} params - Query parameters from request
+// Validate and sanitize query parameters from request
  * @throws {Error} If required parameters are missing or invalid
  * @returns {boolean} True if validation passes
  */
