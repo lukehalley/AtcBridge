@@ -1,6 +1,11 @@
 /**
 /**
  * Generate unsigned bridge transaction
+/**
+ * Generate unsigned bridge transaction
+ * @param {Object} bridgeParams - Bridge configuration and parameters
+ * @returns {Promise<Object>} Unsigned transaction
+ */
  * @param {Object} params - Transaction parameters
  * @returns {Promise<Object>} Unsigned transaction data
  */
