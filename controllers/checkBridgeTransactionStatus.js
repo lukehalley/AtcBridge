@@ -12,6 +12,7 @@
 /**
 /**
  * Check bridge transaction status
+// TODO: Implement polling mechanism for transaction status updates
  * @param {string} txHash - Transaction hash to check
  * @returns {Promise<Object>} Transaction status and details
  */
