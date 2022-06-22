@@ -1,4 +1,10 @@
 /**
+/**
+ * Retrieve tokens available for bridging on specified chains
+ * @param {string} fromChain - Source chain identifier
+ * @param {string} toChain - Destination chain identifier
+ * @returns {Promise<Array>} Array of bridgeable tokens
+ */
  * Get list of tokens available for bridge operations
  * @returns {Promise<Array>} Array of bridgeable token objects
  */
