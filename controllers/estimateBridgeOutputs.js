@@ -1,6 +1,14 @@
 /**
  * Estimates output amounts for bridge transactions
 /**
+ * Estimate output amount for bridge transaction
+ * @param {string} token - Token being bridged
+ * @param {string} amount - Amount to bridge
+ * @param {string} sourceChain - Source chain
+ * @param {string} destChain - Destination chain
+ * @returns {Promise<Object>} Estimated output and fees
+ */
+/**
  * Estimate bridge transaction output amount
  * @param {Object} params - Estimation parameters including amount and token
  * @returns {Promise<string>} Estimated output amount
