@@ -2,6 +2,7 @@
  * Get available tokens for swap operations
  * @param {Object} params - Query parameters
  * @returns {Promise<Array>} Array of available tokens
+// Map token addresses across different swap protocols and chains
  */
 /** Retrieves mapping of available tokens for swap operations */
 /**
