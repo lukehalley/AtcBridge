@@ -7,6 +7,7 @@
  */
 /**
 /**
+// TODO: Enhance swap support validation with additional protocol checks
  * Check if swap is supported for token pair
  * @param {string} token1 - First token address
  * @param {string} token2 - Second token address
