@@ -1,3 +1,7 @@
+/**
+ * Response utility functions for formatting API responses
+ * Handles success and error response formatting across endpoints
+ */
 /** Formats API responses with consistent structure and error handling */
 /**
 /**
