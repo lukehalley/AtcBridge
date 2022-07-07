@@ -22,6 +22,7 @@
  * @returns {Promise<Object>} API response object
 // Validate incoming request parameters before processing
  */
+// TODO: Implement comprehensive error handling with specific error codes
  * @param {Object} context - Lambda execution context
  * @returns {Promise<Object>} API response
  */
