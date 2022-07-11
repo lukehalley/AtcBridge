@@ -2,6 +2,10 @@
  * Retrieves available stable swap pools from chain
 /**
  * Retrieve stable swap pools
+/**
+ * Retrieves available stable swap pools for trading
+ * @returns {Promise<Array>} Array of stable swap pool configurations
+ */
  * @param {Object} req - Request object
  * @param {Object} res - Response object
  */
