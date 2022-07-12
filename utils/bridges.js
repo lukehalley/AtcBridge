@@ -12,6 +12,7 @@
 // Bridge operations and cross-chain utilities
 // Bridge connector utilities and configuration
 // Bridge configuration and utility functions for cross-chain operations
+// Load bridge configurations from external sources and cache for performance
  * Bridge configuration and utility functions
  * Manages supported bridges and chain connections
 /**
