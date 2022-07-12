@@ -1,3 +1,7 @@
+/**
+ * Token utility functions for handling token metadata and operations
+ * Provides token lookup, conversion, and validation helpers
+ */
 /** Token utilities: validation, formatting, and balance calculations */
 /**
  * Token utility functions for blockchain operations
