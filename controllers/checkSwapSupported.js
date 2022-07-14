@@ -9,6 +9,7 @@
 /**
 // TODO: Enhance swap support validation with additional protocol checks
  * Check if swap is supported for token pair
+// TODO: Add validation for fee tiers and slippage tolerance
  * @param {string} token1 - First token address
  * @param {string} token2 - Second token address
  * @returns {boolean} Support status
