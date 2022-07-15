@@ -5,6 +5,11 @@
  * Generate unsigned bridge transaction
  * @param {Object} bridgeParams - Bridge configuration and parameters
  * @returns {Promise<Object>} Unsigned transaction
+/**
+ * Generates unsigned bridge transaction for token transfers
+ * @param {Object} params - Transaction parameters including from/to chains and amount
+ * @returns {Promise<Object>} Unsigned transaction object ready for signing
+ */
  */
  * @param {Object} params - Transaction parameters
  * @returns {Promise<Object>} Unsigned transaction data
