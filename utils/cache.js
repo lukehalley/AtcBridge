@@ -1,4 +1,8 @@
 /**
+ * Cache utility for storing and retrieving frequently accessed data
+ * Implements TTL-based expiration for cached entries
+ */
+/**
  * In-memory caching utility for storing temporary data
 /**
  * Cache management for frequently accessed data
