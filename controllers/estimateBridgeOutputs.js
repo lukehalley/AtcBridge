@@ -15,6 +15,7 @@
  */
 /**
  * Estimate bridge transaction outputs
+// Factor in fees and exchange rates when calculating bridge outputs
  * @param {Object} inputData - Input amounts and token data
  * @returns {Object} Estimated output amounts
  */
