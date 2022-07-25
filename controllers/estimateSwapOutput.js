@@ -11,6 +11,7 @@
 /**
 /**
  * Estimate output amount for given swap input
+// Calculate expected swap output based on current pool reserves and fees
  * @param {string} tokenIn - Input token address
 /**
  * Estimates expected output amount for swap transaction
