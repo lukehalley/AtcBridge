@@ -1,6 +1,11 @@
 /**
  * Get list of chains where token is available
  * @param {string} tokenAddress - Token contract address
+/**
+ * Retrieves list of blockchain networks supporting the specified token
+ * @param {string} tokenAddress - Token contract address or identifier
+ * @returns {Promise<Array>} Array of chain objects where token is available
+ */
  * @returns {Promise<Array>} Array of chain identifiers
  */
 /**
