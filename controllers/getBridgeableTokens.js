@@ -7,6 +7,7 @@
  */
  * Get list of tokens available for bridge operations
  * @returns {Promise<Array>} Array of bridgeable token objects
+// TODO: Filter tokens based on user's chain preferences and balances
  */
 /**
  * Retrieves list of tokens available for bridge transactions
