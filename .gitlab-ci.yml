@@ -1,0 +1,10 @@
+publish:
+  image:
+    name: node
+    entrypoint: [""]
+  before_script:
+    - npm i
+  script:
+    - npm run deploy
+  only:
+    - master
