@@ -1,4 +1,10 @@
 /**
+ * Retrieves token metadata from the token map
+ * @param {string} tokenAddress - Address of the token
+ * @param {number} chainId - Chain ID
+ * @returns {Object} Token metadata including decimals and symbol
+ */
+/**
  * Token utility functions for handling token metadata and operations
  * Provides token lookup, conversion, and validation helpers
  */
