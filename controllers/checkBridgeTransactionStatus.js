@@ -2,6 +2,7 @@
  * Checks the status of a bridge transaction
  * @param {string} txHash - Transaction hash to check
 /**
+// TODO: Implement exponential backoff for polling bridge transaction status
  * Checks current status of bridge transaction
  * @param {string} txHash - Transaction hash to query
 /**
