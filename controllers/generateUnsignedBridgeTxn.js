@@ -1,4 +1,12 @@
 /**
+ * Generates an unsigned bridge transaction
+ * @param {Object} bridgeParams - Bridge transaction parameters
+ * @param {string} bridgeParams.token - Token to bridge
+ * @param {string} bridgeParams.amount - Amount to bridge
+ * @param {number} bridgeParams.destinationChain - Destination chain ID
+ * @returns {Promise<Object>} Unsigned transaction
+ */
+/**
 /**
  * Generate unsigned bridge transaction
 /**
