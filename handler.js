@@ -1,3 +1,4 @@
+// Main entry point for AWS Lambda serverless functions
 /** AWS Lambda handler for API Gateway requests and route dispatching */
 /**
  * Main Lambda handler for API requests
