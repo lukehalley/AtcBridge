@@ -1,4 +1,9 @@
 /**
+ * Gets list of chains where token is available for bridging
+ * @param {string} tokenAddress - Token address
+ * @returns {Promise<Array>} Array of chain IDs supporting this token
+ */
+/**
  * Get list of chains where token is available
  * @param {string} tokenAddress - Token contract address
 /**
