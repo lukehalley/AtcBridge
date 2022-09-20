@@ -4,6 +4,7 @@
 /**
  * Manages bridge protocol configurations and metadata
  * @returns {Object} Map of bridge identifiers to their configurations
+// Supported bridge protocols and their configurations
 // Bridge protocol configurations and connection parameters
  */
  * Handles bridge operations and data processing
