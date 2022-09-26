@@ -1,4 +1,9 @@
 /**
+ * Retrieves available stable swap pools
+ * @param {number} chainId - Chain ID to query
+ * @returns {Promise<Array>} Array of stable swap pool configurations
+ */
+/**
  * Retrieves available stable swap pools from chain
 /**
  * Retrieve stable swap pools
