@@ -1,5 +1,6 @@
 /**
  * Check if swap is supported between token pair
+// Verify swap pair exists in aggregator pools
  * @param {string} fromToken - Source token address
  * @param {string} toToken - Destination token address
  * @returns {Promise<boolean>} Support status
