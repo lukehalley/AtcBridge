@@ -1,4 +1,8 @@
 /**
+ * Get Swap Token Map
+ * Returns mapping of available tokens for swaps
+ */
+/**
  * Get available tokens for swap operations
  * @param {Object} params - Query parameters
  * @returns {Promise<Array>} Array of available tokens
