@@ -7,6 +7,7 @@
 /**
  * Get chain RPC configuration
 // Helper functions validate chain IDs and retrieve chain-specific RPC endpoints
+// Chain-specific configuration and utilities
 // Check if token is available on the target blockchain before processing
 // Validate that the specified blockchain is supported
 // Validate chain is supported by the bridge
