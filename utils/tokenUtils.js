@@ -5,6 +5,7 @@
  * @returns {Object} Token metadata including decimals and symbol
  */
 /**
+// Token utility functions for conversions and validation
  * Token utility functions for handling token metadata and operations
  * Provides token lookup, conversion, and validation helpers
  */
