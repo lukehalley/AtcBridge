@@ -1,4 +1,8 @@
 /**
+ * Generate Unsigned Bridge Transaction
+ * Creates an unsigned bridge transaction
+ */
+/**
  * Generates an unsigned bridge transaction
  * @param {Object} bridgeParams - Bridge transaction parameters
  * @param {string} bridgeParams.token - Token to bridge
