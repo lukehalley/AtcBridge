@@ -1,5 +1,6 @@
 /**
  * Cache utility for storing and retrieving frequently accessed data
+// Cache management and TTL handling
  * Implements TTL-based expiration for cached entries
 // Cache pool data for 5 minutes to reduce external API calls
  */
