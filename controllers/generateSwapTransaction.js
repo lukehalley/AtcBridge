@@ -1,4 +1,8 @@
 /**
+ * Generate Swap Transaction
+ * Creates a swap transaction for token exchange
+ */
+/**
  * Generates an unsigned swap transaction for the given parameters
  * @param {Object} swapParams - The swap parameters
  * @param {string} swapParams.tokenIn - Input token address
