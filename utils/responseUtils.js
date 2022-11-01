@@ -2,6 +2,12 @@
  * Response utility functions for formatting API responses
 // Standardize success response format for all endpoints
  * Handles success and error response formatting across endpoints
+/**
+ * Formats API response with consistent structure
+ * @param {Object} data - Response payload
+ * @param {string} message - Status message
+ * @returns {Object} Formatted response object
+ */
 // Format response with consistent structure
  */
 /** Formats API responses with consistent structure and error handling */
