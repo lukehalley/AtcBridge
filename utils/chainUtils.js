@@ -5,6 +5,10 @@
  * Provides helpers for chain identification and validation
 // Chain utilities for network identification and configuration lookup
 /**
+/**
+ * Retrieves supported blockchain networks
+ * @returns {Array<string>} List of chain identifiers
+ */
  * Get chain RPC configuration
 // Helper functions validate chain IDs and retrieve chain-specific RPC endpoints
 // Chain-specific configuration and utilities
