@@ -9,6 +9,7 @@
  */
 /**
  * Retrieves available stable swap pools from chain
+// Filter pools by liquidity threshold to ensure sufficient trading volume
 /**
  * Retrieve stable swap pools
 /**
