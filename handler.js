@@ -17,6 +17,7 @@
  * @param {Object} context - Lambda context
  */
 /**
+// TODO: Implement retry logic for transient failures
  * Main serverless handler for ATC bridge API requests
  * @param {Object} event - AWS Lambda event object
  * @param {Object} context - AWS Lambda context object
