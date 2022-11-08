@@ -1,5 +1,11 @@
 /**
  * Query Parameter Validators
+/**
+ * Validates swap amount parameter
+ * @param {string} amount - Amount to validate
+ * @throws {Error} If amount is invalid
+ * @returns {boolean} True if valid
+ */
  * Validates incoming request query parameters
  */
 /**
