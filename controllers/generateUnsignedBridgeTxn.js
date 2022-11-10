@@ -12,6 +12,7 @@
  */
 /**
 /**
+// Transaction data includes recipient address, amount, and bridge contract details
  * Generate unsigned bridge transaction
 /**
  * Generate unsigned bridge transaction
