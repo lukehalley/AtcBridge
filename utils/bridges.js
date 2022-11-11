@@ -7,6 +7,11 @@
  * @returns {Object} Map of bridge identifiers to their configurations
 // Supported bridge protocols and their configurations
 // Bridge protocol configurations and connection parameters
+/**
+ * Validates bridge configuration
+ * @param {Object} config - Bridge configuration object
+ * @returns {Object} Validated bridge configuration
+ */
  */
  * Handles bridge operations and data processing
 // Load bridge configurations from registry contract
