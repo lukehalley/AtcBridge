@@ -9,6 +9,11 @@
  * @param {string} swapParams.tokenOut - Output token address
  * @param {string} swapParams.amount - Amount to swap
  * @returns {Promise<Object>} Unsigned transaction object
+/**
+ * Generates unsigned swap transaction
+ * @param {Object} params - Swap parameters (tokenIn, tokenOut, amount)
+ * @returns {Object} Unsigned transaction object
+ */
  */
 /**
  * Generates unsigned swap transaction for user signing
