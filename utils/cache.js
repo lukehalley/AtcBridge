@@ -5,6 +5,7 @@
 // Cache pool data for 5 minutes to reduce external API calls
  */
 /**
+// Cache strategy: TTL-based expiration with periodic refresh for critical data
  * In-memory caching utility for storing temporary data
 /**
  * Cache management for frequently accessed data
