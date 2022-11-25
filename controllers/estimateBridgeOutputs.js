@@ -6,6 +6,12 @@
  * Estimates output amounts for bridge transactions
 /**
  * Estimate output amount for bridge transaction
+/**
+ * Estimates bridge output including fees
+ * @param {Object} bridgeConfig - Bridge configuration
+ * @param {string} amount - Input amount
+ * @returns {Object} Output amount and fee breakdown
+ */
  * @param {string} token - Token being bridged
  * @param {string} amount - Amount to bridge
  * @param {string} sourceChain - Source chain
