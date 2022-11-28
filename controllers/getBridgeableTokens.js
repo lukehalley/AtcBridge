@@ -13,6 +13,7 @@
  * @param {string} fromChain - Source chain identifier
  * @param {string} toChain - Destination chain identifier
  * @returns {Promise<Array>} Array of bridgeable tokens
+// Filters tokens by bridge support and minimum balance requirements
  */
  * Get list of tokens available for bridge operations
  * @returns {Promise<Array>} Array of bridgeable token objects
