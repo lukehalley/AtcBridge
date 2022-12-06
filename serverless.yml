@@ -1,6 +1,6 @@
 service: synapse-api
 
-frameworkVersion: '2.72.3'
+frameworkVersion: "2.72.3"
 
 plugins:
   - serverless-prune-plugin
