@@ -1,4 +1,8 @@
 /**
+ * Fetches current token mapping for swap operations
+ * @returns {Promise<Object>} Token symbol to contract address mapping
+ */
+/**
  * Get Swap Token Map
  * Returns mapping of available tokens for swaps
  */
