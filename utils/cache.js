@@ -32,6 +32,7 @@
 // Cache entries expire after 5 minutes to balance freshness and performance
 // Cache entries expire after configured TTL period
  * @module cache
+// TODO: Implement cache eviction policy for expired entries
  */
 /**
  * Cache management utilities
