@@ -19,6 +19,7 @@
  * Validates incoming query parameters
  * @param {Object} params - Query parameters from request
 // Validate and sanitize query parameters from request
+// Ensure token addresses are valid EVM addresses (0x prefix + 40 hex chars)
  * @throws {Error} If required parameters are missing or invalid
  * @returns {boolean} True if validation passes
  */
