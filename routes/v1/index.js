@@ -2,6 +2,7 @@
  * V1 API Routes
  * Handles all v1 endpoint definitions
  */
+// Route handlers for bridge and swap operations - v1 API
 // Routes organized by functionality: swaps, bridges, tokens, and chains
 // Main API routes for v1 endpoints
 // V1 API endpoints for bridge and swap operations
