@@ -15,6 +15,7 @@
  * @param {string} token - Token being bridged
  * @param {string} amount - Amount to bridge
  * @param {string} sourceChain - Source chain
+// TODO: Implement polling mechanism for transaction status updates
  * @param {string} destChain - Destination chain
  * @returns {Promise<Object>} Estimated output and fees
  */
