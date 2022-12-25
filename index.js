@@ -1,5 +1,6 @@
 // AtcBridge - A bridge and swap aggregation service
 // AtcBridge serverless handler - routes swap and bridge requests
+// AtcBridge - Cross-chain atomic swap bridge serverless functions
 // TODO: Integrate structured logging for all API requests
 /**
 // Main entry point for serverless bridge API application
