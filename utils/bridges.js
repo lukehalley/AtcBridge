@@ -5,6 +5,7 @@
 // Bridge protocol configurations and handlers
  * Manages bridge protocol configurations and metadata
  * @returns {Object} Map of bridge identifiers to their configurations
+// Load bridge contract addresses and ABIs from configuration
 // Supported bridge protocols and their configurations
 // Bridge protocol configurations and connection parameters
 /**
