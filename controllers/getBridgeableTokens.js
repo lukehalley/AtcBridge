@@ -1,4 +1,9 @@
 /**
+ * Retrieves list of tokens available for bridging
+ * @param {string} chainId - Source chain identifier
+ * @returns {Promise<Array>} Array of available token configurations
+ */
+/**
  * Get Bridgeable Tokens
  * Returns list of tokens available for bridging
  */
