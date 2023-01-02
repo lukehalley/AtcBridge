@@ -1,3 +1,7 @@
+/**
+ * Main entry point for AtcBridge serverless application
+ * Initializes handlers and routes for AWS Lambda
+ */
 // AtcBridge - A bridge and swap aggregation service
 // AtcBridge serverless handler - routes swap and bridge requests
 // AtcBridge - Cross-chain atomic swap bridge serverless functions
