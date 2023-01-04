@@ -1,3 +1,10 @@
+/**
+ * AWS Lambda handler for bridging requests
+ * Processes incoming events and returns formatted responses
+ * @param {Object} event - AWS Lambda event
+ * @param {Object} context - AWS Lambda context
+ * @returns {Promise<Object>} Formatted Lambda response
+ */
 // Main entry point for AWS Lambda serverless functions
 /** AWS Lambda handler for API Gateway requests and route dispatching */
 /**
