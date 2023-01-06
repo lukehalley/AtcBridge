@@ -1,3 +1,4 @@
+// API v1 routes - all endpoints prefixed with /v1
 /**
  * V1 API Routes
  * Handles all v1 endpoint definitions
