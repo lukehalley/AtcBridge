@@ -1,4 +1,8 @@
 /**
+ * Utility functions for formatting API responses
+ * Handles success, error, and edge case response structures
+ */
+/**
  * Response utility functions for formatting API responses
 // Standardize success response format for all endpoints
  * Handles success and error response formatting across endpoints
