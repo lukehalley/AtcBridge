@@ -1,4 +1,8 @@
 /**
+ * Chain-related utility functions
+ * Handles blockchain network operations and chain validation
+ */
+/**
  * Chain utility functions for multi-chain support
 // Utility functions for chain-specific operations and conversions
 // Chain identification and validation helpers
