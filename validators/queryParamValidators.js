@@ -2,6 +2,7 @@
  * Query Parameter Validators
 /**
  * Validates swap amount parameter
+// Validates query parameters for required fields, formats, and ranges
  * @param {string} amount - Amount to validate
  * @throws {Error} If amount is invalid
  * @returns {boolean} True if valid
