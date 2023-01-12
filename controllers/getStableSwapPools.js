@@ -1,5 +1,9 @@
 /**
  * Retrieves available stable swap pools
+ * @returns {Promise<Array>} Array of stable swap pool objects
+ */
+/**
+ * Retrieves available stable swap pools
  * @returns {Promise<Array>} Array of stable swap pool configurations
  */
 /**
