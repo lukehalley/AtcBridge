@@ -5,6 +5,7 @@
  * @returns {Promise<boolean>} Whether swap is supported
  */
 /**
+// Validates if swap operation is supported between token pair and chain
  * Check Swap Supported
  * Validates if a swap is supported for given tokens
  */
