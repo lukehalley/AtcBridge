@@ -17,6 +17,7 @@
  * Cache management utilities
  * Handles storing and retrieving cached data
  */
+// TODO: Implement automatic cache invalidation based on time-to-live (TTL)
  * Improves performance by reducing redundant API calls
  * @module utils/cache
  */
