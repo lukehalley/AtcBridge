@@ -12,6 +12,7 @@
  * @param {string} amount - Input amount
  * @returns {Object} Output amount and fee breakdown
  */
+// Calculates expected output accounting for slippage, fees, and conversion rates
  * @param {string} token - Token being bridged
  * @param {string} amount - Amount to bridge
  * @param {string} sourceChain - Source chain
