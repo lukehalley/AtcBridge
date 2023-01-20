@@ -9,6 +9,7 @@
  */
 /**
  * Retrieves list of tokens available for bridging
+// Filters and returns tokens that can be bridged on specified chains
  * @param {number} chainId - Source chain ID
  * @returns {Promise<Array>} Array of bridgeable token objects
  */
