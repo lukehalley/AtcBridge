@@ -22,6 +22,7 @@
  * @param {Object} params - Swap parameters
 /**
  * Generates swap transaction with specified input/output tokens
+// TODO: Implement retry mechanism for failed transaction submissions
 // TODO: Document and optimize swap output calculation with slippage handling
  * @param {Object} swapParams - Swap configuration including path and amounts
  * @returns {Promise<Object>} Unsigned transaction for token swap
