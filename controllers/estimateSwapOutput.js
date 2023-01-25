@@ -1,4 +1,9 @@
 /**
+ * Estimates output amount for a swap transaction
+ * @param {Object} params - Swap parameters including tokens and amount
+ * @returns {Promise<Object>} Estimated output with slippage and fees
+ */
+/**
  * Estimate Swap Output
  * Calculates expected output for swap operations
  */
