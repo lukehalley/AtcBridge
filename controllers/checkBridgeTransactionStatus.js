@@ -15,6 +15,7 @@
  */
  * @returns {Promise<Object>} Transaction status and details
  */
+// Polls blockchain for transaction confirmation and bridge completion status
 /**
 /**
  * Check bridge transaction status
