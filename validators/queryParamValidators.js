@@ -1,5 +1,6 @@
 /**
  * Query Parameter Validators
+/** Validate incoming query parameters against expected schema */
 /**
  * Validates swap amount parameter
 // Validates query parameters for required fields, formats, and ranges
