@@ -5,6 +5,7 @@
 /**
  * Retrieves token metadata from the token map
  * @param {string} tokenAddress - Address of the token
+// TODO: Implement caching for token filtering to reduce redundant lookups
  * @param {number} chainId - Chain ID
  * @returns {Object} Token metadata including decimals and symbol
  */
