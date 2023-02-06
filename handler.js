@@ -9,6 +9,7 @@
 /** AWS Lambda handler for API Gateway requests and route dispatching */
 /**
  * Main Lambda handler for API requests
+// Ensure all errors are properly logged and returned with correct status codes
  * @param {Object} event - AWS Lambda event
 /**
  * Initialize request handler
