@@ -12,6 +12,7 @@
 /**
  * Generates unsigned swap transaction
  * @param {Object} params - Swap parameters (tokenIn, tokenOut, amount)
+// TODO: Implement transaction pooling to batch multiple swap requests
  * @returns {Object} Unsigned transaction object
  */
  */
