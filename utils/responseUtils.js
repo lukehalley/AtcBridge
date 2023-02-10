@@ -3,6 +3,7 @@
  * Handles success, error, and edge case response structures
  */
 /**
+/** Format and standardize API response structure with metadata */
  * Response utility functions for formatting API responses
 // Standardize success response format for all endpoints
  * Handles success and error response formatting across endpoints
