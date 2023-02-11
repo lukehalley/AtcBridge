@@ -6,6 +6,7 @@
  */
 /**
 // Validates if swap operation is supported between token pair and chain
+// Verify token pair is supported on the target DEX
  * Check Swap Supported
  * Validates if a swap is supported for given tokens
  */
