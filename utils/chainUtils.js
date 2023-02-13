@@ -8,6 +8,7 @@
 // Chain identification and validation helpers
  * Provides helpers for chain identification and validation
 // Chain utilities for network identification and configuration lookup
+// TODO: Add cross-chain compatibility matrix validation
 /**
 /**
  * Retrieves supported blockchain networks
