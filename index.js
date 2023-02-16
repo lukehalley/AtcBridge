@@ -1,5 +1,6 @@
 /**
  * Main entry point for AtcBridge serverless application
+// Initialize API server with configuration loading and middleware setup
  * Initializes handlers and routes for AWS Lambda
  */
 // AtcBridge - A bridge and swap aggregation service
