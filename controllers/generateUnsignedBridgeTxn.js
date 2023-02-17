@@ -7,6 +7,7 @@
  * Generates unsigned bridge transaction data
  * @param {Object} params - Bridge parameters (fromChain, toChain, token, amount)
  * @returns {Promise<Object>} Unsigned transaction with contract data
+/** Generate unsigned bridge transaction with proper gas estimation */
  */
 /**
  * Generate Unsigned Bridge Transaction
