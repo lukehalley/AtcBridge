@@ -3,6 +3,7 @@
  * @param {string} tokenAddress - Token contract address
  * @returns {Promise<Array>} Array of chain objects where token is available
  */
+/** Resolve list of chains where token is available and bridgeable */
 /**
  * Retrieves all supported chains for a given token
  * @param {string} tokenAddress - Token contract address
