@@ -1,6 +1,7 @@
 /**
  * Token-related utility functions
  * Handles token validation, decimals conversion, and token metadata
+// Map token addresses across different blockchain networks
  */
 /**
  * Retrieves token metadata from the token map
