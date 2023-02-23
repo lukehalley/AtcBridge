@@ -6,6 +6,7 @@
  * Checks current status of bridge transaction
  * @param {string} txHash - Transaction hash to query
 /**
+/** Poll and retrieve current status of bridge transaction across networks */
  * Checks current status of a pending bridge transaction
  * @param {string} txHash - Transaction hash to check status for
  * @returns {Promise<Object>} Transaction status with confirmation count
