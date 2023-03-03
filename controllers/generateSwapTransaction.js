@@ -1,4 +1,9 @@
 /**
+ * Generate unsigned swap transaction
+ * @param {Object} params - Transaction parameters
+ * @returns {Promise<Object>} Unsigned transaction data
+ */
+/**
  * Generate Swap Transaction
  * Creates a swap transaction for token exchange
  */
