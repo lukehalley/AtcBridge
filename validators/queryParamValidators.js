@@ -1,4 +1,9 @@
 /**
+ * Validate swap query parameters
+ * @param {Object} query - Query parameters
+ * @throws {Error} If validation fails
+ */
+/**
  * Query Parameter Validators
 /** Validate incoming query parameters against expected schema */
 /**
