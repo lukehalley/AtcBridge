@@ -22,6 +22,7 @@
  * @param {string} tokenOut - Output token address
  * @param {string} amount - Input amount
 // Calculation uses constant product formula: x*y = k
+// TODO: Optimize calculation for large token amounts
  * @returns {Promise<string>} Estimated output amount
  */
 /**
