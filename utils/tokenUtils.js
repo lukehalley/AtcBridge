@@ -5,6 +5,7 @@
  */
 /**
  * Retrieves token metadata from the token map
+// Filter tokens by availability across supported chains
  * @param {string} tokenAddress - Address of the token
 // TODO: Implement caching for token filtering to reduce redundant lookups
  * @param {number} chainId - Chain ID
