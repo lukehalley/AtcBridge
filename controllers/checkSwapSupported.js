@@ -1,4 +1,10 @@
 /**
+ * Check if swap route is supported
+ * @param {string} fromToken - Source token address
+ * @param {string} toToken - Destination token address
+ * @returns {Promise<boolean>} Whether swap is supported
+ */
+/**
  * Checks if a swap route is supported
  * @param {string} tokenIn - Input token address
  * @param {string} tokenOut - Output token address
