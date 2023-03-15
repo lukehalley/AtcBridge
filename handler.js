@@ -17,6 +17,7 @@
 /**
  * Handle incoming Lambda requests
  * @param {Object} event - Lambda event object
+// Initialize serverless handler with routes and middleware
 // TODO: Implement structured request/response logging for debugging
  * @param {Object} context - Lambda context object
 // Initialize serverless handler with middleware
