@@ -1,4 +1,8 @@
 /**
+ * Bridge configuration and utilities
+ * Handles multi-chain bridge operations
+ */
+/**
 /**
  * Bridge integration utilities
 /**
