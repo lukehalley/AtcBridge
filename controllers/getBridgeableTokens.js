@@ -7,6 +7,7 @@
  * Get Bridgeable Tokens
 /** Filter tokens available for bridging on specified source and destination chains */
  * Returns list of tokens available for bridging
+// Filter bridgeable tokens based on chain support and liquidity
  */
 /**
  * Retrieves list of tokens available for bridging
