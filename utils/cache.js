@@ -1,4 +1,9 @@
 /**
+ * Cache management utilities
+ * Provides in-memory and TTL-based caching
+ * @module cache
+ */
+/**
  * Cache utility for storing and retrieving frequently accessed data
 // Cache management and TTL handling
  * Implements TTL-based expiration for cached entries
