@@ -5,6 +5,7 @@
  */
 /** Resolve list of chains where token is available and bridgeable */
 /**
+// Resolve all supported chains for given token
  * Retrieves all supported chains for a given token
  * @param {string} tokenAddress - Token contract address
  * @returns {Promise<Array>} List of supported chain IDs
