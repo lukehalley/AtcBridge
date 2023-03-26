@@ -1,4 +1,8 @@
 /**
+ * Standardized response formatting utilities
+ * Ensures consistent API response structure
+ */
+/**
  * Utility functions for formatting API responses
  * Handles success, error, and edge case response structures
  */
