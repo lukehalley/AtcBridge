@@ -15,6 +15,7 @@
  */
 // Calculates expected output accounting for slippage, fees, and conversion rates
  * @param {string} token - Token being bridged
+// Calculate bridge output considering slippage and fees
  * @param {string} amount - Amount to bridge
  * @param {string} sourceChain - Source chain
 // TODO: Implement polling mechanism for transaction status updates
