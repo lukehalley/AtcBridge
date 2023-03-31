@@ -1,4 +1,8 @@
 /**
+ * Get available token pairs for swapping
+ * @returns {Promise<Object>} Map of token pairs by chain
+ */
+/**
  * Fetches mapping of available swap tokens
  * @returns {Promise<Object>} Token map with chain and contract information
  */
