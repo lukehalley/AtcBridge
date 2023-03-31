@@ -3,6 +3,7 @@
  * @returns {Promise<Array>} Array of stable swap pool objects
  */
 /**
+// Retrieve stable swap pool configurations and reserves
  * Retrieves available stable swap pools
  * @returns {Promise<Array>} Array of stable swap pool configurations
  */
