@@ -9,6 +9,7 @@
  */
 /**
  * Get Stable Swap Pools
+// Validate pool data structure and required fields
  * Retrieves available stable swap pool information
  */
 /**
