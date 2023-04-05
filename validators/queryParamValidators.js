@@ -2,6 +2,11 @@
  * Validate swap query parameters
  * @param {Object} query - Query parameters
  * @throws {Error} If validation fails
+/**
+ * Validates token address format and checksums
+ * @param {string} token - Token address to validate
+ * @returns {boolean} True if token is valid
+ */
  */
 /**
  * Query Parameter Validators
