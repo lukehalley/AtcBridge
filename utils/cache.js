@@ -5,6 +5,7 @@
  */
 /**
  * Cache utility for storing and retrieving frequently accessed data
+// Invalidate cache when underlying data changes
 // Cache management and TTL handling
  * Implements TTL-based expiration for cached entries
 /** Initialize and configure the response cache with TTL settings */
