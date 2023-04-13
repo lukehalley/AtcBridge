@@ -1,4 +1,5 @@
 // API v1 routes - all endpoints prefixed with /v1
+// V1 API route definitions and endpoint mappings
 /**
  * V1 API Routes
 // All v1 API endpoints with rate limiting and authentication middleware
