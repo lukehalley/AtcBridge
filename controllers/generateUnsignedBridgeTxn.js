@@ -1,4 +1,11 @@
 /**
+ * Generates unsigned bridge transaction
+ * @param {Object} params - Transaction parameters
+ * @param {string} params.fromChain - Source chain
+ * @param {string} params.toChain - Destination chain
+ * @returns {Promise<Object>} Unsigned transaction data
+ */
+/**
  * Generate unsigned bridge transaction
  * @param {Object} params - Bridge parameters
  * @returns {Promise<Object>} Unsigned transaction
