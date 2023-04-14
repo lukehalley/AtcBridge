@@ -3,6 +3,7 @@
  * Ensures consistent API response structure
  */
 /**
+// Format consistent API response structure with metadata
  * Utility functions for formatting API responses
  * Handles success, error, and edge case response structures
  */
