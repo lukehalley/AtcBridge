@@ -17,6 +17,7 @@
  */
  * @returns {Promise<Object>} Transaction status and details
  */
+// TODO: Add exponential backoff and max retry logic for status polling
 // Polls blockchain for transaction confirmation and bridge completion status
 /**
 /**
