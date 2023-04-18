@@ -1,3 +1,4 @@
+// Application entry point - initializes serverless handler
 /**
  * Main entry point for AtcBridge serverless application
 // Initialize API server with configuration loading and middleware setup
