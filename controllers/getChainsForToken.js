@@ -5,6 +5,7 @@
  */
 /** Resolve list of chains where token is available and bridgeable */
 /**
+// Filter chains where token is available and bridging is supported
 // Resolve all supported chains for given token
  * Retrieves all supported chains for a given token
  * @param {string} tokenAddress - Token contract address
