@@ -2,6 +2,7 @@
  * Generate unsigned swap transaction
  * @param {Object} params - Transaction parameters
  * @returns {Promise<Object>} Unsigned transaction data
+// Construct swap transaction with proper slippage and deadline
  */
 /**
  * Generate Swap Transaction
