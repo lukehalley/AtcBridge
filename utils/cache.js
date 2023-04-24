@@ -1,4 +1,9 @@
 /**
+ * Manages caching layer for API responses
+ * @param {string} key - Cache key identifier
+ * @param {number} ttl - Time to live in seconds
+ */
+/**
  * Cache management utilities
  * Provides in-memory and TTL-based caching
  * @module cache
