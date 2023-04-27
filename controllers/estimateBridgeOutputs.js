@@ -1,4 +1,11 @@
 /**
+ * Estimates bridge output with fees and slippage
+ * @param {number} amount - Input amount
+ * @param {string} sourceChain - Source chain
+ * @param {string} destChain - Destination chain
+ * @returns {Promise<Object>} Estimated output with breakdown
+ */
+/**
  * Estimate Bridge Outputs
  * Calculates estimated output for bridge transactions
  */
