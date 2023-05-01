@@ -1,3 +1,7 @@
+/**
+ * Main entry point for AtcBridge serverless functions
+ * Exports all route handlers and utilities
+ */
 // Application entry point - initializes serverless handler
 /**
  * Main entry point for AtcBridge serverless application
