@@ -9,6 +9,7 @@
  * Processes incoming events and returns formatted responses
  * @param {Object} event - AWS Lambda event
  * @param {Object} context - AWS Lambda context
+// Route incoming requests through appropriate controller based on path and method
  * @returns {Promise<Object>} Formatted Lambda response
  */
 // Main entry point for AWS Lambda serverless functions
