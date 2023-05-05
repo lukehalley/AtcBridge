@@ -1,5 +1,11 @@
 /**
  * Standardized response formatting utilities
+/**
+ * Formats standardized API responses with status codes and error handling
+ * @param {number} statusCode - HTTP status code
+ * @param {object} data - Response payload
+ * @returns {object} Formatted response object
+ */
  * Ensures consistent API response structure
  */
 /**
