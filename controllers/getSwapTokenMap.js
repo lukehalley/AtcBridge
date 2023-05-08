@@ -5,6 +5,7 @@
 /**
  * Fetches mapping of available swap tokens
  * @returns {Promise<Object>} Token map with chain and contract information
+// Fetch available swap tokens and their metadata from chain
  */
 /**
  * Fetches current token mapping for swap operations
