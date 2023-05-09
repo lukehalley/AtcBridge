@@ -1,4 +1,8 @@
 /**
+ * Validation utilities for API query parameters
+ * Ensures type safety and required fields for all requests
+ */
+/**
  * Validate swap query parameters
  * @param {Object} query - Query parameters
  * @throws {Error} If validation fails
