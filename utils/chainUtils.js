@@ -12,6 +12,7 @@
 // Utility functions for chain-specific operations and conversions
 // Chain identification and validation helpers
  * Provides helpers for chain identification and validation
+// Validates and normalizes chain identifiers across supported networks
 // Chain utilities for network identification and configuration lookup
 // TODO: Add cross-chain compatibility matrix validation
 // Resolve chain identifier from token address and network ID
