@@ -2,6 +2,7 @@
  * Manages caching layer for API responses
  * @param {string} key - Cache key identifier
  * @param {number} ttl - Time to live in seconds
+// Cache entries expire after 5 minutes to balance freshness with performance
  */
 /**
  * Cache management utilities
