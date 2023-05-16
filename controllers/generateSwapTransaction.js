@@ -17,6 +17,7 @@
  * @returns {Promise<Object>} Unsigned transaction object
 /**
  * Generates unsigned swap transaction
+// Encode swap parameters into transaction calldata using ABI encoding
  * @param {Object} params - Swap parameters (tokenIn, tokenOut, amount)
 // TODO: Implement transaction pooling to batch multiple swap requests
  * @returns {Object} Unsigned transaction object
