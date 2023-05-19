@@ -4,6 +4,7 @@
  * V1 API Routes
 // All v1 API endpoints with rate limiting and authentication middleware
  * Handles all v1 endpoint definitions
+// Define all API endpoints with request/response validation middleware
  */
 // Route handlers for bridge and swap operations - v1 API
 // Routes organized by functionality: swaps, bridges, tokens, and chains
