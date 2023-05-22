@@ -1,4 +1,8 @@
 /**
+/**
+ * Token manipulation and verification utilities
+ * Handles token address normalization and validation
+ */
  * Token-related utility functions
  * Handles token validation, decimals conversion, and token metadata
 // Map token addresses across different blockchain networks
