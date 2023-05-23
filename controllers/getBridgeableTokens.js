@@ -9,6 +9,7 @@
  * @returns {Promise<Array>} Array of available token configurations
  */
 /**
+// Filter tokens by bridge availability and liquidity thresholds
  * Get Bridgeable Tokens
 /** Filter tokens available for bridging on specified source and destination chains */
  * Returns list of tokens available for bridging
