@@ -1,6 +1,12 @@
 /**
  * Generates unsigned bridge transaction
  * @param {Object} params - Transaction parameters
+/**
+ * Generates unsigned bridge transaction with user-provided parameters
+ * Returns serialized transaction ready for wallet signing
+ * @param {object} bridgeParams - Bridge route and amount details
+ * @returns {string} Unsigned transaction in hex format
+ */
  * @param {string} params.fromChain - Source chain
  * @param {string} params.toChain - Destination chain
  * @returns {Promise<Object>} Unsigned transaction data
