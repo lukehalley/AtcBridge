@@ -6,6 +6,7 @@
  * @returns {Promise<Object>} Estimated output with breakdown
  */
 /**
+// Calculate bridge fees and minimum output based on source and destination chains
  * Estimate Bridge Outputs
  * Calculates estimated output for bridge transactions
  */
