@@ -1,4 +1,11 @@
 /**
+/**
+ * Generates approval transaction for bridge contract
+ * Allows bridge to transfer tokens on user's behalf
+ * @param {string} tokenAddress - Token to approve
+ * @param {string} amount - Approval amount
+ * @returns {string} Unsigned approval transaction
+ */
  * Generates unsigned approval transaction for bridge spending
  * @param {Object} params - Approval parameters including token and spender
  * @returns {Promise<Object>} Unsigned approval transaction
