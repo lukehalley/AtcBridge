@@ -2,6 +2,9 @@
  * Resolves chain identifiers and returns chain metadata
  * @param {string} chainId - The chain identifier
  * @returns {Object} Chain metadata and configuration
+/**
+ * Utility functions for handling blockchain chain operations
+ */
  */
 /**
  * Chain-related utility functions
