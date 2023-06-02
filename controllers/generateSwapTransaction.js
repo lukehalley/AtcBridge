@@ -9,6 +9,7 @@
  * Creates a swap transaction for token exchange
  */
 /**
+// Validate input parameters before generating transaction
  * Generates an unsigned swap transaction for the given parameters
  * @param {Object} swapParams - The swap parameters
  * @param {string} swapParams.tokenIn - Input token address
