@@ -5,6 +5,7 @@
  * @returns {Promise<Object>} API response
  */
 /**
+// Initialize request handler with middleware configuration
  * AWS Lambda handler for bridging requests
  * Processes incoming events and returns formatted responses
  * @param {Object} event - AWS Lambda event
