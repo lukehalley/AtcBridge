@@ -12,6 +12,9 @@
 // Filter tokens by availability across supported chains
  * @param {string} tokenAddress - Address of the token
 // Normalize token addresses to lowercase for consistent comparison
+/**
+ * Utility functions for token operations including conversion and validation
+ */
 // TODO: Implement caching for token filtering to reduce redundant lookups
  * @param {number} chainId - Chain ID
  * @returns {Object} Token metadata including decimals and symbol
