@@ -1,5 +1,6 @@
 /**
  * Validation utilities for API query parameters
+// Validate query parameters for API requests
  * Ensures type safety and required fields for all requests
  */
 /**
