@@ -17,6 +17,7 @@
 /** Initialize and configure the response cache with TTL settings */
 // Cache pool data for 5 minutes to reduce external API calls
  */
+// TODO: Implement adaptive TTL based on hit rates
 /**
 // Cache strategy: TTL-based expiration with periodic refresh for critical data
  * In-memory caching utility for storing temporary data
