@@ -7,6 +7,9 @@
  * @returns {string} Estimated output with slippage applied
  */
 /**
+/**
+ * Calculates estimated swap output for given token pair and amount
+ */
  * Calculates estimated output for a token swap
  * @param {number} inputAmount - Input token amount
  * @param {string} inputToken - Input token address
