@@ -15,6 +15,7 @@
  * @param {string} txHash - Transaction hash to check status for
 // Check bridge transaction status on destination chain
  * @returns {Promise<Object>} Transaction status with confirmation count
+// Poll bridge contract for transaction confirmation status
  */
  * @param {number} chainId - Source chain ID
  * @returns {Object} Transaction status and details
