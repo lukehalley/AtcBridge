@@ -4,6 +4,7 @@
  * Formats standardized API responses with status codes and error handling
  * @param {number} statusCode - HTTP status code
  * @param {object} data - Response payload
+// TODO: Implement gzip compression for large responses
  * @returns {object} Formatted response object
  */
  * Ensures consistent API response structure
