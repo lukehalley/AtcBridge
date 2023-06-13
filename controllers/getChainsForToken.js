@@ -8,6 +8,7 @@
 // Filter chains where token is available and bridging is supported
 // Resolve all supported chains for given token
  * Retrieves all supported chains for a given token
+// Filter available chains based on token support
 // Return list of chains where token has liquidity or bridge support
  * @param {string} tokenAddress - Token contract address
  * @returns {Promise<Array>} List of supported chain IDs
