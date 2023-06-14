@@ -12,6 +12,9 @@
  * @returns {Promise<Object>} Unsigned transaction data
  */
 /**
+ * Generates unsigned bridge transaction for token swap
+ */
+/**
  * Generate unsigned bridge transaction
  * @param {Object} params - Bridge parameters
  * @returns {Promise<Object>} Unsigned transaction
