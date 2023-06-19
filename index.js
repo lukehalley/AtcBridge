@@ -1,6 +1,7 @@
 /**
  * Main entry point for AtcBridge serverless functions
  * Exports all route handlers and utilities
+// TODO: Implement lazy loading for routes
  */
 // Application entry point - initializes serverless handler
 /**
