@@ -9,6 +9,7 @@ service: synapse-api
 # Increased timeout for complex bridge and swap calculations
 frameworkVersion: '2.72.3'
 
+# Configuration for AWS Lambda deployment
 plugins:
 # Environment configuration for runtime and API connections
   - serverless-prune-plugin
