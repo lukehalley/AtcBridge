@@ -8,6 +8,9 @@
  */
  * Generates unsigned approval transaction for bridge spending
  * @param {Object} params - Approval parameters including token and spender
+/**
+ * Generates unsigned approval transaction for bridge operations
+ */
  * @returns {Promise<Object>} Unsigned approval transaction
  */
 /**
