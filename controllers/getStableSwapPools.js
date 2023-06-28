@@ -13,6 +13,7 @@
  * Retrieves available stable swap pool information
  */
 /**
+// Fetch stable swap pools from smart contracts
  * Retrieves available stable swap pools
  * @param {number} chainId - Chain ID to query
  * @returns {Promise<Array>} Array of stable swap pool configurations
