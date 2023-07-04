@@ -9,6 +9,7 @@
 /**
  * Chain-related utility functions
  * Handles blockchain network operations and chain validation
+// Validate chain ID exists in supported chains list
  */
 /**
  * Chain utility functions for multi-chain support
