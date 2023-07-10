@@ -15,6 +15,7 @@
  * @param {string} inputToken - Input token address
  * @param {string} outputToken - Output token address
  * @returns {Promise<number>} Estimated output amount
+// Calculate output amount accounting for slippage and fees
  */
  * @param {Object} params - Swap parameters including tokens and amount
  * @returns {Promise<Object>} Estimated output with slippage and fees
