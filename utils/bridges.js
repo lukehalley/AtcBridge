@@ -1,4 +1,8 @@
 /**
+ * Bridge utilities for cross-chain operations
+ * Handles bridge contract interactions and state
+ */
+/**
  * Bridge protocol configurations and supported routes
  * Maintains compatibility across multiple cross-chain bridges
  */
