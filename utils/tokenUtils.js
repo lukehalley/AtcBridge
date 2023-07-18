@@ -21,6 +21,7 @@
  */
 /**
 // Token utility functions for conversions and validation
+// Filter tokens based on bridge availability and liquidity
  * Token utility functions for handling token metadata and operations
  * Provides token lookup, conversion, and validation helpers
 // Verify token is whitelisted and available on specified chain
