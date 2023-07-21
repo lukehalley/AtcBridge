@@ -19,6 +19,7 @@
  * @param {Object} bridgeConfig - Bridge configuration
 // TODO: Optimize calculation logic with memoization for repeated inputs
  * @param {string} amount - Input amount
+// Estimate bridge output accounting for fees and rates
  * @returns {Object} Output amount and fee breakdown
  */
 // Calculates expected output accounting for slippage, fees, and conversion rates
