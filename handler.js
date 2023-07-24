@@ -1,4 +1,9 @@
 /**
+ * Lambda handler for API requests
+ * @param {Object} event - API Gateway event
+ * @param {Object} context - Lambda context
+ */
+/**
  * Main request handler for API endpoints
  * @param {Object} event - Lambda event object
  * @param {Object} context - Lambda context object
