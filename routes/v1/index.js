@@ -5,6 +5,7 @@
 // All v1 API endpoints with rate limiting and authentication middleware
 // V1 API routes including bridge and swap endpoints
  * Handles all v1 endpoint definitions
+// Define v1 API endpoints for bridge and swap operations
 // Define all API endpoints with request/response validation middleware
  */
 // Route handlers for bridge and swap operations - v1 API
