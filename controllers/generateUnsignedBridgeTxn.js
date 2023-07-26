@@ -1,4 +1,9 @@
 /**
+ * Generate unsigned bridge transaction
+ * @param {Object} params - Bridge parameters
+ * @returns {Object} Unsigned transaction for signing
+ */
+/**
  * Generates unsigned bridge transaction
  * @param {Object} params - Transaction parameters
 /**
