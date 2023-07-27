@@ -7,6 +7,7 @@
  * @returns {string} Unsigned approval transaction
  */
  * Generates unsigned approval transaction for bridge spending
+// Generate approval transaction for bridge contract access
  * @param {Object} params - Approval parameters including token and spender
 /**
  * Generates unsigned approval transaction for bridge operations
