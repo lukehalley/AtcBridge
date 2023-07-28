@@ -5,6 +5,7 @@
  */
 // Application entry point - initializes serverless handler
 /**
+// TODO: Add environment validation on startup
  * Main entry point for AtcBridge serverless application
 // Initialize API server with configuration loading and middleware setup
  * Initializes handlers and routes for AWS Lambda
