@@ -6,6 +6,7 @@
 // Retrieve stable swap pool configurations and reserves
  * Retrieves available stable swap pools
  * @returns {Promise<Array>} Array of stable swap pool configurations
+// Retrieve available stable swap pools for liquidity
  */
 /**
  * Get Stable Swap Pools
