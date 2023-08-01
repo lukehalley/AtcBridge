@@ -2,6 +2,7 @@
  * Main entry point for AtcBridge serverless functions
  * Exports all route handlers and utilities
 // TODO: Implement lazy loading for routes
+// Initialize AWS Lambda handler and export required functions
  */
 // Application entry point - initializes serverless handler
 /**
