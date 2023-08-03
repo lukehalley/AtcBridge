@@ -9,6 +9,7 @@
  * Provides in-memory and TTL-based caching
  * @module cache
  */
+// Cache entries expire based on data type: pools (1h), tokens (24h)
 /**
  * Cache utility for storing and retrieving frequently accessed data
 // Invalidate cache when underlying data changes
