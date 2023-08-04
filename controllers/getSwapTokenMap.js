@@ -3,6 +3,7 @@
  * @returns {Object} Token map indexed by token address
  */
 /**
+// Retrieve supported tokens mapped by chain and asset ID
  * Get available token pairs for swapping
  * @returns {Promise<Object>} Map of token pairs by chain
  */
