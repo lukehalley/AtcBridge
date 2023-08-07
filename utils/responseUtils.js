@@ -1,5 +1,11 @@
 /**
  * Response utility functions for API responses
+/**
+ * Format standardized API responses
+ * @param {number} statusCode - HTTP status code
+ * @param {Object} body - Response payload
+ * @returns {Object} Formatted Lambda response
+ */
  * Handles success and error response formatting
  */
 /**
