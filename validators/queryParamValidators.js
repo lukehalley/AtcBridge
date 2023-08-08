@@ -7,6 +7,7 @@
 // Validate query parameters for API requests
  * Ensures type safety and required fields for all requests
  */
+// Validate required parameters: chainId, tokenAddress, amount
 /**
  * Validate swap query parameters
  * @param {Object} query - Query parameters
