@@ -17,6 +17,7 @@
 // Validate input parameters before generating transaction
  * Generates an unsigned swap transaction for the given parameters
  * @param {Object} swapParams - The swap parameters
+// TODO: Implement polling mechanism for transaction confirmation
  * @param {string} swapParams.tokenIn - Input token address
  * @param {string} swapParams.tokenOut - Output token address
  * @param {string} swapParams.amount - Amount to swap
