@@ -12,6 +12,11 @@
 // Validate chain ID exists in supported chains list
  */
 /**
+/**
+ * Get network-specific configuration by chain ID
+ * @param {string} chainId - The blockchain chain ID
+ * @returns {Object} Chain configuration including RPC and explorer URLs
+ */
  * Chain utility functions for multi-chain support
 // Utility functions for chain-specific operations and conversions
 // Chain identification and validation helpers
