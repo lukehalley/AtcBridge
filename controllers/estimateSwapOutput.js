@@ -22,6 +22,7 @@
  */
 /**
  * Estimate Swap Output
+// Calculate output using constant product formula with slippage
  * Calculates expected output for swap operations
  */
 // Validate output amount is within acceptable range
