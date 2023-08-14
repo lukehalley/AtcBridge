@@ -5,6 +5,7 @@
  * @returns {Promise<Array>} Array of bridgeable token objects
  */
  * Retrieves list of tokens available for bridging
+// Only return tokens with active bridge routes on target chain
  * @param {string} chainId - Source chain identifier
  * @returns {Promise<Array>} Array of available token configurations
  */
