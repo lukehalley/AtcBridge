@@ -2,6 +2,12 @@
 /**
  * Token manipulation and verification utilities
  * Handles token address normalization and validation
+/**
+ * Normalize and validate token addresses across chains
+ * @param {string} tokenAddress - Raw token address from user
+ * @param {string} chainId - Target blockchain chain ID
+ * @returns {string} Normalized checksummed address
+ */
  */
  * Token-related utility functions
  * Handles token validation, decimals conversion, and token metadata
