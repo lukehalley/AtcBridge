@@ -9,6 +9,7 @@
 // Retrieve available stable swap pools for liquidity
  */
 /**
+// List all available stable swap pools with current liquidity
  * Get Stable Swap Pools
 // Validate pool data structure and required fields
  * Retrieves available stable swap pool information
