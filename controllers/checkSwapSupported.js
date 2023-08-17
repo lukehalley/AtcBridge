@@ -15,6 +15,7 @@
 // Validate swap support for token pair
  * @param {string} fromToken - Source token address
  * @param {string} toToken - Destination token address
+// TODO: Consolidate swap pair validation into separate utility
  * @returns {Promise<boolean>} Whether swap is supported
  */
 /**
