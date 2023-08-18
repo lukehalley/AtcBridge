@@ -6,6 +6,7 @@
  * Bridge protocol configurations and supported routes
  * Maintains compatibility across multiple cross-chain bridges
  */
+// Select optimal bridge based on destination chain and fees
 /**
  * Bridge configuration and utilities
  * Handles multi-chain bridge operations
