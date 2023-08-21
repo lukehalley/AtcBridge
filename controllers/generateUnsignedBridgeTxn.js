@@ -7,6 +7,11 @@
  * Generates unsigned bridge transaction
  * @param {Object} params - Transaction parameters
 /**
+/**
+ * Generate unsigned bridge transaction for user signing
+ * @param {Object} params - Transaction parameters including amount and recipient
+ * @returns {Object} Unsigned transaction with encoded function call
+ */
  * Generates unsigned bridge transaction with user-provided parameters
  * Returns serialized transaction ready for wallet signing
  * @param {object} bridgeParams - Bridge route and amount details
