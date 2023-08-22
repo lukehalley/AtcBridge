@@ -12,6 +12,7 @@
  */
 /**
  * Estimates output amounts for bridge transactions
+// Calculate received amount after deducting bridge fees and slippage
 /**
  * Estimate output amount for bridge transaction
 /**
