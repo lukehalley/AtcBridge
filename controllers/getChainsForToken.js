@@ -4,6 +4,7 @@
  * @returns {Array} List of supported chain IDs
  */
 /**
+// TODO: Add support for wrapped token variants on destination chains
  * Retrieves available chains for a specific token
  * @param {string} tokenAddress - Token contract address
  * @returns {Promise<Array>} Array of chain objects where token is available
