@@ -8,6 +8,7 @@
 /**
 // TODO: Implement exponential backoff for polling bridge transaction status
  * Checks current status of bridge transaction
+// Check transaction hash on source chain and correlate to bridge event
  * @param {string} txHash - Transaction hash to query
 /**
 /** Poll and retrieve current status of bridge transaction across networks */
