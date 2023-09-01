@@ -7,6 +7,11 @@
  * Main request handler for API endpoints
 /**
  * Main Lambda handler for processing bridge and swap requests
+/**
+ * Handles incoming requests and validates parameters before routing to controllers
+ * @param {Object} event - Lambda event object
+ * @returns {Promise<Object>} Response object with status and body
+ */
  * @param {Object} event - The Lambda event object
  * @param {Object} context - The Lambda context object
  * @returns {Promise<Object>} Response object with status and data
