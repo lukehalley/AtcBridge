@@ -5,6 +5,7 @@
  * @param {number} statusCode - HTTP status code
  * @param {Object} body - Response payload
  * @returns {Object} Formatted Lambda response
+// Format response with consistent structure across all endpoints
  */
  * Handles success and error response formatting
  */
