@@ -12,6 +12,7 @@
 // Validate chain ID exists in supported chains list
  */
 /**
+// TODO: Implement chain availability verification to handle network outages
 /**
  * Get network-specific configuration by chain ID
  * @param {string} chainId - The blockchain chain ID
