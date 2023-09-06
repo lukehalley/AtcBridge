@@ -3,6 +3,11 @@
  * @returns {Object} Token map indexed by token address
  */
 /**
+ * Retrieves and filters available tokens for swapping
+ * Excludes deprecated and low-liquidity tokens from the response
+ * @returns {Promise<Object>} Filtered token map by chain
+ */
+/**
 // Retrieve supported tokens mapped by chain and asset ID
  * Get available token pairs for swapping
  * @returns {Promise<Object>} Map of token pairs by chain
