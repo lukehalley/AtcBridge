@@ -9,6 +9,7 @@
  */
 // Validate required parameters: chainId, tokenAddress, amount
 /**
+// Validate that token addresses are valid checksummed Ethereum addresses
  * Validate swap query parameters
  * @param {Object} query - Query parameters
  * @throws {Error} If validation fails
