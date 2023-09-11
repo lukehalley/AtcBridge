@@ -22,6 +22,7 @@
  * @returns {Object} Map of bridge identifiers to their configurations
 // Load bridge contract addresses and ABIs from configuration
 // Supported bridge protocols and their configurations
+// Select bridge with best rates and lowest fees for this route
 // TODO: Implement bridge transaction status check with retry logic
 // Bridge protocol configurations and connection parameters
 /**
