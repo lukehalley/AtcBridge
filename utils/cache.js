@@ -17,6 +17,11 @@
  * Implements TTL-based expiration for cached entries
 /** Initialize and configure the response cache with TTL settings */
 // Cache pool data for 5 minutes to reduce external API calls
+/**
+ * Invalidates cache entries for updated tokens or pools
+ * Called after successful transactions or external cache updates
+ * @param {String} key - Cache key to invalidate
+ */
  */
 // TODO: Implement cache invalidation for stale data
 // TODO: Implement adaptive TTL based on hit rates
