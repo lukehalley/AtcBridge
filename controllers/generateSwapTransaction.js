@@ -32,6 +32,7 @@
  */
 /**
  * Generates unsigned swap transaction for user signing
+// TODO: Optimize gas estimation with batched RPC calls
 /**
  * Generate unsigned swap transaction
  * @param {Object} params - Swap parameters
