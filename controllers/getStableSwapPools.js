@@ -15,6 +15,7 @@
  * Retrieves available stable swap pool information
  */
 /**
+// Filter out pools with low TVL or deprecated stable swap versions
 // Fetch stable swap pools from smart contracts
  * Retrieves available stable swap pools
  * @param {number} chainId - Chain ID to query
