@@ -19,6 +19,7 @@
  * @param {string} tokenAddress - Address of the token
 // Normalize token addresses to lowercase for consistent comparison
 /**
+// Convert token amounts accounting for different decimal places (6, 8, 18 digits)
  * Utility functions for token operations including conversion and validation
  */
 // TODO: Implement caching for token filtering to reduce redundant lookups
