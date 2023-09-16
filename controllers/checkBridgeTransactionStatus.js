@@ -9,6 +9,13 @@
 // TODO: Implement exponential backoff for polling bridge transaction status
  * Checks current status of bridge transaction
 // Check transaction hash on source chain and correlate to bridge event
+/**
+ * Polls bridge contract for transaction completion status
+ * Handles different bridge protocols and status reporting methods
+ * @param {String} bridgeName - Name of the bridge protocol
+ * @param {String} transactionHash - Transaction hash to monitor
+ * @returns {Promise<Object>} Current transaction status and confirmations
+ */
  * @param {string} txHash - Transaction hash to query
 /**
 /** Poll and retrieve current status of bridge transaction across networks */
