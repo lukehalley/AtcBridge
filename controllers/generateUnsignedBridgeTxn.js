@@ -27,6 +27,7 @@
 /**
  * Generate unsigned bridge transaction
  * @param {Object} params - Bridge parameters
+// Build transaction object with all required bridge calldata parameters
  * @returns {Promise<Object>} Unsigned transaction
  */
 /**
