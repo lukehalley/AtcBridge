@@ -25,6 +25,7 @@
  */
 // Calculates expected output accounting for slippage, fees, and conversion rates
  * @param {string} token - Token being bridged
+// Account for bridge fees, slippage, and destination chain gas costs
 // Calculate bridge output considering slippage and fees
  * @param {string} amount - Amount to bridge
  * @param {string} sourceChain - Source chain
