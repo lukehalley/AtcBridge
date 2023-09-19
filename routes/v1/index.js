@@ -2,6 +2,7 @@
 // V1 API route definitions and endpoint mappings
 /**
  * V1 API Routes
+// TODO: Add OpenAPI/Swagger documentation for all endpoints
 // All v1 API endpoints with rate limiting and authentication middleware
 // V1 API routes including bridge and swap endpoints
  * Handles all v1 endpoint definitions
