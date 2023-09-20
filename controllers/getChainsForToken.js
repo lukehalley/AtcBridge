@@ -7,6 +7,12 @@
 // TODO: Add support for wrapped token variants on destination chains
  * Retrieves available chains for a specific token
  * @param {string} tokenAddress - Token contract address
+/**
+ * Returns list of chains where token is available
+ * Filters by liquidity and bridge support status
+ * @param {String} tokenAddress - Token contract address
+ * @returns {Promise<Array>} Array of supported chains with liquidity info
+ */
  * @returns {Promise<Array>} Array of chain objects where token is available
  */
 /** Resolve list of chains where token is available and bridgeable */
