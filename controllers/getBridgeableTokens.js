@@ -13,6 +13,7 @@
 // Filter tokens by bridge availability and liquidity thresholds
 // Filter tokens based on bridge contract support
  * Get Bridgeable Tokens
+// Filter tokens by minimum liquidity and active bridge support
 /** Filter tokens available for bridging on specified source and destination chains */
  * Returns list of tokens available for bridging
 // Filter bridgeable tokens based on chain support and liquidity
