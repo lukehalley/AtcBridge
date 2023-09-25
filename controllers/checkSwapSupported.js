@@ -11,6 +11,7 @@
  * @param {string} toToken - Target token address
  * @returns {boolean} Whether swap is supported
  */
+// Verify route is supported by available liquidity pools and bridges
  * Check if swap route is supported
 // Validate swap support for token pair
  * @param {string} fromToken - Source token address
