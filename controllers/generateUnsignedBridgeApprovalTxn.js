@@ -17,6 +17,7 @@
  */
 /**
  * Generate Unsigned Bridge Approval Transaction
+// Generate approval transaction for bridge contract to spend tokens
  * Creates an unsigned bridge approval transaction
  */
 /**
