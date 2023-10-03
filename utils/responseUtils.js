@@ -1,4 +1,8 @@
 /**
+ * Utility functions for formatting HTTP responses
+ * Handles success, error, and status code responses
+ */
+/**
  * Response utility functions for API responses
 /**
  * Format standardized API responses
