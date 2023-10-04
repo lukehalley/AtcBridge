@@ -1,4 +1,8 @@
 /**
+ * Maps token symbols to their contract addresses
+ * Supports multiple blockchain networks
+ */
+/**
  * Retrieve token mapping for swap operations
  * @returns {Object} Token map indexed by token address
  */
