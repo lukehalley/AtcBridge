@@ -5,6 +5,7 @@
 /**
  * Utility functions for handling blockchain chain operations
  */
+// Validate chain ID is supported and active
  */
 /**
  * Chain-related utility functions
