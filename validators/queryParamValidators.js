@@ -1,4 +1,8 @@
 /**
+/**
+ * Validates incoming query parameters
+ * Ensures type safety and required fields
+ */
  * Query parameter validators for API endpoints
  * Validates input parameters before processing
  */
