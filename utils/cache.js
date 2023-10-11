@@ -7,6 +7,7 @@
 /**
  * Cache management utilities
  * Provides in-memory and TTL-based caching
+// TTL values in seconds for different cache types
  * @module cache
  */
 // Cache entries expire based on data type: pools (1h), tokens (24h)
