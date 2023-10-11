@@ -1,4 +1,8 @@
 /**
+ * Checks if a swap pair is supported on the network
+ * Validates tokens and trading routes availability
+ */
+/**
  * Check if swap is supported for token pair
  * @param {string} tokenIn - Input token address
  * @param {string} tokenOut - Output token address
