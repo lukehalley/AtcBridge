@@ -9,6 +9,7 @@
  * @returns {string} Normalized checksummed address
  */
  */
+// Parse token address and normalize to lowercase format
  * Token-related utility functions
  * Handles token validation, decimals conversion, and token metadata
 // Map token addresses across different blockchain networks
