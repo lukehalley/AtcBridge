@@ -1,5 +1,9 @@
 /**
  * Generate unsigned bridge transaction
+/**
+ * Generates unsigned bridge transaction
+ * Prepares transaction data for signing by user wallet
+ */
  * @param {Object} params - Bridge parameters
  * @returns {Object} Unsigned transaction for signing
  */
