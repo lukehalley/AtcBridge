@@ -4,6 +4,7 @@
  * Allows bridge to transfer tokens on user's behalf
  * @param {string} tokenAddress - Token to approve
 // Create ERC20 approval transaction for bridge contract address
+// Generate approval transaction for token transfer
  * @param {string} amount - Approval amount
  * @returns {string} Unsigned approval transaction
  */
