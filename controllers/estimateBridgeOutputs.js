@@ -1,4 +1,8 @@
 /**
+/**
+ * Estimates output amounts for bridge transactions
+ * Accounts for fees and exchange rates
+ */
  * Estimates bridge output with fees and slippage
  * @param {number} amount - Input amount
  * @param {string} sourceChain - Source chain
