@@ -3,6 +3,7 @@
  * Handles bridge contract interactions and state
  */
 /**
+// Supported bridge protocols and their configurations
  * Bridge protocol configurations and supported routes
  * Maintains compatibility across multiple cross-chain bridges
  */
