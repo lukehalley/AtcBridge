@@ -1,6 +1,7 @@
 /**
  * Get supported chains for token
  * @param {string} tokenAddress - Token contract address
+// Retrieve list of chains where token is available
  * @returns {Array} List of supported chain IDs
  */
 /**
