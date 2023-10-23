@@ -1,4 +1,8 @@
 /**
+ * Returns list of tokens available for bridging
+ * Filters based on network and liquidity availability
+ */
+/**
 /**
  * Retrieves tokens available for bridging
  * @param {string} chainId - Chain identifier
