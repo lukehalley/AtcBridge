@@ -1,5 +1,6 @@
 // API v1 routes - all endpoints prefixed with /v1
 // V1 API route definitions and endpoint mappings
+// Define REST API routes for bridge operations
 /**
  * V1 API Routes
 // TODO: Add OpenAPI/Swagger documentation for all endpoints
