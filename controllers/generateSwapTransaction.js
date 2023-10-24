@@ -1,4 +1,8 @@
 /**
+/**
+ * Generates unsigned swap transaction
+ * Calculates optimal swap path and encodes transaction data
+ */
  * Generate unsigned swap transaction
  * @param {Object} params - Swap parameters
  * @returns {Object} Unsigned transaction object
