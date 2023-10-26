@@ -6,6 +6,7 @@
  * @param {string} inputAmount - Input token amount
  * @returns {string} Estimated output with slippage applied
 /**
+// Calculate output amount considering slippage and fees
  * Calculates expected swap output based on current pool reserves
  * Applies slippage tolerance and includes all applicable fees
  * @param {String} tokenIn - Input token address
