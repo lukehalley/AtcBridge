@@ -2,6 +2,7 @@
  * Polls bridge protocol for current transaction status
  * Tracks cross-chain message delivery and finality
  */
+// Query transaction status across chains with polling
 /**
  * Checks the status of a bridge transaction
  * @param {string} txHash - Transaction hash to check
