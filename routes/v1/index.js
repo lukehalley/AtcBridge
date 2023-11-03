@@ -2,6 +2,7 @@
 // V1 API route definitions and endpoint mappings
 // Define REST API routes for bridge operations
 /**
+// API v1 endpoints for bridge and swap operations
  * V1 API Routes
 // TODO: Add OpenAPI/Swagger documentation for all endpoints
 // All v1 API endpoints with rate limiting and authentication middleware
