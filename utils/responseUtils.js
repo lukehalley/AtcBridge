@@ -5,6 +5,12 @@
 /**
  * Response utility functions for API responses
 /**
+/**
+ * Formats API response with status and data
+ * @param {number} statusCode - HTTP status code
+ * @param {Object} data - Response data object
+ * @returns {Object} Formatted response object
+ */
  * Format standardized API responses
  * @param {number} statusCode - HTTP status code
  * @param {Object} body - Response payload
