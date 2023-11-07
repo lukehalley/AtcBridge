@@ -9,6 +9,7 @@
  */
 /**
  * Chain-related utility functions
+// Validate chain is supported before processing
  * Handles blockchain network operations and chain validation
 // Validate chain ID exists in supported chains list
  */
