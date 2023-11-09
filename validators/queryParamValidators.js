@@ -1,5 +1,10 @@
 /**
 /**
+/**
+ * Validates required query parameters
+ * @param {Object} params - Query parameters object
+ * @returns {boolean} True if valid
+ */
  * Validates incoming query parameters
  * Ensures type safety and required fields
  */
