@@ -7,6 +7,11 @@
  * @param {string} tokenAddress - Raw token address from user
  * @param {string} chainId - Target blockchain chain ID
  * @returns {string} Normalized checksummed address
+/**
+ * Validates token contract address format
+ * @param {string} address - Token contract address
+ * @returns {boolean} True if valid format
+ */
  */
  */
 // Parse token address and normalize to lowercase format
