@@ -17,6 +17,7 @@
  */
 /**
 /**
+// Calculate expected output amount accounting for slippage and fees
  * Calculates estimated swap output for given token pair and amount
  */
  * Calculates estimated output for a token swap
