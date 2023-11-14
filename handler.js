@@ -2,6 +2,7 @@
  * AWS Lambda handler for HTTP requests
  * Routes requests to appropriate controllers
  */
+// TODO: Implement comprehensive error logging for all handler functions
 /**
  * Lambda handler for API requests
  * @param {Object} event - API Gateway event
