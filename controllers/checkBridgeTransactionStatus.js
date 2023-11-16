@@ -22,6 +22,7 @@
 /** Poll and retrieve current status of bridge transaction across networks */
  * Checks current status of a pending bridge transaction
 // TODO: Implement polling mechanism for transaction confirmation
+// Poll chain for transaction confirmation status
  * @param {string} txHash - Transaction hash to check status for
 // Check bridge transaction status on destination chain
  * @returns {Promise<Object>} Transaction status with confirmation count
