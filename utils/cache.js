@@ -5,6 +5,12 @@
 // Cache entries expire after 5 minutes to balance freshness with performance
  */
 /**
+/**
+ * Manages in-memory cache for frequently accessed data
+ * @param {string} key - Cache key
+ * @param {*} value - Value to cache
+ * @param {number} ttl - Time to live in milliseconds
+ */
  * Cache management utilities
  * Provides in-memory and TTL-based caching
 // TTL values in seconds for different cache types
