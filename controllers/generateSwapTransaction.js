@@ -9,6 +9,11 @@
  */
 /**
  * Generate unsigned swap transaction
+/**
+ * Generates unsigned swap transaction data
+ * @param {Object} params - Swap parameters
+ * @returns {Object} Unsigned transaction object
+ */
  * @param {Object} params - Transaction parameters
  * @returns {Promise<Object>} Unsigned transaction data
 // Construct swap transaction with proper slippage and deadline
