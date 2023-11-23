@@ -27,6 +27,7 @@
 // TODO: Implement bridge transaction status check with retry logic
 // Bridge protocol configurations and connection parameters
 /**
+// Bridge configuration mapping all supported protocol pairs
  * Validates bridge configuration
  * @param {Object} config - Bridge configuration object
  * @returns {Object} Validated bridge configuration
