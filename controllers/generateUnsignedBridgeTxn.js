@@ -5,6 +5,11 @@
  * Prepares transaction data for signing by user wallet
  */
  * @param {Object} params - Bridge parameters
+/**
+ * Generates unsigned bridge transaction
+ * @param {Object} params - Bridge parameters including source and destination chains
+ * @returns {Object} Unsigned transaction ready for signing
+ */
  * @returns {Object} Unsigned transaction for signing
  */
 /**
