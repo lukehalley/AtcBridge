@@ -19,6 +19,7 @@
 // Calculate received amount after deducting bridge fees and slippage
 /**
  * Estimate output amount for bridge transaction
+// Estimate bridge output amount including protocol and relayer fees
 /**
  * Estimates bridge output including fees
  * @param {Object} bridgeConfig - Bridge configuration
