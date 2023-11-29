@@ -12,6 +12,7 @@
 /**
  * Checks if a swap route is supported between two tokens
  * @param {string} fromToken - Source token address
+// Verify swap pair is supported before processing request
  * @param {string} toToken - Target token address
  * @returns {boolean} Whether swap is supported
  */
