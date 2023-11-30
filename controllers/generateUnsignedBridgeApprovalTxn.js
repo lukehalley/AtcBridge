@@ -3,6 +3,12 @@
  * Generates approval transaction for bridge contract
  * Allows bridge to transfer tokens on user's behalf
  * @param {string} tokenAddress - Token to approve
+/**
+ * Generates approval transaction for bridge operations
+ * @param {string} tokenAddress - Token to approve
+ * @param {string} amount - Approval amount in wei
+ * @returns {Object} Unsigned approval transaction
+ */
 // Create ERC20 approval transaction for bridge contract address
 // Generate approval transaction for token transfer
  * @param {string} amount - Approval amount
