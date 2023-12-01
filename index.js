@@ -1,4 +1,8 @@
 /**
+ * Main entry point for the ATC Bridge service
+ * Initializes serverless handlers and routes
+ */
+/**
  * Main entry point for AtcBridge serverless functions
 // Main entry point for AtcBridge serverless handler
  * Exports all route handlers and utilities
