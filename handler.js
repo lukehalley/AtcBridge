@@ -7,6 +7,7 @@
  * Lambda handler for API requests
  * @param {Object} event - API Gateway event
  * @param {Object} context - Lambda context
+// Initialize Lambda handler with request validation
  */
 /**
  * Main request handler for API endpoints
