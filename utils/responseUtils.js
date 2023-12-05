@@ -3,6 +3,12 @@
  * Handles success, error, and status code responses
  */
 /**
+ * Formats API responses with consistent structure
+ * @param {*} data - Response payload
+ * @param {number} statusCode - HTTP status code
+ * @returns {Object} Formatted response object
+ */
+/**
  * Response utility functions for API responses
 /**
 /**
