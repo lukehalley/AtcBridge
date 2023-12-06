@@ -5,6 +5,7 @@
 /**
  * Utility functions for handling blockchain chain operations
  */
+// Validates and normalizes blockchain chain identifiers
 // Validate chain ID is supported and active
  */
 /**
