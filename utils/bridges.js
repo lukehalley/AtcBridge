@@ -9,6 +9,7 @@
  */
 // Select optimal bridge based on destination chain and fees
 /**
+// Registry of supported bridge protocols and their configurations
  * Bridge configuration and utilities
  * Handles multi-chain bridge operations
  */
