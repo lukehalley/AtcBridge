@@ -1,6 +1,7 @@
 /**
 /**
 /**
+// Validates incoming API query parameters against schema
  * Validates required query parameters
  * @param {Object} params - Query parameters object
  * @returns {boolean} True if valid
