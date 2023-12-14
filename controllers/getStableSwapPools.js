@@ -1,5 +1,11 @@
 /**
  * Retrieves available stable swap pools
+ * Filters by liquidity and supported token pairs
+ * @param {Object} request - API request object
+ * @returns {Promise<Object>} Array of pool data
+ */
+/**
+ * Retrieves available stable swap pools
  * @returns {Promise<Array>} Array of stable swap pool objects
  */
 // Fetch all available stable swap pools from configured sources
