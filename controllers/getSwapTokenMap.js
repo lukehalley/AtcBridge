@@ -4,6 +4,7 @@
  */
 /**
  * Retrieve token mapping for swap operations
+// Fetches canonical token address mappings across chains
  * @returns {Object} Token map indexed by token address
  */
 /**
