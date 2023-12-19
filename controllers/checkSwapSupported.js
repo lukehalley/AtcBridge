@@ -1,4 +1,11 @@
 /**
+/**
+ * Checks if a swap route is supported
+ * Validates token pairs and bridge availability
+ * @param {string} fromToken - Source token address
+ * @param {string} toToken - Destination token address
+ * @returns {Promise<boolean>} Support status
+ */
  * Checks if a swap pair is supported on the network
  * Validates tokens and trading routes availability
  */
