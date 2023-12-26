@@ -1,4 +1,10 @@
 /**
+ * Retrieves chains where a token is available
+ * Filters by liquidity and bridge support
+ * @param {string} tokenAddress - Token contract address
+ * @returns {Promise<Array>} List of supported chain IDs
+ */
+/**
  * Get supported chains for token
  * @param {string} tokenAddress - Token contract address
 // Retrieve list of chains where token is available
