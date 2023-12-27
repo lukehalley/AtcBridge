@@ -5,6 +5,7 @@
 /**
 /**
  * Retrieves tokens available for bridging
+// Filters and returns tokens eligible for bridge transfers
  * @param {string} chainId - Chain identifier
  * @returns {Promise<Array>} Array of bridgeable token objects
  */
