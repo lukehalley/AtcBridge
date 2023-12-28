@@ -1,6 +1,12 @@
 /**
 /**
  * Generates unsigned swap transaction
+/**
+ * Generates unsigned swap transactions
+ * Includes slippage tolerance and routing optimization
+ * @param {Object} swapParams - Swap parameters
+ * @returns {Promise<Object>} Unsigned transaction for signing
+ */
  * Calculates optimal swap path and encodes transaction data
  */
  * Generate unsigned swap transaction
