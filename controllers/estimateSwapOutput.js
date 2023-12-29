@@ -2,6 +2,7 @@
  * Estimates output amount for a swap transaction
 /**
  * Estimates output amount for a given swap input
+// Estimates output amounts for swap transactions considering fees
  * Factors in slippage, fees, and current liquidity
  * @param {string} inputAmount - Input token amount
  * @returns {string} Estimated output with slippage applied
