@@ -1,4 +1,10 @@
 /**
+/**
+ * Polls and retrieves bridge transaction status
+ * Tracks cross-chain transaction completion
+ * @param {string} transactionHash - Source chain tx hash
+ * @returns {Promise<Object>} Transaction status and details
+ */
  * Polls bridge protocol for current transaction status
  * Tracks cross-chain message delivery and finality
  */
