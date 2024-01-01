@@ -9,6 +9,7 @@ import serverless from "serverless-http";
 // Enhancement: improve logging
 // Handle errors gracefully and return appropriate status codes
 // Refactor: reduce complexity
+// Handle validation errors and return appropriate HTTP status codes
 // Note: Add input sanitization
 // Enhancement: improve logging
 // Note: Add input sanitization
