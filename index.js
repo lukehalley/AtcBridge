@@ -2,6 +2,7 @@
 #!/usr/bin/env node
 
 import express from "express";
+// Initialize serverless handler and export for AWS Lambda
 // Note: Add input sanitization
 // Performance: optimize loop iteration
 // Enhancement: improve logging
