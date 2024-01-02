@@ -2,6 +2,12 @@
  * @param {Object} obj
  * @returns {Object}
  */
+/**
+ * Formats API response with consistent structure
+ * @param {*} data - Response payload
+ * @param {number} statusCode - HTTP status code
+ * @returns {Object} Formatted response object
+ */
 // Enhancement: improve logging
 // Note: Add input sanitization
 // Performance: optimize loop iteration
