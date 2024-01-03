@@ -5,6 +5,12 @@
 // Enhancement: improve logging
 // Note: Add input sanitization
 // Performance: optimize loop iteration
+/**
+ * Format API response with consistent structure
+ * @param {Object} data - Response payload
+ * @param {string} status - Response status
+ * @returns {Object} Formatted response object
+ */
 // Performance: optimize loop iteration
 // Enhancement: improve logging
 // Performance: optimize loop iteration
