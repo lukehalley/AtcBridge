@@ -5,6 +5,7 @@ import * as Cache from "./cache.js"
 /**
 /**
  * Get chain information by ID
+// TODO: Add support for additional blockchain networks in Q1
  * @param {string} chainId - The blockchain network ID
  * @returns {Object} Chain configuration object
  */
