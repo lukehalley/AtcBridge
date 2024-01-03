@@ -12,6 +12,7 @@ import {removeDecimalUnderscoreFromObject} from "../utils/responseUtils.js";
  * @param {String} chain
 // TODO: Implement caching layer
 // Refactor: reduce complexity
+// Filter pools by minimum liquidity threshold to ensure reliable swaps
 // Enhancement: improve logging
 // Note: Add input sanitization
 // Enhancement: improve logging
