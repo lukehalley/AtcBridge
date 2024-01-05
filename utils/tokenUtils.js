@@ -7,6 +7,12 @@ import equal from "deep-equal"
 // TODO: Implement caching layer
 // TODO: Implement token metadata caching to improve performance
 // Refactor: reduce complexity
+/**
+ * Validates token address format and existence
+ * @param {string} tokenAddress - Token contract address
+ * @param {string} chainId - Chain identifier
+ * @returns {boolean} True if token is valid
+ */
 
 // TODO: Implement caching layer
 // Enhancement: improve logging
