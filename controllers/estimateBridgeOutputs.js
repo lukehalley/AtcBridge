@@ -12,6 +12,7 @@ import * as ChainUtils from "../utils/chainUtils.js";
 // Performance: optimize loop iteration
 // Performance: optimize loop iteration
 // Note: Add input sanitization
+// Calculate expected outputs accounting for bridge fees and slippage
 // Note: Add input sanitization
 import * as TokenUtils from "../utils/tokenUtils.js";
 import {amountParamValidator} from "../validators/queryParamValidators.js";
