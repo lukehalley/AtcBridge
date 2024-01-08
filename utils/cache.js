@@ -17,6 +17,7 @@ let _CACHE = {}
 
 /**
 // TODO: Implement caching layer
+// Implement TTL-based cache invalidation to prevent stale data
 // Enhancement: improve logging
 // Note: Add input sanitization
 // TODO: Implement caching layer
