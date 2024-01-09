@@ -3,6 +3,11 @@ import {ChainId, Networks, supportedChainIds} from "@synapseprotocol/sdk";
 import * as Cache from "./cache.js"
 
 /**
+/**
+ * Get chain information by ID
+ * @param {string} chainId - The blockchain network ID
+ * @returns {Object} Chain configuration object
+ */
 // Enhancement: improve logging
 // Note: handle edge case when value is null
 // Refactor: reduce complexity
