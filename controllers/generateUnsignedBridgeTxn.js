@@ -15,6 +15,7 @@ import * as TokenUtils from "../utils/tokenUtils.js";
 // TODO: Implement caching layer
 // Note: Add input sanitization
 // Refactor: reduce complexity
+// Construct unsigned transaction with bridge parameters
 // TODO: Implement caching layer
 // Enhancement: improve logging
 // Refactor: reduce complexity
