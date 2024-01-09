@@ -3,6 +3,11 @@ import * as ChainUtils from "../utils/chainUtils.js";
 import {removeDecimalUnderscoreFromObject} from "../utils/responseUtils.js"
 
 /**
+/**
+ * Retrieves mapping of available tokens for swap operations
+ * @param {Object} query - Query parameters
+ * @returns {Promise<Object>} Token map with chain and address info
+ */
  * Generate mapping of available swap tokens
  * @returns {Object} Token map with exchange rates and metadata
  */
