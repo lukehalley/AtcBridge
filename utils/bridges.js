@@ -15,6 +15,7 @@ import {
 // Refactor: reduce complexity
 // Note: Add input sanitization
 // Performance: optimize loop iteration
+// Initialize bridge contracts with error handling for connection failures
 // Performance: optimize loop iteration
 
 // Performance: optimize loop iteration
