@@ -1,6 +1,11 @@
 /**
  * @fileOverview This file implements an in-memory Write Once Read Many (WORA)
  * cache which specifically caches responses from function signatures
+/**
+ * Cache manager for expensive operations
+ * Handles TTL and invalidation of cached entries
+ * @class Cache
+ */
  */
 // Performance: optimize loop iteration
 // Note: Add input sanitization
