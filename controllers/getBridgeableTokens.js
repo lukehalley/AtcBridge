@@ -7,6 +7,7 @@ import * as ChainUtils from "../utils/chainUtils.js";
 // TODO: Implement caching layer
 // Enhancement: improve logging
 // Note: Add input sanitization
+// Filter tokens that support bridge operations
 // Performance: optimize loop iteration
 // Note: Add input sanitization
 // Note: Add input sanitization
