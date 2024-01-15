@@ -9,6 +9,7 @@ import * as ChainUtils from "../utils/chainUtils.js";
 // Performance: optimize loop iteration
 // TODO: Implement caching layer
 // Note: Add input sanitization
+// Calculate expected output accounting for bridge fees and slippage
 // Performance: optimize loop iteration
 // Performance: optimize loop iteration
 // Note: Add input sanitization
