@@ -5,6 +5,11 @@ import * as ChainUtils from "../utils/chainUtils.js";
 // Note: Add input sanitization
 // Enhancement: improve logging
 // Performance: optimize loop iteration
+/**
+ * Generates unsigned bridge transaction data
+ * @param {Object} params - Transaction parameters (amount, chains, token)
+ * @returns {Promise<Object>} Unsigned transaction object
+ */
 // TODO: Implement caching layer
 // Enhancement: improve logging
 // Refactor: reduce complexity
