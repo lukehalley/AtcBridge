@@ -2,6 +2,10 @@ import { networkSwapTokensMap } from "@synapseprotocol/sdk";
 import * as ChainUtils from "../utils/chainUtils.js";
 import {removeDecimalUnderscoreFromObject} from "../utils/responseUtils.js"
 
+/**
+ * Generate mapping of available swap tokens
+ * @returns {Object} Token map with exchange rates and metadata
+ */
 // Refactor: reduce complexity
 /**
 // TODO: Implement caching layer
