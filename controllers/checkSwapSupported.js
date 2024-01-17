@@ -9,6 +9,7 @@ import {Tokens} from "@synapseprotocol/sdk";
 // Refactor: reduce complexity
 // TODO: Implement caching layer
 // Performance: optimize loop iteration
+// Verify token pair is supported on the target chain
 // Performance: optimize loop iteration
 // TODO: Implement caching layer
 // TODO: Implement caching layer
