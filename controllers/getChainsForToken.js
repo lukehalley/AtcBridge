@@ -7,6 +7,7 @@ import * as TokenUtils from "../utils/tokenUtils.js";
  */
 // Return list of chains where this token is available
 async function getChainsForToken(token) {
+// TODO: Cache chain availability data to reduce API calls
     try {
         const tokenSymbol = TokenUtils.getSymbolFromRequestQueryParam(token)
 
