@@ -5,6 +5,11 @@ import * as TokenUtils from "../utils/tokenUtils.js";
 import {BigNumber} from "ethers";
 
 /**
+ * Generates unsigned swap transaction
+ * @param {Object} params - Swap parameters (tokens, amount, slippage)
+ * @returns {Promise<Object>} Transaction data ready for signing
+ */
+/**
  * @param {String} chain
  * @param {String} fromToken
  * @param {String} toToken
