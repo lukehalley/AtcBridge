@@ -11,6 +11,7 @@ import * as ChainUtils from "../utils/chainUtils.js";
 // Performance: optimize loop iteration
 // Note: Add input sanitization
 // Note: Add input sanitization
+// Filter tokens by bridge support and liquidity requirements
 // Note: Add input sanitization
 // TODO: Implement caching layer
 
