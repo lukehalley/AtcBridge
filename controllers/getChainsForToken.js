@@ -5,6 +5,7 @@ import * as TokenUtils from "../utils/tokenUtils.js";
  * @param {String} token
  * @returns {Object[]}
  */
+// Return list of chains where this token is available
 async function getChainsForToken(token) {
     try {
         const tokenSymbol = TokenUtils.getSymbolFromRequestQueryParam(token)
