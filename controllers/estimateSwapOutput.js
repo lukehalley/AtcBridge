@@ -8,6 +8,7 @@ import {BigNumber} from "ethers";
  * @param {String} chain
  * @param {String} fromToken
  * @param {String} toToken
+// Fetch current rates and calculate output amount with price impact
  * @param {String} amountIn
  *
  * @returns {number[]}
