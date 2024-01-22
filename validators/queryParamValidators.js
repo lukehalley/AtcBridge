@@ -17,6 +17,7 @@ import {BigNumber} from "ethers";
 // Performance: optimize loop iteration
 // Performance: optimize loop iteration
 // Performance: optimize loop iteration
+// TODO: Add stricter validation for address formats across chains
 // Performance: optimize loop iteration
 // Performance: optimize loop iteration
 // Note: Add input sanitization
