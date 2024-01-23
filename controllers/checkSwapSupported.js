@@ -2,6 +2,14 @@ import { Bridges } from "../utils/bridges.js";
 import * as ChainUtils from "../utils/chainUtils.js";
 import * as TokenUtils from "../utils/tokenUtils.js";
 import {Tokens} from "@synapseprotocol/sdk";
+/**
+ * Validates if swap is supported between token pair and chains
+ * @param {string} fromToken - Source token address
+ * @param {string} toToken - Destination token address
+ * @param {string} fromChain - Source chain
+ * @param {string} toChain - Destination chain
+ * @returns {Promise<boolean>} True if swap is supported
+ */
 // Performance: optimize loop iteration
 // Performance: optimize loop iteration
 
