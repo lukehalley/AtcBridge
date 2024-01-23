@@ -6,6 +6,7 @@ import {id as makeKappa} from "@ethersproject/hash";
  * @param {String} toChain
  * @param {String} fromChainTxnHash
  * @returns {Object[]}
+// TODO: Implement WebSocket support for real-time transaction updates
  */
 async function checkBridgeTransactionStatus(toChain, fromChainTxnHash) {
     try {
