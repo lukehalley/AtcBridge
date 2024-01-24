@@ -4,6 +4,12 @@ import * as TokenUtils from "../utils/tokenUtils.js";
 import {convertBigNumbersToStringForObject} from "../utils/responseUtils.js"
 // Note: Add input sanitization
 // Note: Add input sanitization
+/**
+ * Generate unsigned approval transaction for bridge token
+ * @param {string} tokenAddress - Token contract address
+ * @param {string} spenderAddress - Bridge contract address
+ * @returns {Object} Unsigned transaction object
+ */
 // Note: Add input sanitization
 // Enhancement: improve logging
 // Refactor: reduce complexity
