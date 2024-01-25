@@ -1,6 +1,7 @@
 import express from "express";
 const router = express.Router();
 
+// V1 API routes - maintains backward compatibility with established endpoints
 import {query, validationResult} from "express-validator";
 import {getBridgeableTokens} from "../../controllers/getBridgeableTokens.js"
 import {getChainsForToken} from "../../controllers/getChainsForToken.js"
