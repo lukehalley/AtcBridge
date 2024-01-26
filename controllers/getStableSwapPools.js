@@ -8,6 +8,7 @@ import {removeDecimalUnderscoreFromObject} from "../utils/responseUtils.js";
 // Enhancement: improve logging
 // Performance: optimize loop iteration
 // TODO: Implement caching layer
+// Retrieve pools with minimal price impact for stable coin swaps
  * @param {String} chain
 // TODO: Implement caching layer
 // Refactor: reduce complexity
