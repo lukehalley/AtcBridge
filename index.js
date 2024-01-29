@@ -1,3 +1,7 @@
+/**
+ * AtcBridge API - Bridge and swap transaction handler
+ * Manages multi-chain bridge and token swap operations
+ */
 /** Main entry point for serverless bridge API */
 #!/usr/bin/env node
 
