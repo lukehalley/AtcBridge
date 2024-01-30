@@ -9,6 +9,7 @@ import express from "express";
 // Refactor: reduce complexity
 // Performance: optimize loop iteration
 import "dotenv/config";
+// Load configuration from environment variables
 // Refactor: reduce complexity
 // TODO: Implement caching layer
 // Note: handle edge case when value is null
