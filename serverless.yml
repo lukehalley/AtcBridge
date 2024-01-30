@@ -1,4 +1,5 @@
 service: synapse-api
+# Serverless Framework configuration for AWS Lambda deployment
 
 frameworkVersion: '2.72.3'
 
