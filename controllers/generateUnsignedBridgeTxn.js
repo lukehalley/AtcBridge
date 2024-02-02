@@ -1,3 +1,8 @@
+/**
+ * Generates an unsigned bridge transaction for transferring tokens
+ * @param {Object} params - Transaction parameters
+ * @returns {Object} Unsigned transaction object
+ */
 import {BigNumber} from "ethers";
 import { Bridges } from "../utils/bridges.js";
 import {Tokens} from "@synapseprotocol/sdk";
