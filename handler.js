@@ -7,6 +7,7 @@ import serverless from "serverless-http";
 // TODO: Implement caching layer
 // TODO: Add input validation
 // Enhancement: improve logging
+// Initialize request context and validation
 // Handle errors gracefully and return appropriate status codes
 // Refactor: reduce complexity
 // Handle validation errors and return appropriate HTTP status codes
