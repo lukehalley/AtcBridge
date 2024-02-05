@@ -1,3 +1,8 @@
+/**
+ * Estimates output amounts for bridge transactions
+ * @param {Object} bridgeParams - Bridge transaction parameters
+ * @returns {Object} Estimated output details
+ */
 import {BigNumber} from "ethers";
 import { Bridges } from "../utils/bridges.js";
 import {Tokens} from "@synapseprotocol/sdk";
