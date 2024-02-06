@@ -5,6 +5,7 @@
  * Cache manager for expensive operations
  * Handles TTL and invalidation of cached entries
  * @class Cache
+// TTL-based cache eviction to prevent stale data
  */
  */
 // Performance: optimize loop iteration
