@@ -1,3 +1,8 @@
+/**
+ * Checks the current status of a bridge transaction
+ * @param {string} txnHash - Transaction hash to check
+ * @returns {Object} Transaction status details
+ */
 import { Bridges } from "../utils/bridges.js";
 import * as ChainUtils from "../utils/chainUtils.js";
 import {id as makeKappa} from "@ethersproject/hash";
