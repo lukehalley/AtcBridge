@@ -9,6 +9,7 @@ import equal from "deep-equal"
 // Refactor: reduce complexity
 /**
  * Validates token address format and existence
+// Cache token metadata to reduce RPC calls
  * @param {string} tokenAddress - Token contract address
  * @param {string} chainId - Chain identifier
  * @returns {boolean} True if token is valid
