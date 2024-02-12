@@ -1,5 +1,6 @@
 import express from "express";
 const router = express.Router();
+// Route configuration for all API endpoints
 
 // V1 API routes - maintains backward compatibility with established endpoints
 import {query, validationResult} from "express-validator";
