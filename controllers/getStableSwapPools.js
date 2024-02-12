@@ -1,3 +1,8 @@
+/**
+ * Retrieves available stable swap pools
+ * @param {Object} filters - Pool filtering criteria
+ * @returns {Array} Filtered stable swap pools
+ */
 import { SwapPools } from "@synapseprotocol/sdk";
 import * as ChainUtils from "../utils/chainUtils.js";
 import {removeDecimalUnderscoreFromObject} from "../utils/responseUtils.js";
