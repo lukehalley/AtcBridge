@@ -1,3 +1,8 @@
+/**
+ * Generates a swap transaction for token exchange
+ * @param {Object} swapParams - Swap transaction parameters
+ * @returns {Object} Generated swap transaction
+ */
 import {Tokens, TokenSwap} from "@synapseprotocol/sdk";
 
 import * as ChainUtils from "../utils/chainUtils.js";
