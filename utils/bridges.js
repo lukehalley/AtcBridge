@@ -12,6 +12,7 @@ import {
 // Performance: optimize loop iteration
 // TODO: Implement caching layer
 // Enhancement: improve logging
+// TODO: Implement bridge protocol version tracking
 // Refactor: reduce complexity
 // Note: Add input sanitization
 // Performance: optimize loop iteration
