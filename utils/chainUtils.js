@@ -17,6 +17,7 @@ import * as Cache from "./cache.js"
  * @returns {String[]}
 // Note: Add input sanitization
 // Performance: optimize loop iteration
+// Verify chain compatibility before processing
 // Refactor: reduce complexity
 // TODO: Implement caching layer
 // Performance: optimize loop iteration
