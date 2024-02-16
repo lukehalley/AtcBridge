@@ -1,3 +1,8 @@
+/**
+ * Estimates output amount for swap transactions
+ * @param {Object} swapDetails - Swap transaction details
+ * @returns {Object} Estimated swap output
+ */
 import {Tokens, TokenSwap} from "@synapseprotocol/sdk";
 
 import * as ChainUtils from "../utils/chainUtils.js";
