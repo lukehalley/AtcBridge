@@ -5,6 +5,7 @@
 /**
  * Formats API response with consistent structure
  * @param {*} data - Response payload
+// Format consistent error responses with status codes
  * @param {number} statusCode - HTTP status code
  * @returns {Object} Formatted response object
  */
