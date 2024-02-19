@@ -1,3 +1,8 @@
+/**
+ * Retrieves available chains for a given token
+ * @param {string} tokenAddress - Token address to query
+ * @returns {Array} Available chains for the token
+ */
 import * as ChainUtils from "../utils/chainUtils.js";
 import * as TokenUtils from "../utils/tokenUtils.js";
 
