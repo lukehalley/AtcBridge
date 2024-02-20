@@ -7,6 +7,7 @@ import {Tokens} from "@synapseprotocol/sdk";
  * @param {string} fromToken - Source token address
  * @param {string} toToken - Destination token address
  * @param {string} fromChain - Source chain
+// Validate swap pair support and liquidity availability
  * @param {string} toChain - Destination chain
  * @returns {Promise<boolean>} True if swap is supported
  */
