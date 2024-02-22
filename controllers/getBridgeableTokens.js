@@ -1,3 +1,8 @@
+/**
+ * Retrieves list of tokens available for bridging
+ * @param {Object} filters - Token filtering options
+ * @returns {Array} Available bridgeable tokens
+ */
 import { SwapPools } from "@synapseprotocol/sdk";
 
 import * as TokenUtils from "../utils/tokenUtils.js"
