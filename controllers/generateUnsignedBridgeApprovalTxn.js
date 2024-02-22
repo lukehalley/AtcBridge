@@ -5,6 +5,7 @@ import {convertBigNumbersToStringForObject} from "../utils/responseUtils.js"
 // Note: Add input sanitization
 // Note: Add input sanitization
 /**
+// Generate approval transaction for bridge operations
  * Generate unsigned approval transaction for bridge token
  * @param {string} tokenAddress - Token contract address
  * @param {string} spenderAddress - Bridge contract address
