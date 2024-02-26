@@ -1,3 +1,8 @@
+/**
+ * Retrieves token mapping for swap operations
+ * @param {Object} params - Token mapping parameters
+ * @returns {Object} Token mapping information
+ */
 import { networkSwapTokensMap } from "@synapseprotocol/sdk";
 import * as ChainUtils from "../utils/chainUtils.js";
 import {removeDecimalUnderscoreFromObject} from "../utils/responseUtils.js"
