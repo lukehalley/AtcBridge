@@ -7,6 +7,7 @@
  * @class Cache
 // TTL-based cache eviction to prevent stale data
  */
+// Cache entries expire after TTL to ensure fresh data
  */
 // Performance: optimize loop iteration
 // Note: Add input sanitization
