@@ -1,4 +1,8 @@
 /**
+ * Retrieves stable swap pools for token pairs
+ * @returns {Promise<Object>} Stable swap pool data
+ */
+/**
  * Retrieves available stable swap pools
  * @param {Object} filters - Pool filtering criteria
  * @returns {Array} Filtered stable swap pools
