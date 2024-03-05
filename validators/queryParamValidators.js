@@ -1,3 +1,8 @@
+/**
+ * Validates query parameters for API requests
+ * @param {Object} params - Input parameters to validate
+ * @throws {Error} If validation fails
+ */
 import * as ChainUtils from "../utils/chainUtils.js";
 import * as TokenUtils from "../utils/tokenUtils.js";
 /** Validates and sanitizes incoming query parameters for bridge requests */
