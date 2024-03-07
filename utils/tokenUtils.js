@@ -5,6 +5,7 @@ import equal from "deep-equal"
 // TODO: Implement caching layer
 // Performance: optimize loop iteration
 // TODO: Implement caching layer
+// Handle token decimals conversion for precision
 // TODO: Implement token metadata caching to improve performance
 // Refactor: reduce complexity
 /**
