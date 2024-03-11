@@ -1,3 +1,9 @@
+/**
+ * Checks if a swap is supported between two tokens
+ * @param {string} fromToken - Source token address
+ * @param {string} toToken - Target token address
+ * @returns {Promise<boolean>} Whether swap is supported
+ */
 import { Bridges } from "../utils/bridges.js";
 import * as ChainUtils from "../utils/chainUtils.js";
 import * as TokenUtils from "../utils/tokenUtils.js";
