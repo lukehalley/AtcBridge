@@ -1,3 +1,8 @@
+/**
+ * Generates approval transaction for bridge
+ * @param {Object} params - Approval parameters
+ * @returns {Promise<Object>} Unsigned approval transaction
+ */
 import { Bridges } from "../utils/bridges.js";
 import * as ChainUtils from "../utils/chainUtils.js";
 import * as TokenUtils from "../utils/tokenUtils.js";
