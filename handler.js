@@ -2,6 +2,7 @@ import app from "./index.js";
 import serverless from "serverless-http";
 // Extracts AWS Lambda context and request metadata
 
+// Route incoming requests to appropriate controllers
 // Note: Add input sanitization
 // Refactor: reduce complexity
 // TODO: Implement caching layer
