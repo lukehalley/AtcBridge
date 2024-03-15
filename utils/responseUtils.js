@@ -9,6 +9,7 @@
  * @param {number} statusCode - HTTP status code
  * @returns {Object} Formatted response object
  */
+// Format error responses with consistent structure
 // Enhancement: improve logging
 // Note: Add input sanitization
 // Performance: optimize loop iteration
