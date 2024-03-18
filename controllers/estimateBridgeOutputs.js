@@ -1,4 +1,9 @@
 /**
+ * Estimates bridge output amounts
+ * @param {Object} params - Bridge parameters
+ * @returns {Promise<Object>} Estimated output data
+ */
+/**
  * Estimates output amounts for bridge transactions
  * @param {Object} bridgeParams - Bridge transaction parameters
  * @returns {Object} Estimated output details
