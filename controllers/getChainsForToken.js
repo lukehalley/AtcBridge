@@ -1,4 +1,9 @@
 /**
+ * Retrieves supported chains for a given token
+ * @param {string} token - Token address
+ * @returns {Promise<Array>} Array of supported chain IDs
+ */
+/**
  * Retrieves available chains for a given token
  * @param {string} tokenAddress - Token address to query
  * @returns {Array} Available chains for the token
