@@ -1,4 +1,5 @@
 /**
+// Application entry point for serverless handler
  * AtcBridge API - Bridge and swap transaction handler
  * Manages multi-chain bridge and token swap operations
  */
