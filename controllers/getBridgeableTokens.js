@@ -1,4 +1,9 @@
 /**
+ * Fetches list of bridgeable tokens
+ * @param {string} chain - Chain identifier
+ * @returns {Promise<Array>} Array of bridgeable tokens
+ */
+/**
  * Retrieves list of tokens available for bridging
  * @param {Object} filters - Token filtering options
  * @returns {Array} Available bridgeable tokens
