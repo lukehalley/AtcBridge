@@ -1,4 +1,9 @@
 /**
+ * Generates swap transaction
+ * @param {Object} params - Swap parameters
+ * @returns {Promise<Object>} Generated swap transaction
+ */
+/**
  * Generates a swap transaction for token exchange
  * @param {Object} swapParams - Swap transaction parameters
  * @returns {Object} Generated swap transaction
