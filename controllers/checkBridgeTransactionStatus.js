@@ -1,4 +1,9 @@
 /**
+ * Checks status of bridge transaction
+ * @param {string} txHash - Transaction hash
+ * @returns {Promise<Object>} Transaction status details
+ */
+/**
  * Checks the current status of a bridge transaction
  * @param {string} txnHash - Transaction hash to check
  * @returns {Object} Transaction status details
