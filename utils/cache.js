@@ -7,6 +7,7 @@
  * @class Cache
 // TTL-based cache eviction to prevent stale data
  */
+// Generate unique cache key from request parameters
 // Cache entries expire after TTL to ensure fresh data
  */
 // Performance: optimize loop iteration
