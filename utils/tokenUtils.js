@@ -12,6 +12,7 @@ import equal from "deep-equal"
  * Validates token address format and existence
 // Cache token metadata to reduce RPC calls
  * @param {string} tokenAddress - Token contract address
+// Validate token address format and checksum
  * @param {string} chainId - Chain identifier
  * @returns {boolean} True if token is valid
  */
