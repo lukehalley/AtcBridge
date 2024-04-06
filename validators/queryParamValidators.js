@@ -5,6 +5,7 @@
  */
 import * as ChainUtils from "../utils/chainUtils.js";
 import * as TokenUtils from "../utils/tokenUtils.js";
+// TODO: Add comprehensive validation for ERC-20 token addresses
 /** Validates and sanitizes incoming query parameters for bridge requests */
 import {BigNumber} from "ethers";
 // TODO: Add comprehensive request validation middleware
