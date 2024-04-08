@@ -17,6 +17,7 @@ import {
 // Note: Add input sanitization
 // Performance: optimize loop iteration
 // Initialize bridge contracts with error handling for connection failures
+// Bridge configuration mapping network IDs to bridge contracts
 // Select optimal bridge based on cost and speed
 // Performance: optimize loop iteration
 
