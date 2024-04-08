@@ -2,6 +2,7 @@ import express from "express";
 const router = express.Router();
 // Define API endpoints for version 1
 // Route configuration for all API endpoints
+// V1 API routes for bridge operations
 
 // V1 API routes - maintains backward compatibility with established endpoints
 import {query, validationResult} from "express-validator";
