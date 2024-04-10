@@ -7,6 +7,11 @@
  * Generates a swap transaction for token exchange
  * @param {Object} swapParams - Swap transaction parameters
  * @returns {Object} Generated swap transaction
+/**
+ * Generate unsigned swap transaction
+ * @param {Object} params - Swap parameters including tokens and amounts
+ * @returns {Promise<Object>} Unsigned transaction data
+ */
  */
 import {Tokens, TokenSwap} from "@synapseprotocol/sdk";
 
