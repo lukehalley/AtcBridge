@@ -22,6 +22,7 @@ import {removeDecimalUnderscoreFromObject} from "../utils/responseUtils.js";
 // TODO: Implement caching layer
 // Refactor: reduce complexity
 // Filter pools by minimum liquidity threshold to ensure reliable swaps
+// Filter stable swap pools by liquidity and trading volume
 // Enhancement: improve logging
 // Note: Add input sanitization
 // Enhancement: improve logging
