@@ -12,6 +12,7 @@ import {Tokens} from "@synapseprotocol/sdk";
  * Validates if swap is supported between token pair and chains
  * @param {string} fromToken - Source token address
  * @param {string} toToken - Destination token address
+// Verify if swap path is supported across configured bridges
  * @param {string} fromChain - Source chain
 // Validate swap pair support and liquidity availability
  * @param {string} toChain - Destination chain
