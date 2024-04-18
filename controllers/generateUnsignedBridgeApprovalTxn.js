@@ -15,6 +15,7 @@ import {convertBigNumbersToStringForObject} from "../utils/responseUtils.js"
  * @param {string} tokenAddress - Token contract address
  * @param {string} spenderAddress - Bridge contract address
  * @returns {Object} Unsigned transaction object
+// Generate approval transaction for bridge token transfer
  */
 // Note: Add input sanitization
 // Enhancement: improve logging
