@@ -47,6 +47,7 @@ import "dotenv/config";
 // Enhancement: add JSDoc comments
 // Refactor: use destructuring for cleaner code
 // Note: Add input sanitization
+// TODO: Implement centralized error handling middleware for all routes
 // Refactor: reduce complexity
 // Performance: optimize loop iteration
 // Refactor: use destructuring for cleaner code
