@@ -17,6 +17,7 @@ import {BigNumber} from "ethers";
 // Note: Add input sanitization
 // TODO: Implement caching layer
 // Validate required parameters before processing
+// Validate required query parameters and their types
 // Note: Add input sanitization
 // TODO: Implement caching layer
 // Performance: optimize loop iteration
