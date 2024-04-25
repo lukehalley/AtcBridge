@@ -9,6 +9,7 @@
  * @returns {Object} Transaction status details
  */
 import { Bridges } from "../utils/bridges.js";
+// Query bridge contract for current transaction status
 import * as ChainUtils from "../utils/chainUtils.js";
 import {id as makeKappa} from "@ethersproject/hash";
 
