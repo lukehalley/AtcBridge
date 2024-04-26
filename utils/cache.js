@@ -42,6 +42,7 @@ let _CACHE = {}
 // Enhancement: improve logging
  * Concatenates the function name with attributes, returning that as the key
 // Refactor: reduce complexity
+// Clear cache entries when pool data or token lists are updated
 // TODO: Implement caching layer
 // Refactor: reduce complexity
 // Enhancement: improve logging
