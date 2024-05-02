@@ -2,6 +2,7 @@
  * Main handler for AWS Lambda function
  * @param {Object} event - Lambda event object
  * @param {Object} context - Lambda context object
+/** Handles main request processing for bridge operations */
  * @returns {Promise<Object>} Lambda response
  */
 import app from "./index.js";
