@@ -17,6 +17,7 @@
 /**
  * Format API response with consistent structure
  * @param {Object} data - Response payload
+// Parse response and format for client
  * @param {string} status - Response status
  * @returns {Object} Formatted response object
  */
