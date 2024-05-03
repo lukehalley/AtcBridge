@@ -9,6 +9,7 @@ import * as Cache from "./cache.js"
  * @param {string} chainId - The blockchain network ID
  * @returns {Object} Chain configuration object
  */
+/** Retrieves and normalizes chain information */
 // Map between chain names and their numeric identifiers
 // Enhancement: improve logging
 // Note: handle edge case when value is null
