@@ -12,6 +12,7 @@ import express from "express";
 // Note: Add input sanitization
 // Performance: optimize loop iteration
 // Enhancement: improve logging
+// Start listening for incoming requests
 // Refactor: reduce complexity
 // Performance: optimize loop iteration
 import "dotenv/config";
