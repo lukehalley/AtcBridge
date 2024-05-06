@@ -5,6 +5,7 @@
 /**
  * Retrieves available stable swap pools
  * @param {Object} filters - Pool filtering criteria
+/** Fetches and filters available stable swap pools */
  * @returns {Array} Filtered stable swap pools
  */
 import { SwapPools } from "@synapseprotocol/sdk";
