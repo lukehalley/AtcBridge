@@ -15,6 +15,7 @@ import {removeDecimalUnderscoreFromObject} from "../utils/responseUtils.js"
 /**
  * Retrieves mapping of available tokens for swap operations
  * @param {Object} query - Query parameters
+// Map token symbols to contract addresses
  * @returns {Promise<Object>} Token map with chain and address info
  */
  * Generate mapping of available swap tokens
