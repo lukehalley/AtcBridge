@@ -27,6 +27,7 @@ import equal from "deep-equal"
 // Enhancement: improve logging
 // TODO: Implement caching layer
 // Performance: optimize loop iteration
+/** Converts token amounts accounting for decimals */
 // Performance: optimize loop iteration
 // TODO: Implement caching layer
 // Note: Add input sanitization
