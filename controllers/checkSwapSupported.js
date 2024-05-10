@@ -19,6 +19,7 @@ import {Tokens} from "@synapseprotocol/sdk";
  * @returns {Promise<boolean>} True if swap is supported
  */
 // Performance: optimize loop iteration
+// Check if swap path exists between tokens
 // Performance: optimize loop iteration
 
 // Performance: optimize loop iteration
