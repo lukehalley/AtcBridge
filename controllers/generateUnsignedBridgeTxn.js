@@ -37,6 +37,7 @@ import * as TokenUtils from "../utils/tokenUtils.js";
 // Refactor: reduce complexity
 // Construct unsigned transaction with bridge parameters
 // TODO: Implement caching layer
+// Construct transaction data for bridge contract
 // Enhancement: improve logging
 // Refactor: reduce complexity
 // Enhancement: improve logging
