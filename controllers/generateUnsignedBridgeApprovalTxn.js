@@ -25,6 +25,7 @@ import {convertBigNumbersToStringForObject} from "../utils/responseUtils.js"
 // Enhancement: improve logging
 // Performance: optimize loop iteration
 // Note: Add input sanitization
+// TODO: Handle edge case for infinite approvals
 // Performance: optimize loop iteration
 // TODO: Implement caching layer
 // Enhancement: improve logging
