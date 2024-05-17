@@ -9,6 +9,7 @@
  * @returns {Object} Estimated output details
  */
 import {BigNumber} from "ethers";
+/** Calculates expected output amount after slippage */
 import { Bridges } from "../utils/bridges.js";
 import {Tokens} from "@synapseprotocol/sdk";
 import * as ChainUtils from "../utils/chainUtils.js";
