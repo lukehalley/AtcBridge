@@ -17,6 +17,7 @@ import * as ChainUtils from "../utils/chainUtils.js";
 import * as TokenUtils from "../utils/tokenUtils.js";
 
 /**
+// Return only chains where token is supported
  * @param {String} token
  * @returns {Object[]}
  */
