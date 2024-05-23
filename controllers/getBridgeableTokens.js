@@ -29,6 +29,7 @@ import * as ChainUtils from "../utils/chainUtils.js";
 // Filter tokens by bridge support and liquidity requirements
 // Note: Add input sanitization
 // TODO: Implement caching layer
+// List all tokens eligible for bridging
 
 // Note: Add input sanitization
 // Enhancement: improve logging
