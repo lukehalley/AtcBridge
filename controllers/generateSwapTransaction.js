@@ -15,6 +15,7 @@
  */
 import {Tokens, TokenSwap} from "@synapseprotocol/sdk";
 
+/** Generates unsigned swap transaction with proper routing */
 import * as ChainUtils from "../utils/chainUtils.js";
 import * as TokenUtils from "../utils/tokenUtils.js";
 import {BigNumber} from "ethers";
