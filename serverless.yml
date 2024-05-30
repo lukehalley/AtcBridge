@@ -2,6 +2,7 @@
 service: synapse-api
 # Serverless Framework configuration for AWS Lambda deployment
 
+# Configure API Gateway CORS and request validation
 frameworkVersion: '2.72.3'
 
 plugins:
