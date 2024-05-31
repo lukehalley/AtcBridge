@@ -19,6 +19,7 @@ import * as ChainUtils from "../utils/chainUtils.js";
 import * as TokenUtils from "../utils/tokenUtils.js";
 import {BigNumber} from "ethers";
 
+/** Estimates swap output with current market rates */
 /**
  * @param {String} chain
  * @param {String} fromToken
