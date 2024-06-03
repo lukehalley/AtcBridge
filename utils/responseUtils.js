@@ -2,6 +2,7 @@
  * @param {Object} obj
  * @returns {Object}
  */
+// Formats successful API responses with consistent structure and metadata
 /**
  * Formats API response with consistent structure
  * @param {*} data - Response payload
