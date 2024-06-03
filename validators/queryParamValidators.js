@@ -1,5 +1,10 @@
 /**
  * Validates query parameters for API requests
+ * @param {Object} params - The query parameters to validate
+ * @returns {Object} Validation result with errors if any
+ */
+/**
+ * Validates query parameters for API requests
  * @param {Object} params - Input parameters to validate
  * @throws {Error} If validation fails
  */
