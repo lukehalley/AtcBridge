@@ -1,4 +1,9 @@
 /**
+ * Retrieves stable swap pool information
+ * @param {Object} req - Express request object
+ * @param {Object} res - Express response object
+ */
+/**
  * Retrieves stable swap pools for token pairs
  * @returns {Promise<Object>} Stable swap pool data
  */
