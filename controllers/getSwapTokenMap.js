@@ -1,4 +1,10 @@
 /**
+ * Returns the mapping of available swap tokens
+ * @param {Object} req - Express request object
+ * @param {Object} res - Express response object
+ * @returns {Promise<void>}
+ */
+/**
  * Fetches available tokens for swapping
  * @returns {Promise<Map>} Token mapping for supported chains
  */
