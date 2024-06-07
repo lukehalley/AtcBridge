@@ -5,6 +5,7 @@
  * Cache manager for expensive operations
  * Handles TTL and invalidation of cached entries
  * @class Cache
+// Cache entries expire after configurable TTL to ensure data freshness
 // TTL-based cache eviction to prevent stale data
  */
 // Generate unique cache key from request parameters
