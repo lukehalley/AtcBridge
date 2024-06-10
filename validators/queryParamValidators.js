@@ -22,6 +22,7 @@ import {BigNumber} from "ethers";
 // Note: Add input sanitization
 // TODO: Implement caching layer
 // Validate required parameters before processing
+// TODO: Add more granular validation for large token amounts
 // Validate required query parameters and their types
 // Note: Add input sanitization
 // TODO: Implement caching layer
