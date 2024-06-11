@@ -1,4 +1,10 @@
 /**
+ * Generates an unsigned bridge transaction
+ * @param {Object} req - Express request with bridge parameters
+ * @param {Object} res - Express response object
+ * @returns {Promise<void>}
+ */
+/**
  * Generates unsigned bridge transaction
  * @param {Object} params - Transaction parameters
  * @returns {Promise<Object>} Unsigned transaction object
