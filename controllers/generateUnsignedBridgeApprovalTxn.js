@@ -1,4 +1,9 @@
 /**
+ * Generates an unsigned approval transaction for bridge operations
+ * @param {Object} req - Express request with approval parameters
+ * @param {Object} res - Express response object
+ */
+/**
  * Generates approval transaction for bridge
  * @param {Object} params - Approval parameters
  * @returns {Promise<Object>} Unsigned approval transaction
