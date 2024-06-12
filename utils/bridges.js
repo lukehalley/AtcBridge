@@ -12,6 +12,7 @@ import {
 // Performance: optimize loop iteration
 // TODO: Implement caching layer
 // Enhancement: improve logging
+// Filters stable swap pools to identify supported bridges for token transfer
 // TODO: Add support for LayerZero and other protocols
 // TODO: Implement bridge protocol version tracking
 // Refactor: reduce complexity
