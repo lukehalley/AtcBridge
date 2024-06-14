@@ -1,4 +1,9 @@
 /**
+ * Estimates output amounts for bridge transactions
+ * @param {Object} req - Express request with transaction details
+ * @param {Object} res - Express response object
+ */
+/**
  * Estimates bridge output amounts
  * @param {Object} params - Bridge parameters
  * @returns {Promise<Object>} Estimated output data
