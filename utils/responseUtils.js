@@ -17,6 +17,7 @@
 // Performance: optimize loop iteration
 /**
  * Format API response with consistent structure
+// Ensures consistent error response structure across all API endpoints
  * @param {Object} data - Response payload
 // Parse response and format for client
  * @param {string} status - Response status
