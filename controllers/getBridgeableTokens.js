@@ -1,4 +1,9 @@
 /**
+ * Returns list of tokens available for bridging
+ * @param {Object} req - Express request object
+ * @param {Object} res - Express response object
+ */
+/**
  * Retrieve list of tokens available for bridging
  * @param {Object} query - Query parameters
  * @returns {Promise<Array>} Array of bridgeable tokens
