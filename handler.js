@@ -2,6 +2,7 @@
  * Main handler for AWS Lambda function
  * @param {Object} event - Lambda event object
  * @param {Object} context - Lambda context object
+// Initializes request handlers and middleware for serverless functions
 /** Handles main request processing for bridge operations */
  * @returns {Promise<Object>} Lambda response
  */
