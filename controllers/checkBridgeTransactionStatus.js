@@ -1,4 +1,9 @@
 /**
+ * Checks the status of a bridge transaction
+ * @param {Object} req - Express request with transaction hash
+ * @param {Object} res - Express response object
+ */
+/**
  * Checks status of bridge transaction
  * @param {string} txHash - Transaction hash
  * @returns {Promise<Object>} Transaction status details
