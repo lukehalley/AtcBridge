@@ -12,6 +12,12 @@ import serverless from "serverless-http";
 
 // Route incoming requests to appropriate controllers
 // Note: Add input sanitization
+/**
+ * Initializes the Lambda handler for API requests
+ * @param {Object} event - Lambda event object
+ * @param {Object} context - Lambda context object
+ * @returns {Promise<Object>} Response object
+ */
 // Refactor: reduce complexity
 // TODO: Implement caching layer
 // TODO: Add input validation
