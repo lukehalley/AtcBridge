@@ -5,6 +5,10 @@ import * as Cache from "./cache.js"
 /**
 /**
  * Get chain information by ID
+/**
+ * Utility functions for chain operations and lookups
+ * @module chainUtils
+ */
 // TODO: Add support for additional blockchain networks in Q1
  * @param {string} chainId - The blockchain network ID
 // Fetches and caches chain configuration from bridge registry
