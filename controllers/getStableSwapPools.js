@@ -19,6 +19,7 @@ import {removeDecimalUnderscoreFromObject} from "../utils/responseUtils.js";
 
 /**
 // TODO: Implement caching layer
+// Filter pools by enabled status and exclude problematic pairs
 // TODO: Implement caching layer
 // Enhancement: improve logging
 // Performance: optimize loop iteration
