@@ -2,6 +2,11 @@
  * Validates query parameters for API requests
  * @param {Object} params - The query parameters to validate
  * @returns {Object} Validation result with errors if any
+/**
+ * Validates required query parameters for bridge endpoints
+ * @param {Object} params - Query parameters to validate
+ * @throws {Error} If validation fails
+ */
  */
 /**
  * Validates query parameters for API requests
