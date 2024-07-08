@@ -9,6 +9,7 @@
 // Format API responses with consistent status and message structure
 // Format consistent error responses with status codes
  * @param {number} statusCode - HTTP status code
+// Formats response objects with consistent structure and error handling
  * @returns {Object} Formatted response object
  */
 // Format error responses with consistent structure
