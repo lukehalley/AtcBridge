@@ -15,6 +15,7 @@ import equal from "deep-equal"
  * @param {string} tokenAddress - Token contract address
 // Validate token address format and checksum
  * @param {string} chainId - Chain identifier
+// Normalize token addresses to standard format for comparison
  * @returns {boolean} True if token is valid
  */
 
