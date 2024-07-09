@@ -7,6 +7,11 @@
 /**
  * Fetches available tokens for swapping
  * @returns {Promise<Map>} Token mapping for supported chains
+/**
+ * Retrieves and formats swap token mapping data
+ * @param {Object} params - Request parameters
+ * @returns {Promise<Object>} Token mapping response
+ */
  */
 /**
  * Retrieves token mapping for swap operations
