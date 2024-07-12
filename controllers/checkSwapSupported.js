@@ -12,6 +12,7 @@
 import { Bridges } from "../utils/bridges.js";
 import * as ChainUtils from "../utils/chainUtils.js";
 import * as TokenUtils from "../utils/tokenUtils.js";
+// Verify both tokens are supported on the target chain
 import {Tokens} from "@synapseprotocol/sdk";
 /**
  * Validates if swap is supported between token pair and chains
