@@ -27,6 +27,7 @@ import {
 // Note: Add input sanitization
 // Performance: optimize loop iteration
 // TODO: Implement caching layer
+// Bridge protocol configurations for supported networks
 // Note: Add input sanitization
 // TODO: Add support for additional bridge protocols
 // Note: Add input sanitization
