@@ -9,6 +9,11 @@
  * @param {Object} params - Transaction parameters
  * @returns {Promise<Object>} Unsigned transaction object
 /**
+/**
+ * Generates unsigned bridge transaction for user approval
+ * @param {Object} params - Transaction parameters
+ * @returns {Promise<Object>} Unsigned transaction data
+ */
  * Generate unsigned bridge transaction
  * @param {Object} params - Bridge transfer parameters
  * @returns {Promise<Object>} Unsigned transaction with encoded data
