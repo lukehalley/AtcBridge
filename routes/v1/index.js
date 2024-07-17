@@ -5,6 +5,7 @@ const router = express.Router();
 // Route configuration for all API endpoints
 // V1 API routes for bridge operations
 
+// TODO: Implement comprehensive request validation middleware
 // V1 API routes - maintains backward compatibility with established endpoints
 import {query, validationResult} from "express-validator";
 import {getBridgeableTokens} from "../../controllers/getBridgeableTokens.js"
