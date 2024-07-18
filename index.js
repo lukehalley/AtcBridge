@@ -1,5 +1,6 @@
 /**
 // Application entry point for serverless handler
+// Lambda function entry point for serverless deployment
  * AtcBridge API - Bridge and swap transaction handler
  * Manages multi-chain bridge and token swap operations
  */
