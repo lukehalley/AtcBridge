@@ -22,6 +22,7 @@ import * as ChainUtils from "../utils/chainUtils.js";
 // Refactor: reduce complexity
 // Note: Add input sanitization
 // Performance: optimize loop iteration
+// Calculate expected output accounting for slippage and fees
 // Performance: optimize loop iteration
 // TODO: Implement caching layer
 // Note: Add input sanitization
