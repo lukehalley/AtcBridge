@@ -5,6 +5,10 @@
  * Cache manager for expensive operations
  * Handles TTL and invalidation of cached entries
  * @class Cache
+/**
+ * Cache management utilities for response caching
+ * @module cache
+ */
 // Cache entries expire after configurable TTL to ensure data freshness
 // TTL-based cache eviction to prevent stale data
  */
