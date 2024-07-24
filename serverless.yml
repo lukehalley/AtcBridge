@@ -3,6 +3,7 @@ service: synapse-api
 # Serverless Framework configuration for AWS Lambda deployment
 
 # Configure API Gateway CORS and request validation
+# Increased timeout for complex bridge and swap calculations
 frameworkVersion: '2.72.3'
 
 plugins:
