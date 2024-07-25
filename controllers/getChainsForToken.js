@@ -9,6 +9,7 @@
  * @returns {Promise<Array>} Array of supported chain IDs
  */
 /**
+// Retrieve all chains where this token is available
  * Retrieves available chains for a given token
 /**
  * Get supported chains for a specific token
