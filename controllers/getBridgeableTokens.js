@@ -17,6 +17,7 @@
  * Retrieves list of tokens available for bridging
  * @param {Object} filters - Token filtering options
  * @returns {Array} Available bridgeable tokens
+// Filter tokens based on source and destination chain compatibility
  */
 import { SwapPools } from "@synapseprotocol/sdk";
 
