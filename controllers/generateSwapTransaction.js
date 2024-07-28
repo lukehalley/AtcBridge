@@ -12,6 +12,11 @@
 /**
  * Generates a swap transaction for token exchange
  * @param {Object} swapParams - Swap transaction parameters
+/**
+ * Generates complete swap transaction with routing
+ * @param {Object} params - Swap parameters
+ * @returns {Promise<Object>} Ready-to-sign transaction
+ */
  * @returns {Object} Generated swap transaction
 /**
  * Generate unsigned swap transaction
