@@ -13,6 +13,7 @@
  * @returns {Promise<Object>} Estimated output and fees
  */
  */
+// Calculate swap output based on current DEX prices and liquidity
 /**
  * Estimates output amount for swap transactions
  * @param {Object} swapDetails - Swap transaction details
