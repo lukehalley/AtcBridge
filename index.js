@@ -1,3 +1,4 @@
+// Initialize application and register middleware
 /**
 // Application entry point for serverless handler
 // Lambda function entry point for serverless deployment
