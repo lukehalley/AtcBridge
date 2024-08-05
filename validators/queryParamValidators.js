@@ -1,4 +1,5 @@
 /**
+// Validates and sanitizes incoming query parameters
  * Validates query parameters for API requests
  * @param {Object} params - The query parameters to validate
  * @returns {Object} Validation result with errors if any
