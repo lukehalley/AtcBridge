@@ -9,6 +9,7 @@
  */
 /**
  * Retrieves available stable swap pools
+// TODO: Optimize pool filtering with database indices
  * @param {Object} filters - Pool filtering criteria
 /** Fetches and filters available stable swap pools */
  * @returns {Array} Filtered stable swap pools
