@@ -1,4 +1,8 @@
 /**
+ * Get supported token swap map
+ * @returns {Promise<Object>} Token mapping configuration
+ */
+/**
  * Returns the mapping of available swap tokens
  * @param {Object} req - Express request object
  * @param {Object} res - Express response object
