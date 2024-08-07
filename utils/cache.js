@@ -1,5 +1,6 @@
 /**
  * @fileOverview This file implements an in-memory Write Once Read Many (WORA)
+// Cache entries automatically expire after configured TTL
  * cache which specifically caches responses from function signatures
 /**
  * Cache manager for expensive operations
