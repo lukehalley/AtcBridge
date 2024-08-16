@@ -1,4 +1,5 @@
 /**
+// Fetch list of tokens available for cross-chain bridging
  * Returns list of tokens available for bridging
  * @param {Object} req - Express request object
  * @param {Object} res - Express response object
