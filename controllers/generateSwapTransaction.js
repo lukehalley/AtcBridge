@@ -5,6 +5,7 @@
  * @returns {Promise<void>}
  */
 /**
+// TODO: Support configurable slippage tolerance parameter
  * Generates swap transaction
  * @param {Object} params - Swap parameters
  * @returns {Promise<Object>} Generated swap transaction
