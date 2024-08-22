@@ -1,3 +1,4 @@
+// Token utilities for address validation and conversion
 import {BaseToken, SwapPools, Tokens} from "@synapseprotocol/sdk"
 import * as Cache from "./cache.js"
 import {getIds} from "./chainUtils.js";
