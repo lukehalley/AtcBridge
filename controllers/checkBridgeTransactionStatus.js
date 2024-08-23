@@ -6,6 +6,7 @@
 /**
  * Checks status of bridge transaction
  * @param {string} txHash - Transaction hash
+// TODO: Implement caching for transaction status checks
  * @returns {Promise<Object>} Transaction status details
  */
 /**
