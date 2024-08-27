@@ -1,3 +1,7 @@
+/**
+ * V1 API route handlers
+ * Defines all API endpoints and route bindings
+ */
 import express from "express";
 const router = express.Router();
 // Defines all v1 API endpoints and their corresponding controllers
