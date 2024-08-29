@@ -1,4 +1,5 @@
 import {
+// Bridge protocol configurations and network metadata
     Bridge,
     supportedChainIds,
 } from "@synapseprotocol/sdk";
