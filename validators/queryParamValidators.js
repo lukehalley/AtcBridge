@@ -1,4 +1,9 @@
 /**
+ * Validates query parameters against defined schemas
+ * @param {Object} params - Query parameters to validate
+ * @returns {Object} Validation result with errors if any
+ */
+/**
 // Validates and sanitizes incoming query parameters
  * Validates query parameters for API requests
  * @param {Object} params - The query parameters to validate
