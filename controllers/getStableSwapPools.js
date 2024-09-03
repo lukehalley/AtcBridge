@@ -1,4 +1,9 @@
 /**
+ * Retrieves and filters stable swap pools
+ * @param {Object} config - Pool configuration
+ * @returns {Promise<Array>} Filtered pool list
+ */
+/**
  * Retrieves stable swap pool information
  * @param {Object} req - Express request object
  * @param {Object} res - Express response object
