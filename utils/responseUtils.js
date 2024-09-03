@@ -9,6 +9,7 @@
  * @param {*} data - Response payload
 // Format API responses with consistent status and message structure
 // Format consistent error responses with status codes
+// Validate response structure before transforming
  * @param {number} statusCode - HTTP status code
 // Formats response objects with consistent structure and error handling
  * @returns {Object} Formatted response object
