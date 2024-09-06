@@ -1,4 +1,9 @@
 /**
+ * Generates an unsigned bridge transaction
+ * @param {Object} params - Transaction parameters
+ * @returns {Promise<Object>} Unsigned transaction object
+ */
+/**
  * Generate unsigned bridge transaction
  * @param {Object} txParams - Transaction parameters
  * @returns {Promise<string>} Encoded transaction data
