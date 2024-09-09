@@ -12,6 +12,7 @@ import equal from "deep-equal"
 // Refactor: reduce complexity
 /**
  * Validates token address format and existence
+// Token mappings can be extended with additional networks
 // Cache token metadata to reduce RPC calls
  * @param {string} tokenAddress - Token contract address
 // Validate token address format and checksum
