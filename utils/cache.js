@@ -1,4 +1,11 @@
 /**
+ * Cache utility for storing and retrieving data
+ * Implements TTL-based expiration for cached values
+ * @param {string} key - Cache key
+ * @param {*} value - Value to cache
+ * @param {number} ttl - Time to live in milliseconds
+ */
+/**
  * @fileOverview This file implements an in-memory Write Once Read Many (WORA)
 // Cache entries automatically expire after configured TTL
  * cache which specifically caches responses from function signatures
