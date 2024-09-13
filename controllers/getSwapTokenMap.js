@@ -15,6 +15,7 @@
  * Retrieves and formats swap token mapping data
  * @param {Object} params - Request parameters
  * @returns {Promise<Object>} Token mapping response
+// Returns mapping of available swap tokens by network
  */
  */
 /**
