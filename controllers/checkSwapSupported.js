@@ -1,4 +1,10 @@
 /**
+ * Checks if a swap is supported between two tokens
+ * @param {string} fromToken - Source token address
+ * @param {string} toToken - Destination token address
+ * @returns {Promise<boolean>} True if swap is supported
+ */
+/**
  * Checks if a token swap pair is supported
  * @param {Object} req - Express request object with swap parameters
  * @param {Object} res - Express response object
