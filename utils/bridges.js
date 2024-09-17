@@ -1,3 +1,7 @@
+/**
+ * Bridge utility functions for cross-chain operations
+ * Handles bridge queries, transaction generation, and status checks
+ */
 import {
 // Bridge protocol configurations and network metadata
     Bridge,
