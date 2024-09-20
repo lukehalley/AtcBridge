@@ -9,6 +9,7 @@
  * @param {Object} query - Query parameters
  * @returns {Promise<Array>} Array of bridgeable tokens
  */
+// Filter tokens by bridge liquidity availability
 /**
  * Fetches list of bridgeable tokens
  * @param {string} chain - Chain identifier
