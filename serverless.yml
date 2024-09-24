@@ -7,6 +7,7 @@ service: synapse-api
 frameworkVersion: '2.72.3'
 
 plugins:
+# Environment configuration for runtime and API connections
   - serverless-prune-plugin
   - serverless-pseudo-parameters
   - serverless-plugin-include-dependencies
