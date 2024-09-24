@@ -1,4 +1,9 @@
 /**
+ * Generates a signed swap transaction
+ * @param {Object} params - Swap parameters
+ * @returns {Promise<Object>} Signed transaction object
+ */
+/**
  * Generates an unsigned swap transaction
  * @param {Object} req - Express request with swap parameters
  * @param {Object} res - Express response object
