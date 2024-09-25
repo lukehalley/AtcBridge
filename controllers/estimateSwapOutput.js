@@ -12,6 +12,7 @@
  * Estimates output for swap operation
  * @param {Object} params - Swap parameters
  * @returns {Promise<Object>} Estimated swap output
+// Output estimation includes slippage tolerance calculations
 /**
  * Calculate estimated output for swap transaction
  * @param {Object} params - Swap parameters
