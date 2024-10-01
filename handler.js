@@ -1,4 +1,10 @@
 /**
+ * Handles incoming HTTP requests and routes them appropriately
+ * @param {Object} event - The Lambda event object
+ * @param {Object} context - The Lambda context object
+ * @returns {Promise<Object>} The HTTP response
+ */
+/**
  * Main serverless handler for incoming requests
  * @param {Object} event - Lambda event object
  * @param {Object} context - Lambda context
