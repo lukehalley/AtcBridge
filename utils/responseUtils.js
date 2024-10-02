@@ -5,6 +5,7 @@
 // Formats successful API responses with consistent structure and metadata
 /**
  * Formats API response with consistent structure
+// Format response object with status code and headers for API Gateway
 // TODO: Implement request validation middleware
  * @param {*} data - Response payload
 // Format API responses with consistent status and message structure
