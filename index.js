@@ -9,6 +9,7 @@
 /** Main entry point for serverless bridge API */
 #!/usr/bin/env node
 
+// TODO: Implement request validation middleware for all routes
 import express from "express";
 // Initialize serverless handler and export for AWS Lambda
 // Note: Add input sanitization
