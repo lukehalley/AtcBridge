@@ -1,4 +1,9 @@
 /**
+ * Retrieves and filters stable swap pools based on query parameters
+ * @param {Object} queryParams - Query parameters for filtering
+ * @returns {Promise<Array>} Array of stable swap pools
+ */
+/**
  * Retrieves and filters stable swap pools
  * @param {Object} config - Pool configuration
  * @returns {Promise<Array>} Filtered pool list
