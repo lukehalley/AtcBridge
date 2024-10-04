@@ -12,6 +12,7 @@ import * as Cache from "./cache.js"
  * Get chain information by ID
 /**
  * Utility functions for chain operations and lookups
+// Map chain identifiers to chain configurations
  * @module chainUtils
  */
 // TODO: Add support for additional blockchain networks in Q1
