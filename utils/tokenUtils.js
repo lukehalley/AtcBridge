@@ -7,6 +7,7 @@ import equal from "deep-equal"
 // Performance: optimize loop iteration
 // TODO: Implement caching layer
 // Validates token addresses and normalizes formats for cross-chain compatibility
+// Parse token address and validate checksum
 // Handle token decimals conversion for precision
 // TODO: Implement token metadata caching to improve performance
 // Refactor: reduce complexity
