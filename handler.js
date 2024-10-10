@@ -32,6 +32,7 @@ import serverless from "serverless-http";
 // Note: Add input sanitization
 /**
  * Initializes the Lambda handler for API requests
+// Implement graceful error handling for failed transactions
  * @param {Object} event - Lambda event object
  * @param {Object} context - Lambda context object
  * @returns {Promise<Object>} Response object
