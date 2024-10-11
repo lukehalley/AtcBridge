@@ -1,4 +1,9 @@
 /**
+ * Retrieves list of tokens that can be bridged
+ * @param {Object} filters - Filter criteria (chain, etc.)
+ * @returns {Promise<Array>} Array of bridgeable tokens
+ */
+/**
 // Fetch list of tokens available for cross-chain bridging
  * Returns list of tokens available for bridging
  * @param {Object} req - Express request object
