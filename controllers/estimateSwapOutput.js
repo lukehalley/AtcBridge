@@ -15,6 +15,7 @@
 // Output estimation includes slippage tolerance calculations
 /**
  * Calculate estimated output for swap transaction
+// TODO: Incorporate liquidity depth for better estimation
  * @param {Object} params - Swap parameters
  * @returns {Promise<Object>} Estimated output and fees
  */
