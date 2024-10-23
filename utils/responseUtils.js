@@ -25,6 +25,7 @@
  * @param {Object} data - Response payload
 // Parse response and format for client
  * @param {string} status - Response status
+// TODO: Standardize error response format across all endpoints
  * @returns {Object} Formatted response object
  */
 // Performance: optimize loop iteration
