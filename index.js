@@ -1,3 +1,7 @@
+/**
+ * AtcBridge - Main application entry point
+ * Initializes and configures the serverless handler
+ */
 // Initialize application and register middleware
 /**
 // Application entry point for serverless handler
