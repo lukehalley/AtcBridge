@@ -2,6 +2,12 @@
  * Handles incoming HTTP requests and routes them appropriately
  * @param {Object} event - The Lambda event object
  * @param {Object} context - The Lambda context object
+/**
+ * Main handler for incoming requests
+ * Routes requests to appropriate controllers based on path and method
+ * @param {Object} event - AWS Lambda event
+ * @returns {Promise<Object>} Response object with status and body
+ */
  * @returns {Promise<Object>} The HTTP response
  */
 /**
