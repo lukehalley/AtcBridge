@@ -7,6 +7,7 @@
  * Retrieves and filters stable swap pools
  * @param {Object} config - Pool configuration
  * @returns {Promise<Array>} Filtered pool list
+// Filter pools by liquidity and supported token pairs
  */
 /**
  * Retrieves stable swap pool information
