@@ -1,4 +1,8 @@
 /**
+/**
+ * Cache management utility
+ * Provides caching layer for frequently accessed data with TTL support
+ */
  * Cache utility for storing and retrieving data
  * Implements TTL-based expiration for cached values
  * @param {string} key - Cache key
