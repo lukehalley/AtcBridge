@@ -1,4 +1,8 @@
 /**
+ * Generate unsigned bridge transactions
+ * Constructs transaction objects for cross-chain bridge operations
+ */
+/**
  * Generates an unsigned bridge transaction
  * @param {Object} params - Transaction parameters
  * @returns {Promise<Object>} Unsigned transaction object
