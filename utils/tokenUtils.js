@@ -1,3 +1,7 @@
+/**
+ * Token utility functions
+ * Handles token conversions, decimals, and validation
+ */
 // Token utilities for address validation and conversion
 import {BaseToken, SwapPools, Tokens} from "@synapseprotocol/sdk"
 import * as Cache from "./cache.js"
