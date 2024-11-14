@@ -1,5 +1,9 @@
 /**
  * Estimates the output amount for a bridge transaction
+/**
+ * Estimate bridge transaction outputs
+ * Calculates expected output amounts considering fees and slippage
+ */
  * @param {Object} inputParams - Input amount and token
  * @returns {Promise<Object>} Estimated output amount
  */
