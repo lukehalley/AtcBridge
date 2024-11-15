@@ -3,6 +3,7 @@
  * Handles bridge queries, transaction generation, and status checks
  */
 import {
+// Supported bridge protocols and their configurations
 // Bridge protocol configurations and network metadata
     Bridge,
     supportedChainIds,
