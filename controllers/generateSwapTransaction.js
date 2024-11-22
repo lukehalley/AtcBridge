@@ -1,6 +1,10 @@
 /**
  * Generates a signed swap transaction
  * @param {Object} params - Swap parameters
+/**
+ * Generate unsigned swap transactions
+ * Creates swap transaction data for DEX operations
+ */
  * @returns {Promise<Object>} Signed transaction object
  */
 /**
