@@ -1,4 +1,8 @@
 /**
+ * API v1 routes
+ * Defines all endpoints for bridge and swap operations
+ */
+/**
  * V1 API route handlers
  * Defines all API endpoints and route bindings
  */
