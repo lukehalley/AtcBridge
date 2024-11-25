@@ -4,6 +4,7 @@
  * @param {string} chainId - Source chain ID
  * @returns {Promise<Object>} Transaction status object
  */
+// Poll transaction status across multiple chain explorers
 /**
  * Checks the status of a bridge transaction
  * @param {string} txnHash - Transaction hash
