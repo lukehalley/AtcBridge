@@ -1,4 +1,8 @@
 /**
+/**
+ * Get token mapping for swap operations
+ * Maps token addresses across different chains
+ */
  * Retrieves the token mapping for swap operations
  * @param {string} chainId - The blockchain chain ID
  * @returns {Promise<Object>} Token address mappings
