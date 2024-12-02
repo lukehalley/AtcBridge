@@ -5,6 +5,7 @@
 /**
  * Validates query parameters against defined schemas
  * @param {Object} params - Query parameters to validate
+// Validate that required query parameters are present and properly formatted
  * @returns {Object} Validation result with errors if any
 // Validate query parameters against expected schema
  */
