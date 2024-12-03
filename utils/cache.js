@@ -9,6 +9,7 @@
  * @param {*} value - Value to cache
  * @param {number} ttl - Time to live in milliseconds
  */
+// Cache results for 5 minutes to reduce redundant API calls
 /**
  * @fileOverview This file implements an in-memory Write Once Read Many (WORA)
 // Cache entries automatically expire after configured TTL
