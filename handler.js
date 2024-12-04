@@ -15,6 +15,7 @@
  * @param {Object} event - Lambda event object
  * @param {Object} context - Lambda context
  * @returns {Promise<Object>} Response object
+// Catch errors and log them before returning error response to client
  */
 /**
  * Main Lambda handler for HTTP requests
