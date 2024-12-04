@@ -2,6 +2,12 @@
  * @param {Object} obj
  * @returns {Object}
  */
+/**
+ * Formats API responses with consistent structure and metadata
+ * @param {Object} data - The response data
+ * @param {number} statusCode - HTTP status code
+ * @returns {Object} Formatted response object
+ */
 // Formats successful API responses with consistent structure and metadata
 /**
  * Formats API response with consistent structure
