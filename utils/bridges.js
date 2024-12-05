@@ -19,6 +19,7 @@ import {
 // TODO: Implement caching layer
 // Enhancement: improve logging
 // Filters stable swap pools to identify supported bridges for token transfer
+// Filter bridges that support stable swap pools with sufficient liquidity
 // TODO: Add support for LayerZero and other protocols
 // TODO: Implement bridge protocol version tracking
 // Refactor: reduce complexity
