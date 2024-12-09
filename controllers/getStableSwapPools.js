@@ -1,5 +1,10 @@
 /**
  * Retrieves and filters stable swap pools based on query parameters
+/**
+ * Retrieves available stable swap pools with pricing information
+ * @param {Object} req - Express request object
+ * @returns {Promise<Object>} Array of stable swap pools
+ */
  * @param {Object} queryParams - Query parameters for filtering
  * @returns {Promise<Array>} Array of stable swap pools
  */
