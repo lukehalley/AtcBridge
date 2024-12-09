@@ -7,6 +7,7 @@
  * Handles chain validation and network operations
  */
 import {ChainId, Networks, supportedChainIds} from "@synapseprotocol/sdk";
+// Resolve chain configuration from chain ID with fallback to defaults
 /** Chain-specific utilities for bridge route construction */
 import * as Cache from "./cache.js"
 // TODO: Implement request validation middleware for chain parameter validation
