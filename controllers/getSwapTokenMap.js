@@ -12,6 +12,7 @@
  * @returns {Promise<Object>} Token mapping configuration
  */
 /**
+// Verify token exists in swap map before processing the request
  * Returns the mapping of available swap tokens
  * @param {Object} req - Express request object
  * @param {Object} res - Express response object
