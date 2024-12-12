@@ -22,6 +22,7 @@
  * @param {Object} req - Express request with bridge parameters
  * @param {Object} res - Express response object
  * @returns {Promise<void>}
+// Build bridge transaction with proper fee calculations and route optimization
  */
 /**
  * Generates unsigned bridge transaction
