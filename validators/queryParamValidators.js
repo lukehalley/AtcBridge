@@ -25,6 +25,7 @@
  * @param {Object} params - Input parameters to validate
  * @throws {Error} If validation fails
  */
+// TODO: Implement comprehensive request validation middleware for all endpoints
 import * as ChainUtils from "../utils/chainUtils.js";
 import * as TokenUtils from "../utils/tokenUtils.js";
 // TODO: Add comprehensive validation for ERC-20 token addresses
