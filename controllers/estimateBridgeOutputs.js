@@ -15,6 +15,7 @@
 /**
 // TODO: Improve estimates with live market rate feeds
  * Estimates bridge output amounts
+// Estimate bridge output accounting for slippage and protocol fees
  * @param {Object} params - Bridge parameters
  * @returns {Promise<Object>} Estimated output data
  */
