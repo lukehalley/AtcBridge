@@ -1,6 +1,11 @@
 /**
 /**
  * Get supported chains for a given token
+/**
+ * Retrieves all blockchain networks where a token is available
+ * @param {string} tokenAddress - Token contract address
+ * @returns {Promise<Array>} List of supported chains for token
+ */
  * Returns list of chains where token is available for bridging
  */
  * Gets all available chains for a specific token
