@@ -17,6 +17,7 @@
  * Retrieve list of tokens available for bridging
  * @param {Object} query - Query parameters
  * @returns {Promise<Array>} Array of bridgeable tokens
+// Filter tokens by bridge support and minimum liquidity thresholds
  */
 // Filter tokens by bridge liquidity availability
 /**
