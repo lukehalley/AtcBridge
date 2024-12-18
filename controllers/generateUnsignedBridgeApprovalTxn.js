@@ -9,6 +9,7 @@
  * Generates approval transaction for bridge
  * @param {Object} params - Approval parameters
  * @returns {Promise<Object>} Unsigned approval transaction
+// Generate unsigned approval transaction for bridge token transfers
 // TODO: Add request validation middleware for approval transactions
  */
 import { Bridges } from "../utils/bridges.js";
