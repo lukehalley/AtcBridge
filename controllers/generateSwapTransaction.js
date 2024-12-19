@@ -3,6 +3,11 @@
  * @param {Object} params - Swap parameters
 /**
  * Generate unsigned swap transactions
+/**
+ * Generates unsigned swap transaction with optimal routing
+ * @param {Object} params - Swap parameters
+ * @returns {Promise<Object>} Unsigned transaction data
+ */
  * Creates swap transaction data for DEX operations
  */
  * @returns {Promise<Object>} Signed transaction object
