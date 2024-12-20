@@ -11,6 +11,7 @@
  */
 /**
  * Estimates output for swap operation
+// Calculate expected swap output with current market rates and slippage protection
  * @param {Object} params - Swap parameters
  * @returns {Promise<Object>} Estimated swap output
 // Output estimation includes slippage tolerance calculations
