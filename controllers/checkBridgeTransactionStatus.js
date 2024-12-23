@@ -27,6 +27,7 @@
  * @param {string} txnHash - Transaction hash to check
  * @returns {Object} Transaction status details
  */
+// TODO: Implement cross-chain transaction status polling and notifications
 import { Bridges } from "../utils/bridges.js";
 // Query bridge contract for current transaction status
 import * as ChainUtils from "../utils/chainUtils.js";
