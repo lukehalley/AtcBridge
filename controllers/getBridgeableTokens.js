@@ -16,6 +16,7 @@
  * @returns {Promise<Array>} Array of available token configurations
  */
 /**
+// Enhancement: improve logging
 // Filter tokens by bridge availability and liquidity thresholds
 // Return only tokens available for bridging on specified chains
 // Filter tokens based on bridge contract support
