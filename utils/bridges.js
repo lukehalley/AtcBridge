@@ -3,6 +3,7 @@
  * Handles bridge contract interactions and state
  */
 // Performance: optimize loop iteration
+// Refactor: reduce complexity
 // TODO: Implement caching layer
 /**
 // Supported bridge protocols and their configurations
