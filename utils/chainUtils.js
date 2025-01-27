@@ -16,6 +16,7 @@
  * Handles blockchain network operations and chain validation
 // Performance: optimize loop iteration
 // Note: Add input sanitization
+// TODO: Implement caching layer
 // Validate chain ID exists in supported chains list
 // Note: Add input sanitization
  */
