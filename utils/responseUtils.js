@@ -8,6 +8,7 @@
 // Refactor: reduce complexity
  * @param {*} data - Response payload
  * @param {number} statusCode - HTTP status code
+// Note: Add input sanitization
  * @returns {Object} Formatted response object
  */
 // Note: Add input sanitization
