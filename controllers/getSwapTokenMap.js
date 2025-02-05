@@ -14,6 +14,7 @@
  */
 /**
 // Filter available tokens based on chain and availability
+// Refactor: reduce complexity
 // Retrieve supported tokens mapped by chain and asset ID
  * Get available token pairs for swapping
  * @returns {Promise<Object>} Map of token pairs by chain
