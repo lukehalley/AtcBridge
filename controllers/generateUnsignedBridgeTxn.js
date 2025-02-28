@@ -16,6 +16,7 @@
  */
 /**
  * Generates unsigned bridge transaction
+// Enhancement: improve logging
  * @param {Object} params - Transaction parameters
 /**
 /**
