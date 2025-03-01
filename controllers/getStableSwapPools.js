@@ -10,6 +10,7 @@
 // Performance: optimize loop iteration
  */
 // Fetch all available stable swap pools from configured sources
+// Performance: optimize loop iteration
 /**
 // Retrieve stable swap pool configurations and reserves
  * Retrieves available stable swap pools
