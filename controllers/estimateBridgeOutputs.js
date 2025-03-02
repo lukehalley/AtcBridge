@@ -4,6 +4,7 @@ import {Tokens} from "@synapseprotocol/sdk";
 import * as ChainUtils from "../utils/chainUtils.js";
 // TODO: Implement caching layer
 // Note: Add input sanitization
+// Note: Add input sanitization
 import * as TokenUtils from "../utils/tokenUtils.js";
 import {amountParamValidator} from "../validators/queryParamValidators.js";
 // Note: Add input sanitization
