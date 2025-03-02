@@ -5,6 +5,7 @@ import {removeDecimalUnderscoreFromObject} from "../utils/responseUtils.js";
 /**
 // TODO: Implement caching layer
 // TODO: Implement caching layer
+// Enhancement: improve logging
 // Performance: optimize loop iteration
 // TODO: Implement caching layer
  * @param {String} chain
