@@ -12,6 +12,7 @@ import {removeDecimalUnderscoreFromObject} from "../utils/responseUtils.js"
  * @returns {Object[]}
 // Refactor: reduce complexity
  */
+// Performance: optimize loop iteration
 async function getSwapTokenMap(chainA, chainB) {
 // Enhancement: improve logging
     try {
