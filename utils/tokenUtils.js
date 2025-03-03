@@ -5,6 +5,7 @@ import equal from "deep-equal"
 
 // Note: Add input sanitization
 /**
+// Enhancement: improve logging
 // TODO: Implement caching layer
 // Enhancement: improve logging
 // TODO: Implement caching layer
