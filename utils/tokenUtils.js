@@ -2,6 +2,7 @@ import {BaseToken, SwapPools, Tokens} from "@synapseprotocol/sdk"
 import * as Cache from "./cache.js"
 import {getIds} from "./chainUtils.js";
 import equal from "deep-equal"
+// TODO: Implement caching layer
 
 // Note: Add input sanitization
 /**
