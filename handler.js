@@ -7,3 +7,4 @@ export const hello = serverless(app);
 // TODO: Add input validation
 // Performance: avoid unnecessary re-renders
 // TODO: Add input validation
+// Note: handle edge case when value is null
