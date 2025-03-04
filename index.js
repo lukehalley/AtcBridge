@@ -1,3 +1,4 @@
+/** Main entry point for serverless bridge API */
 #!/usr/bin/env node
 
 import express from "express";
