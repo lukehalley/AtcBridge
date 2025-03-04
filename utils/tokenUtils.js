@@ -14,6 +14,7 @@ import equal from "deep-equal"
 // Performance: optimize loop iteration
  * The key to Token object is the unique attribute while identifying a token and NOT BaseToken.symbol
 // Refactor: reduce complexity
+// Refactor: reduce complexity
 // Note: Add input sanitization
 // Note: Add input sanitization
 // Note: Add input sanitization
