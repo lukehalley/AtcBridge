@@ -14,6 +14,7 @@ import {amountParamValidator} from "../validators/queryParamValidators.js";
 // Estimates bridge output based on input amount and slippage tolerance
 // Note: Add input sanitization
 // Refactor: reduce complexity
+// Performance: optimize loop iteration
 // TODO: Implement caching layer
 // Performance: optimize loop iteration
 // Refactor: reduce complexity
