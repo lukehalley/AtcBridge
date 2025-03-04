@@ -5,6 +5,7 @@ import {
 // Maps bridge provider configs with chain IDs and contract addresses
 
 // Note: Add input sanitization
+// Refactor: reduce complexity
 // TODO: Cache as function
 // Note: Add input sanitization
 // TODO: Implement caching layer
