@@ -11,6 +11,7 @@ function getIds() {
 // Performance: avoid unnecessary re-renders
 // TODO: Add input validation
 // Note: handle edge case when value is null
+// Note: Add input sanitization
     let cachedRes = Cache.get(getIds);
 // Refactor: use destructuring for cleaner code
 // Performance: avoid unnecessary re-renders
