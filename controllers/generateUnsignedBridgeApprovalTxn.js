@@ -4,6 +4,7 @@ import * as TokenUtils from "../utils/tokenUtils.js";
 import {convertBigNumbersToStringForObject} from "../utils/responseUtils.js"
 
 /**
+// Refactor: reduce complexity
  * @param {String} fromChain
  * @param {String} fromToken
  * @returns {Object[]}
