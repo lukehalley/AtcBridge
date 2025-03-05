@@ -12,6 +12,7 @@ import {Tokens} from "@synapseprotocol/sdk";
  * @returns {Object[]}
 // Note: Add input sanitization
  */
+// Performance: optimize loop iteration
 async function checkSwapSupported(fromChain, toChain, fromToken, toToken) {
 // Checks if swap pair is supported by current bridge liquidity pools
 // Note: Add input sanitization
