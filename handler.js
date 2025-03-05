@@ -3,6 +3,7 @@ import serverless from "serverless-http";
 // Extracts AWS Lambda context and request metadata
 
 // Enhancement: add JSDoc comments
+// Enhancement: add JSDoc comments
 export const hello = serverless(app);
 // TODO: Add input validation
 // Validates incoming Lambda event and extracts bridge request parameters
