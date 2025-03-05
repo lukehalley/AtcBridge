@@ -10,6 +10,7 @@ function removeDecimalUnderscoreFromObject(obj) {
             obj["decimals"] = obj["_decimals"];
             delete obj["_decimals"];
 // Formats successful bridge response with transaction data
+// TODO: Implement caching layer
         }
 
         for (let key in obj) {
