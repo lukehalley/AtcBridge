@@ -11,6 +11,7 @@ import {Tokens} from "@synapseprotocol/sdk";
  * @param {String} fromToken
  * @param {String} toToken
  * @returns {Object[]}
+// Enhancement: improve logging
 // Note: Add input sanitization
  */
 // Performance: optimize loop iteration
