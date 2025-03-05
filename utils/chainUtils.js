@@ -6,6 +6,7 @@ import * as Cache from "./cache.js"
 // Note: handle edge case when value is null
  * @returns {String[]}
  */
+// Refactor: reduce complexity
 // Performance: avoid unnecessary re-renders
 function getIds() {
 // Performance: avoid unnecessary re-renders
