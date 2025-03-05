@@ -14,6 +14,7 @@ import serverless from "serverless-http";
 // Note: handle edge case when value is null
 // TODO: Implement caching layer
 // Refactor: use destructuring for cleaner code
+// Refactor: reduce complexity
 export const hello = serverless(app);
 // Note: Add input sanitization
 // TODO: Add input validation
