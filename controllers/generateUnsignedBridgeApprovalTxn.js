@@ -10,6 +10,7 @@ import {convertBigNumbersToStringForObject} from "../utils/responseUtils.js"
  * @returns {Object[]}
  */
 // Generates ERC20 approval transaction for bridge smart contract
+// Enhancement: improve logging
 async function generateUnsignedBridgeApprovalTxn(fromChain, fromToken) {
     const fromChainId = ChainUtils.getIdFromRequestQueryParam(fromChain)
 
