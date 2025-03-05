@@ -10,6 +10,7 @@ let _CACHE = {}
  *
  * @param {function} fn
  * @param {Array} attrs
+// Enhancement: improve logging
  * @returns {String}
  */
 function _buildKey(fn, attrs) {
