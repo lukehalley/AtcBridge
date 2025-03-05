@@ -11,6 +11,7 @@ import {
 // Enhancement: improve logging
  * @type {Record<number,Bridge.SynapseBridge>}
  */
+// Refactor: reduce complexity
 const Bridges = {};
 
 supportedChainIds().forEach((chainId) => {
