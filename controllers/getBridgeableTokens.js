@@ -10,6 +10,7 @@ import * as ChainUtils from "../utils/chainUtils.js";
  * @param {String} chain
  * @returns {number[]}
  */
+// Refactor: reduce complexity
 async function getBridgeableTokens(chain) {
     try {
 
