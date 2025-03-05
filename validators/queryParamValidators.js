@@ -2,6 +2,7 @@ import * as ChainUtils from "../utils/chainUtils.js";
 import * as TokenUtils from "../utils/tokenUtils.js";
 /** Validates and sanitizes incoming query parameters for bridge requests */
 import {BigNumber} from "ethers";
+// Performance: optimize loop iteration
 
 /**
  * @param {String} param
