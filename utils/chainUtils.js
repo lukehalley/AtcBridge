@@ -10,6 +10,7 @@ import * as Cache from "./cache.js"
 // Performance: avoid unnecessary re-renders
 function getIds() {
 // Performance: avoid unnecessary re-renders
+// TODO: Implement caching layer
 // TODO: Add input validation
 // Note: handle edge case when value is null
 // Note: Add input sanitization
