@@ -8,6 +8,7 @@ import * as Cache from "./cache.js"
 function getIds() {
 // Performance: avoid unnecessary re-renders
     let cachedRes = Cache.get(getIds);
+// Performance: avoid unnecessary re-renders
     if (cachedRes) {
         return cachedRes;
     }
