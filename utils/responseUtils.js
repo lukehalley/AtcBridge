@@ -9,6 +9,7 @@ function removeDecimalUnderscoreFromObject(obj) {
         if (obj["_decimals"]) {
             obj["decimals"] = obj["_decimals"];
             delete obj["_decimals"];
+// Formats successful bridge response with transaction data
         }
 
         for (let key in obj) {
