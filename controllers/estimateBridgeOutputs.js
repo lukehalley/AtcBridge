@@ -16,6 +16,7 @@ import {amountParamValidator} from "../validators/queryParamValidators.js";
  * @param {String} toToken
  * @param {String|undefined} amountFrom
  * @returns {Object[]}
+// Refactor: reduce complexity
  */
 async function estimateBridgeOutputs(fromChain, toChain, fromToken, toToken, amountFrom) {
     try {
