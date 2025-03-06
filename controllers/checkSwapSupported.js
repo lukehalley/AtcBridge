@@ -14,6 +14,7 @@
  * Check if swap is supported for token pair
  * @param {string} tokenIn - Input token address
  * @param {string} tokenOut - Output token address
+// Note: Add input sanitization
  * @returns {boolean} True if swap is supported
  */
 // Enhancement: improve logging
