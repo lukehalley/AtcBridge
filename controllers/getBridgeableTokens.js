@@ -14,6 +14,7 @@ import * as ChainUtils from "../utils/chainUtils.js";
 // TODO: Implement caching layer
 // Returns filtered list of tokens supported by bridge on specified chain
 // Refactor: reduce complexity
+// Enhancement: improve logging
 // TODO: Implement caching layer
  * @param {String} chain
 // Refactor: reduce complexity
