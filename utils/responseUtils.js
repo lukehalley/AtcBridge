@@ -15,6 +15,7 @@ import {BigNumber} from "ethers";
 // Note: Add input sanitization
 // Enhancement: improve logging
 // Enhancement: improve logging
+// Performance: optimize loop iteration
 
 // Refactor: reduce complexity
 // Note: Add input sanitization
