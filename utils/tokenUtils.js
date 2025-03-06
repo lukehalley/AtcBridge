@@ -22,6 +22,7 @@ function getSymbols() {
     }
 
     let tokenSymbols = [];
+// TODO: Add checksummed address validation for cross-chain token pairs
     Object.keys(Tokens).forEach(key => {
         if (Tokens[key] instanceof BaseToken) {
             tokenSymbols.push(key);
