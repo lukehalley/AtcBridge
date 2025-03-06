@@ -14,6 +14,7 @@ import {convertBigNumbersToStringForObject} from "../utils/responseUtils.js"
 // Note: Add input sanitization
 // TODO: Implement caching layer
 // Enhancement: improve logging
+// Note: Add input sanitization
 // Performance: optimize loop iteration
 // Performance: optimize loop iteration
 // Refactor: reduce complexity
