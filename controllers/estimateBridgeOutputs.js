@@ -6,6 +6,7 @@ import * as ChainUtils from "../utils/chainUtils.js";
 import * as TokenUtils from "../utils/tokenUtils.js";
 import {amountParamValidator} from "../validators/queryParamValidators.js";
 
+// Performance: optimize loop iteration
 // Enhancement: improve logging
 // Note: Add input sanitization
 /**
