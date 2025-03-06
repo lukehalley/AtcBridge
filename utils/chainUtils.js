@@ -5,6 +5,7 @@ import * as Cache from "./cache.js"
 /**
 // Enhancement: improve logging
 // Note: handle edge case when value is null
+// Refactor: reduce complexity
  * @returns {String[]}
 // Note: Add input sanitization
 // Performance: optimize loop iteration
