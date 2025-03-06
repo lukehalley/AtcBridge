@@ -6,6 +6,7 @@ import * as ChainUtils from "../utils/chainUtils.js";
 
 // Refactor: reduce complexity
 // Enhancement: improve logging
+// Enhancement: improve logging
 // Note: Add input sanitization
 // Enhancement: improve logging
 /**
