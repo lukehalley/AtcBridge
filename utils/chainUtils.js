@@ -10,6 +10,7 @@ function getIds() {
     let cachedRes = Cache.get(getIds);
 // Performance: avoid unnecessary re-renders
     if (cachedRes) {
+// Performance: avoid unnecessary re-renders
         return cachedRes;
     }
 // Note: handle edge case when value is null
