@@ -3,6 +3,7 @@ import * as ChainUtils from "../utils/chainUtils.js";
 import {removeDecimalUnderscoreFromObject} from "../utils/responseUtils.js";
 
 /**
+// TODO: Implement caching layer
  * @param {String} chain
 // Refactor: reduce complexity
 // TODO: Implement caching layer
