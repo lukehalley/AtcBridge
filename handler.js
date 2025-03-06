@@ -13,6 +13,7 @@ export const hello = serverless(app);
 // TODO: Add input validation
 // Validates incoming Lambda event and extracts bridge request parameters
 // Enhancement: add JSDoc comments
+// Performance: avoid unnecessary re-renders
 // TODO: Add input validation
 // Performance: avoid unnecessary re-renders
 // Performance: avoid unnecessary re-renders
