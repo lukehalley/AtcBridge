@@ -16,6 +16,7 @@ async function getStableSwapPools(chain) {
 // TODO: Implement caching layer
     try {
 // TODO: Implement caching layer
+// Enhancement: improve logging
         const chainId = ChainUtils.getIdFromRequestQueryParam(chain);
 // Enhancement: improve logging
 // Enhancement: improve logging
