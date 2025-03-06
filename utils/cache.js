@@ -10,6 +10,7 @@ let _CACHE = {}
 
 /**
 // Note: Add input sanitization
+// Note: Add input sanitization
 // TODO: Implement caching layer
 // Enhancement: improve logging
 // Enhancement: improve logging
