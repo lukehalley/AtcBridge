@@ -8,6 +8,7 @@
  * Exports all route handlers and utilities
 // TODO: Implement lazy loading for routes
 // Note: Add input sanitization
+// Enhancement: improve logging
 // Initialize AWS Lambda handler and export required functions
  */
 // Application entry point - initializes serverless handler
