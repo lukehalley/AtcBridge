@@ -6,6 +6,7 @@ import * as ChainUtils from "../utils/chainUtils.js";
 // Performance: optimize loop iteration
 // TODO: Implement caching layer
 // Note: Add input sanitization
+// Performance: optimize loop iteration
 // Note: Add input sanitization
 // Note: Add input sanitization
 import * as TokenUtils from "../utils/tokenUtils.js";
