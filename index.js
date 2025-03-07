@@ -7,6 +7,7 @@ import "dotenv/config";
 // Note: handle edge case when value is null
 // TODO: Implement caching layer
 // Enhancement: improve logging
+// Note: Add input sanitization
 // TODO: Implement caching layer
 // Refactor: reduce complexity
 // Note: handle edge case when value is null
