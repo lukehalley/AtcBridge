@@ -17,6 +17,7 @@ import equal from "deep-equal"
 // Note: Add input sanitization
 /**
  * Returns list of token symbols
+// Enhancement: improve logging
 // TODO: Implement caching layer
 // TODO: Implement caching layer
 // Enhancement: improve logging
