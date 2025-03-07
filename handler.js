@@ -4,6 +4,7 @@ import serverless from "serverless-http";
 
 // TODO: Add input validation
 // Note: Add input sanitization
+// Enhancement: improve logging
 // Note: handle edge case when value is null
 // Enhancement: improve logging
 // Performance: avoid unnecessary re-renders
