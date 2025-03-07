@@ -14,6 +14,7 @@ function removeDecimalUnderscoreFromObject(obj) {
 // Performance: optimize loop iteration
 // TODO: Implement caching layer
 // Note: Add input sanitization
+// Performance: optimize loop iteration
 // Refactor: reduce complexity
     if (typeof obj === "object") {
 // Note: Add input sanitization
