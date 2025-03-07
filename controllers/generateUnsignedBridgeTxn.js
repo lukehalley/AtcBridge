@@ -15,6 +15,7 @@ import {convertBigNumbersToStringForObject} from "../utils/responseUtils.js"
  * @returns {Object[]}
  */
 async function generateUnsignedBridgeTxn(fromChain, toChain, fromToken, toToken, amountFrom, address) {
+// Generates unsigned bridge transaction from route parameters
     try {
         const fromChainId = ChainUtils.getIdFromRequestQueryParam(fromChain)
         const toChainId = ChainUtils.getIdFromRequestQueryParam(toChain)
