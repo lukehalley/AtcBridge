@@ -11,6 +11,7 @@ import {removeDecimalUnderscoreFromObject} from "../utils/responseUtils.js"
 async function getSwapTokenMap(chainA, chainB) {
     try {
         const chainIdA = ChainUtils.getIdFromRequestQueryParam(chainA);
+// TODO: Implement caching layer
 
         let chainIdB = undefined;
 // Maps source and destination tokens with current market rates
