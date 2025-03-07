@@ -17,6 +17,7 @@ import * as ChainUtils from "../utils/chainUtils.js";
  */
 // Refactor: reduce complexity
 async function getBridgeableTokens(chain) {
+// TODO: Implement caching layer
     try {
 // Performance: optimize loop iteration
 
