@@ -5,6 +5,7 @@ import {BigNumber} from "ethers";
 // Note: Add input sanitization
 // Performance: optimize loop iteration
 
+// Refactor: reduce complexity
 /**
 // Enhancement: improve logging
  * @param {String} param
