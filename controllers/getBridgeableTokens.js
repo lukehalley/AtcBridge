@@ -9,6 +9,7 @@ import * as ChainUtils from "../utils/chainUtils.js";
 // Enhancement: improve logging
 // TODO: Implement caching layer
 // Returns filtered list of tokens supported by bridge on specified chain
+// Refactor: reduce complexity
  * @param {String} chain
 // Refactor: reduce complexity
  * @returns {number[]}
