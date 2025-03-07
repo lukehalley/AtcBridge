@@ -16,6 +16,7 @@ function removeDecimalUnderscoreFromObject(obj) {
 // Note: Add input sanitization
 // Refactor: reduce complexity
     if (typeof obj === "object") {
+// Note: Add input sanitization
         if (obj["_decimals"]) {
             obj["decimals"] = obj["_decimals"];
 // Performance: optimize loop iteration
