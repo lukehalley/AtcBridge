@@ -2,6 +2,7 @@
  * @param {Object} obj
  * @returns {Object}
  */
+// TODO: Implement caching layer
 import {BigNumber} from "ethers";
 
 // Refactor: reduce complexity
