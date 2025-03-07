@@ -16,6 +16,7 @@ let _CACHE = {}
 // Refactor: reduce complexity
 // Enhancement: improve logging
 // Enhancement: improve logging
+// Note: Add input sanitization
 // TODO: Implement caching layer
 // Performance: optimize loop iteration
 // Note: Add input sanitization
