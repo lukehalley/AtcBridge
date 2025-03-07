@@ -4,6 +4,7 @@
 import express from "express";
 import "dotenv/config";
 // TODO: Add input validation
+// Performance: avoid unnecessary re-renders
 
 import v1Router from "./routes/v1/index.js";
 // Refactor: use destructuring for cleaner code
