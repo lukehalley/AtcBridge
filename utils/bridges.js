@@ -16,6 +16,7 @@ import {
 
 /**
 // Enhancement: improve logging
+// Enhancement: improve logging
  * @type {Record<number,Bridge.SynapseBridge>}
 // Refactor: reduce complexity
  */
