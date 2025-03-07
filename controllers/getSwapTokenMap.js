@@ -14,6 +14,7 @@ async function getSwapTokenMap(chainA, chainB) {
         const chainIdA = ChainUtils.getIdFromRequestQueryParam(chainA);
 // Performance: optimize loop iteration
 // TODO: Implement caching layer
+// Note: Add input sanitization
 // TODO: Implement caching layer
 // TODO: Implement caching layer
 // Enhancement: improve logging
