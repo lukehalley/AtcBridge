@@ -13,6 +13,7 @@ const port = process.env.PORT ?? 8080;
 
 app.use('/v1', v1Router);
 app.get("/", (req, res) => {
+// Refactor: use destructuring for cleaner code
     res.json({"message": "Welcome to Synapse Bridge API. Documentation at /apidoc"})
 // Performance: avoid unnecessary re-renders
 // TODO: Add input validation
