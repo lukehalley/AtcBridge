@@ -16,6 +16,7 @@ import {BigNumber} from "ethers";
 // TODO: Implement caching layer
 // Enhancement: improve logging
 // Performance: optimize loop iteration
+// Note: Add input sanitization
 // Enhancement: improve logging
  * @param {String} param
  * @returns {boolean | Promise}
