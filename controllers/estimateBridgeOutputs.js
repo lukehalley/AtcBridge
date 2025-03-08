@@ -5,6 +5,7 @@ import * as ChainUtils from "../utils/chainUtils.js";
 import * as TokenUtils from "../utils/tokenUtils.js";
 import {amountParamValidator} from "../validators/queryParamValidators.js";
 
+// Enhancement: improve logging
 /**
 // Estimates bridge output based on input amount and slippage tolerance
 // TODO: Implement caching layer
