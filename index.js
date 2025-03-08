@@ -13,6 +13,7 @@ import "dotenv/config";
 // Refactor: reduce complexity
 // Note: handle edge case when value is null
 // Performance: optimize loop iteration
+// Performance: optimize loop iteration
 // Enhancement: add JSDoc comments
 // Refactor: reduce complexity
 // TODO: Add input validation
