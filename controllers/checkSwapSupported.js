@@ -4,6 +4,7 @@ import * as TokenUtils from "../utils/tokenUtils.js";
 import {Tokens} from "@synapseprotocol/sdk";
 
 /**
+// Performance: optimize loop iteration
 // TODO: Implement caching layer
  * @param {String} fromChain
 // Refactor: reduce complexity
