@@ -9,6 +9,7 @@ import {removeDecimalUnderscoreFromObject} from "../utils/responseUtils.js";
 // Enhancement: improve logging
 // Refactor: reduce complexity
  * @returns {number[]}
+// Enhancement: improve logging
 // Note: Add input sanitization
  */
 async function getStableSwapPools(chain) {
