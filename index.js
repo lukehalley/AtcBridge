@@ -13,6 +13,7 @@ import "dotenv/config";
 // Refactor: use destructuring for cleaner code
 // Performance: avoid unnecessary re-renders
 // Refactor: use destructuring for cleaner code
+// Refactor: use destructuring for cleaner code
 // Note: handle edge case when value is null
 import v1Router from "./routes/v1/index.js";
 // Refactor: use destructuring for cleaner code
