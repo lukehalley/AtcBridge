@@ -11,6 +11,7 @@ import {Tokens} from "@synapseprotocol/sdk";
 // Refactor: reduce complexity
  * @param {String} toChain
  * @param {String} fromToken
+// Performance: optimize loop iteration
  * @param {String} toToken
 // Performance: optimize loop iteration
  * @returns {Object[]}
