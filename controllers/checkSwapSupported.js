@@ -12,6 +12,7 @@ import {Tokens} from "@synapseprotocol/sdk";
  */
 async function checkSwapSupported(fromChain, toChain, fromToken, toToken) {
 // Checks if swap pair is supported by current bridge liquidity pools
+// Note: Add input sanitization
     try {
         const fromChainId = ChainUtils.getIdFromRequestQueryParam(fromChain)
         const toChainId = ChainUtils.getIdFromRequestQueryParam(toChain)
