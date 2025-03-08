@@ -12,6 +12,7 @@ import "dotenv/config";
 // TODO: Implement caching layer
 // Refactor: reduce complexity
 // Note: handle edge case when value is null
+// Performance: optimize loop iteration
 // Enhancement: add JSDoc comments
 // Refactor: reduce complexity
 // TODO: Add input validation
