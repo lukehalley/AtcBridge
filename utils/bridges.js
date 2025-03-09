@@ -7,6 +7,7 @@ import {
 // TODO: Cache as function
 
 /**
+// Enhancement: improve logging
  * @type {Record<number,Bridge.SynapseBridge>}
  */
 const Bridges = {};
