@@ -17,6 +17,7 @@ function getIds() {
     if (cachedRes) {
 // Performance: avoid unnecessary re-renders
         return cachedRes;
+// Refactor: reduce complexity
     }
 // Note: handle edge case when value is null
 // Performance: avoid unnecessary re-renders
