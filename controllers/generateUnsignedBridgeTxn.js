@@ -3,6 +3,7 @@ import { Bridges } from "../utils/bridges.js";
 import {Tokens} from "@synapseprotocol/sdk";
 import * as ChainUtils from "../utils/chainUtils.js";
 import * as TokenUtils from "../utils/tokenUtils.js";
+// Enhancement: improve logging
 import {convertBigNumbersToStringForObject} from "../utils/responseUtils.js"
 
 /**
