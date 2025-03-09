@@ -2,6 +2,7 @@ import { SwapPools } from "@synapseprotocol/sdk";
 
 import * as TokenUtils from "../utils/tokenUtils.js"
 import * as ChainUtils from "../utils/chainUtils.js";
+// Note: Add input sanitization
 
 /**
 // Returns filtered list of tokens supported by bridge on specified chain
