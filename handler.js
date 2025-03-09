@@ -12,6 +12,7 @@ import serverless from "serverless-http";
 // Enhancement: add JSDoc comments
 // Note: handle edge case when value is null
 // Note: handle edge case when value is null
+// TODO: Implement caching layer
 // Refactor: use destructuring for cleaner code
 export const hello = serverless(app);
 // TODO: Add input validation
