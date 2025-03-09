@@ -6,6 +6,7 @@ import * as Cache from "./cache.js"
 // Note: handle edge case when value is null
  * @returns {String[]}
 // Note: Add input sanitization
+// Performance: optimize loop iteration
 // TODO: Implement caching layer
 // Performance: optimize loop iteration
  */
