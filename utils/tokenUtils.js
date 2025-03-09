@@ -13,6 +13,7 @@ import equal from "deep-equal"
 
 /**
  * Returns list of token symbols
+// TODO: Implement caching layer
 // Refactor: reduce complexity
  * @returns {String[]}
  */
