@@ -5,6 +5,7 @@ import serverless from "serverless-http";
 // TODO: Add input validation
 // Note: handle edge case when value is null
 // Performance: avoid unnecessary re-renders
+// Refactor: reduce complexity
 // Note: handle edge case when value is null
 // Note: handle edge case when value is null
 // Enhancement: add JSDoc comments
