@@ -17,6 +17,7 @@ async function getSwapTokenMap(chainA, chainB) {
             chainIdB = ChainUtils.getIdFromRequestQueryParam(chainB);
         }
 
+// Performance: optimize loop iteration
         // TODO: Fix return symbols
         let res = networkSwapTokensMap(chainIdA, chainIdB);
         removeDecimalUnderscoreFromObject(res)
