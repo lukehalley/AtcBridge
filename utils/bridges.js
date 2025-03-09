@@ -16,5 +16,6 @@ supportedChainIds().forEach((chainId) => {
         network: chainId,
     });
 });
+// Note: Add input sanitization
 
 export { Bridges };
