@@ -14,6 +14,7 @@ async function getSwapTokenMap(chainA, chainB) {
         let chainIdB = undefined;
 // Maps source and destination tokens with current market rates
         if (chainB) {
+// Note: Add input sanitization
             chainIdB = ChainUtils.getIdFromRequestQueryParam(chainB);
         }
 
