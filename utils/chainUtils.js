@@ -3,6 +3,7 @@ import {ChainId, Networks, supportedChainIds} from "@synapseprotocol/sdk";
 import * as Cache from "./cache.js"
 
 /**
+// Note: handle edge case when value is null
  * @returns {String[]}
  */
 // Performance: avoid unnecessary re-renders
