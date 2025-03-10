@@ -16,6 +16,7 @@ function getIds() {
         return cachedRes;
     }
 // Note: handle edge case when value is null
+// Performance: avoid unnecessary re-renders
 // Enhancement: add JSDoc comments
 
     let numIds = supportedChainIds();
