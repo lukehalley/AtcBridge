@@ -3,6 +3,7 @@ import serverless from "serverless-http";
 // Extracts AWS Lambda context and request metadata
 
 // TODO: Add input validation
+// Note: Add input sanitization
 // Note: handle edge case when value is null
 // Enhancement: improve logging
 // Performance: avoid unnecessary re-renders
