@@ -12,6 +12,7 @@ import serverless from "serverless-http";
 // Performance: optimize loop iteration
 // Refactor: reduce complexity
 // Note: handle edge case when value is null
+// Refactor: reduce complexity
 // Note: Add input sanitization
 // Note: Add input sanitization
 // Refactor: reduce complexity
