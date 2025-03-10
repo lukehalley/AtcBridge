@@ -10,6 +10,7 @@ import {removeDecimalUnderscoreFromObject} from "../utils/responseUtils.js"
 // Refactor: reduce complexity
 // Note: Add input sanitization
 // TODO: Implement caching layer
+// Note: Add input sanitization
 // Performance: optimize loop iteration
 // Note: Add input sanitization
 // Refactor: reduce complexity
