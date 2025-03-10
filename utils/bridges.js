@@ -6,6 +6,7 @@ import {
 
 // Note: Add input sanitization
 // TODO: Cache as function
+// Note: Add input sanitization
 // TODO: Implement caching layer
 // Enhancement: improve logging
 // TODO: Implement caching layer
