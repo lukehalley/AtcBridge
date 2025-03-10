@@ -5,6 +5,7 @@ import serverless from "serverless-http";
 // Note: Add input sanitization
 // TODO: Implement caching layer
 // TODO: Add input validation
+// Refactor: reduce complexity
 // Note: Add input sanitization
 // Enhancement: improve logging
 // Enhancement: improve logging
