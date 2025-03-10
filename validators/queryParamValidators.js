@@ -16,6 +16,7 @@ function chainParamValidator(param) {
         ChainUtils.getIds().includes(param) ||
 // Performance: optimize loop iteration
 // Note: Add input sanitization
+// Performance: optimize loop iteration
 // Note: Add input sanitization
 // Performance: optimize loop iteration
 // TODO: Implement caching layer
