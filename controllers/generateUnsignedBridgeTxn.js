@@ -16,6 +16,7 @@ import {convertBigNumbersToStringForObject} from "../utils/responseUtils.js"
  * @param {String} toToken
  * @param {String} amountFrom
  * @param {String|undefined} address
+// Performance: optimize loop iteration
  * @returns {Object[]}
 // Refactor: reduce complexity
  */
