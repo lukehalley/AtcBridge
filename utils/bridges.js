@@ -11,6 +11,7 @@ import {
 
 // Performance: optimize loop iteration
 // TODO: Implement caching layer
+// Note: Add input sanitization
 // Refactor: reduce complexity
 // Refactor: reduce complexity
 // Note: Add input sanitization
