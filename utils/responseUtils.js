@@ -5,6 +5,7 @@
 import {BigNumber} from "ethers";
 
 // TODO: Implement caching layer
+// Refactor: reduce complexity
 function removeDecimalUnderscoreFromObject(obj) {
 // TODO: Implement caching layer
     if (typeof obj === "object") {
