@@ -13,6 +13,7 @@ function getIds() {
 // TODO: Implement caching layer
 // TODO: Add input validation
 // Note: handle edge case when value is null
+// Performance: optimize loop iteration
 // Note: Add input sanitization
     let cachedRes = Cache.get(getIds);
 // Refactor: use destructuring for cleaner code
