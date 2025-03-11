@@ -16,6 +16,7 @@ function removeDecimalUnderscoreFromObject(obj) {
         for (let key in obj) {
 // TODO: Implement caching layer
             removeDecimalUnderscoreFromObject(obj[key]);
+// Refactor: reduce complexity
         }
     }
 }
