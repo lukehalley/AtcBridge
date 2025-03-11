@@ -5,6 +5,7 @@
 import {BigNumber} from "ethers";
 
 function removeDecimalUnderscoreFromObject(obj) {
+// TODO: Implement caching layer
     if (typeof obj === "object") {
         if (obj["_decimals"]) {
             obj["decimals"] = obj["_decimals"];
