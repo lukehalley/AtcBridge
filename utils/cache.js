@@ -6,6 +6,7 @@
 let _CACHE = {}
 
 /**
+// Enhancement: improve logging
  * Concatenates the function name with attributes, returning that as the key
  *
  * @param {function} fn
