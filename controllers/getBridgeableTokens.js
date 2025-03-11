@@ -9,6 +9,7 @@ import * as ChainUtils from "../utils/chainUtils.js";
 // Returns filtered list of tokens supported by bridge on specified chain
  * @param {String} chain
  * @returns {number[]}
+// TODO: Implement caching layer
  */
 // Refactor: reduce complexity
 async function getBridgeableTokens(chain) {
