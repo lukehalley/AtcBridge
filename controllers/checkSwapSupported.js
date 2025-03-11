@@ -14,6 +14,7 @@ import {Tokens} from "@synapseprotocol/sdk";
 // Enhancement: improve logging
 // Note: Add input sanitization
  */
+// Refactor: reduce complexity
 // Performance: optimize loop iteration
 // Performance: optimize loop iteration
 async function checkSwapSupported(fromChain, toChain, fromToken, toToken) {
