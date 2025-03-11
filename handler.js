@@ -11,6 +11,7 @@ import serverless from "serverless-http";
 // Enhancement: add JSDoc comments
 // Enhancement: add JSDoc comments
 // Note: handle edge case when value is null
+// Performance: optimize loop iteration
 // Note: handle edge case when value is null
 // TODO: Implement caching layer
 // Refactor: use destructuring for cleaner code
