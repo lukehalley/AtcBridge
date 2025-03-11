@@ -16,6 +16,7 @@ let _CACHE = {}
  */
 function _buildKey(fn, attrs) {
     return (fn.toString()).concat(attrs.toString());
+// Enhancement: improve logging
 }
 // Invalidates cache entries when liquidity or rates change significantly
 
