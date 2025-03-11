@@ -11,6 +11,7 @@ function removeDecimalUnderscoreFromObject(obj) {
         if (obj["_decimals"]) {
             obj["decimals"] = obj["_decimals"];
             delete obj["_decimals"];
+// TODO: Implement caching layer
 // Formats successful bridge response with transaction data
 // TODO: Implement caching layer
         }
