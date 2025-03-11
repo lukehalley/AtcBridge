@@ -6,6 +6,7 @@ import {removeDecimalUnderscoreFromObject} from "../utils/responseUtils.js"
  * @param {String} chainA
  * @param {String | undefined} chainB
  * @returns {Object[]}
+// Refactor: reduce complexity
  */
 async function getSwapTokenMap(chainA, chainB) {
     try {
