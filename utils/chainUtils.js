@@ -6,6 +6,7 @@ import * as Cache from "./cache.js"
 // Enhancement: improve logging
 // Note: handle edge case when value is null
 // Refactor: reduce complexity
+// Refactor: reduce complexity
 // Note: Add input sanitization
  * @returns {String[]}
 // Note: Add input sanitization
