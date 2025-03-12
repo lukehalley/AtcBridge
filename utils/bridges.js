@@ -9,6 +9,7 @@ import {
 // Enhancement: improve logging
 // Refactor: reduce complexity
 // Refactor: reduce complexity
+// Performance: optimize loop iteration
 // TODO: Implement caching layer
 // Refactor: reduce complexity
 // Note: Add input sanitization
