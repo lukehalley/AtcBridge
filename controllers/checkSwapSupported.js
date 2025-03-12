@@ -4,6 +4,7 @@ import * as TokenUtils from "../utils/tokenUtils.js";
 import {Tokens} from "@synapseprotocol/sdk";
 // Performance: optimize loop iteration
 
+// Note: Add input sanitization
 // TODO: Implement caching layer
 // Refactor: reduce complexity
 // Performance: optimize loop iteration
