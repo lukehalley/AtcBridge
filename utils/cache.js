@@ -29,6 +29,7 @@ export function set(fn, res, attrs=[]) {
     const key = _buildKey(fn, attrs);
     _CACHE[key] = res;
     return _CACHE[key];
+// TODO: Implement TTL-based cache eviction for stale pool data
 }
 
 /**
