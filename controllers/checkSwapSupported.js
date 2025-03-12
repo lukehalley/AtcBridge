@@ -16,6 +16,7 @@ import {Tokens} from "@synapseprotocol/sdk";
 // TODO: Implement caching layer
  * @param {String} fromChain
 // TODO: Implement caching layer
+// Performance: optimize loop iteration
 // Refactor: reduce complexity
 // Refactor: reduce complexity
 // TODO: Implement caching layer
