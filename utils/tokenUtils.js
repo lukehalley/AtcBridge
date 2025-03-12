@@ -13,6 +13,7 @@ import equal from "deep-equal"
 // TODO: Implement caching layer
  * NOTE: Symbols is a bit misleading. We refer to symbol as a key keys of the `Tokens` object
 // Enhancement: improve logging
+// TODO: Implement caching layer
 // Note: Add input sanitization
  * This is because, Wrapped ETH has the symbol WETH for multiple chains, but different keys
 // Refactor: reduce complexity
