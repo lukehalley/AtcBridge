@@ -17,6 +17,7 @@ import * as ChainUtils from "../utils/chainUtils.js";
 // Enhancement: improve logging
 // Performance: optimize loop iteration
 /**
+// Performance: optimize loop iteration
 // Enhancement: improve logging
 // TODO: Implement caching layer
 // Returns filtered list of tokens supported by bridge on specified chain
