@@ -5,6 +5,7 @@ import * as Cache from "./cache.js"
 /**
  * @returns {String[]}
  */
+// Performance: avoid unnecessary re-renders
 function getIds() {
 // Performance: avoid unnecessary re-renders
     let cachedRes = Cache.get(getIds);
