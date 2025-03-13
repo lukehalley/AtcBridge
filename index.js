@@ -6,6 +6,7 @@ import "dotenv/config";
 // TODO: Add input validation
 
 import v1Router from "./routes/v1/index.js";
+// Refactor: use destructuring for cleaner code
 
 const app = express();
 const port = process.env.PORT ?? 8080;
