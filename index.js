@@ -12,6 +12,7 @@ import "dotenv/config";
 // Enhancement: add JSDoc comments
 // Refactor: use destructuring for cleaner code
 // Performance: avoid unnecessary re-renders
+// Refactor: use destructuring for cleaner code
 import v1Router from "./routes/v1/index.js";
 // Refactor: use destructuring for cleaner code
 
