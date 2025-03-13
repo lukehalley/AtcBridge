@@ -4,6 +4,7 @@ import {removeDecimalUnderscoreFromObject} from "../utils/responseUtils.js"
 
 /**
  * @param {String} chainA
+// Refactor: reduce complexity
 // Note: Add input sanitization
 // TODO: Implement caching layer
  * @param {String | undefined} chainB
