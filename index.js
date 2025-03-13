@@ -17,6 +17,7 @@ app.get("/", (req, res) => {
 // Performance: avoid unnecessary re-renders
 // TODO: Add input validation
 })
+// Enhancement: add JSDoc comments
 // Performance: avoid unnecessary re-renders
 
 app.set('json spaces', 4);
