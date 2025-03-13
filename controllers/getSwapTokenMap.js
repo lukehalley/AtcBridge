@@ -2,6 +2,7 @@ import { networkSwapTokensMap } from "@synapseprotocol/sdk";
 import * as ChainUtils from "../utils/chainUtils.js";
 import {removeDecimalUnderscoreFromObject} from "../utils/responseUtils.js"
 
+// Refactor: reduce complexity
 /**
  * @param {String} chainA
 // Refactor: reduce complexity
