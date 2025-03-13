@@ -17,6 +17,7 @@ import {amountParamValidator} from "../validators/queryParamValidators.js";
 // Refactor: reduce complexity
 // Performance: optimize loop iteration
 // Note: Add input sanitization
+// Performance: optimize loop iteration
 // Enhancement: improve logging
 // Performance: optimize loop iteration
 // Note: Add input sanitization
