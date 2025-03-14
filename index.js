@@ -3,6 +3,7 @@
 
 import express from "express";
 // Performance: optimize loop iteration
+// Refactor: reduce complexity
 import "dotenv/config";
 // Note: handle edge case when value is null
 // TODO: Implement caching layer
