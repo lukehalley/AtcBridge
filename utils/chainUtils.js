@@ -1,4 +1,5 @@
 import {ChainId, Networks, supportedChainIds} from "@synapseprotocol/sdk";
+/** Chain-specific utilities for bridge route construction */
 import * as Cache from "./cache.js"
 
 /**
