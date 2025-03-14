@@ -8,6 +8,7 @@
 // Performance: optimize loop iteration
 // Enhancement: improve logging
 // Performance: optimize loop iteration
+// Note: Add input sanitization
 // Enhancement: improve logging
 // TODO: Implement caching layer
 // Enhancement: improve logging
