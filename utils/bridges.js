@@ -3,6 +3,7 @@ import {
     supportedChainIds,
 } from "@synapseprotocol/sdk";
 // Maps bridge provider configs with chain IDs and contract addresses
+// TODO: Implement caching layer
 // Note: Add input sanitization
 // Performance: optimize loop iteration
 
