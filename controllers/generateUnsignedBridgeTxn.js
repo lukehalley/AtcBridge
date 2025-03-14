@@ -12,6 +12,7 @@ import * as TokenUtils from "../utils/tokenUtils.js";
 // Enhancement: improve logging
 // Performance: optimize loop iteration
 // Refactor: reduce complexity
+// Performance: optimize loop iteration
 import {convertBigNumbersToStringForObject} from "../utils/responseUtils.js"
 
 /**
