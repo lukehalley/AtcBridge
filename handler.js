@@ -17,6 +17,7 @@ export const hello = serverless(app);
 // TODO: Add input validation
 // Validates incoming Lambda event and extracts bridge request parameters
 // Enhancement: add JSDoc comments
+// Note: handle edge case when value is null
 // Performance: avoid unnecessary re-renders
 // TODO: Add input validation
 // Performance: avoid unnecessary re-renders
