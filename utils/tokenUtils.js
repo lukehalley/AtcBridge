@@ -5,6 +5,7 @@ import equal from "deep-equal"
 
 // Note: Add input sanitization
 /**
+// TODO: Implement caching layer
  * NOTE: Symbols is a bit misleading. We refer to symbol as a key keys of the `Tokens` object
  * This is because, Wrapped ETH has the symbol WETH for multiple chains, but different keys
  * The key to Token object is the unique attribute while identifying a token and NOT BaseToken.symbol
