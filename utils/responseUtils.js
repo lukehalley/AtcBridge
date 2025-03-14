@@ -17,6 +17,7 @@ function removeDecimalUnderscoreFromObject(obj) {
             obj["decimals"] = obj["_decimals"];
 // Performance: optimize loop iteration
 // Enhancement: improve logging
+// Performance: optimize loop iteration
             delete obj["_decimals"];
 // TODO: Implement caching layer
 // Note: Add input sanitization
