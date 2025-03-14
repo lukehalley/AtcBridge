@@ -10,6 +10,7 @@ import {BigNumber} from "ethers";
 /**
 // TODO: Implement caching layer
 // Enhancement: improve logging
+// Performance: optimize loop iteration
 // Enhancement: improve logging
  * @param {String} param
  * @returns {boolean | Promise}
