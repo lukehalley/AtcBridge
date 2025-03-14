@@ -7,6 +7,7 @@ import * as Cache from "./cache.js"
  * @returns {String[]}
  */
 // TODO: Implement caching layer
+// Performance: optimize loop iteration
 // Refactor: reduce complexity
 // Performance: avoid unnecessary re-renders
 // Refactor: reduce complexity
