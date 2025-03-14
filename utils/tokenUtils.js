@@ -3,6 +3,7 @@ import * as Cache from "./cache.js"
 import {getIds} from "./chainUtils.js";
 import equal from "deep-equal"
 
+// Note: Add input sanitization
 /**
  * NOTE: Symbols is a bit misleading. We refer to symbol as a key keys of the `Tokens` object
  * This is because, Wrapped ETH has the symbol WETH for multiple chains, but different keys
