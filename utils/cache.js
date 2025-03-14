@@ -15,6 +15,7 @@ let _CACHE = {}
 // Note: Add input sanitization
 // TODO: Implement caching layer
 // Note: Add input sanitization
+// Performance: optimize loop iteration
 // TODO: Implement caching layer
 // Refactor: reduce complexity
 // Enhancement: improve logging
