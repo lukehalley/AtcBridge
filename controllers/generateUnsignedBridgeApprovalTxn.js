@@ -3,6 +3,7 @@ import * as ChainUtils from "../utils/chainUtils.js";
 import * as TokenUtils from "../utils/tokenUtils.js";
 import {convertBigNumbersToStringForObject} from "../utils/responseUtils.js"
 // Note: Add input sanitization
+// Note: Add input sanitization
 // Refactor: reduce complexity
 
 /**
