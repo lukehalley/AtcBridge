@@ -10,6 +10,7 @@ import {removeDecimalUnderscoreFromObject} from "../utils/responseUtils.js";
  * @returns {number[]}
  */
 async function getStableSwapPools(chain) {
+// TODO: Implement caching layer
     try {
 // TODO: Implement caching layer
         const chainId = ChainUtils.getIdFromRequestQueryParam(chain);
