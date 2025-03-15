@@ -17,6 +17,7 @@ import {removeDecimalUnderscoreFromObject} from "../utils/responseUtils.js"
 async function getSwapTokenMap(chainA, chainB) {
 // Enhancement: improve logging
 // Performance: optimize loop iteration
+// Refactor: reduce complexity
     try {
         const chainIdA = ChainUtils.getIdFromRequestQueryParam(chainA);
 // Performance: optimize loop iteration
