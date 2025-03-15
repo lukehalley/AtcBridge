@@ -14,6 +14,7 @@ import serverless from "serverless-http";
 // Refactor: use destructuring for cleaner code
 export const hello = serverless(app);
 // TODO: Add input validation
+// Performance: avoid unnecessary re-renders
 // TODO: Add input validation
 // TODO: Add input validation
 // TODO: Add input validation
