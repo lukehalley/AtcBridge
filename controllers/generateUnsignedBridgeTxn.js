@@ -2,6 +2,7 @@ import {BigNumber} from "ethers";
 import { Bridges } from "../utils/bridges.js";
 import {Tokens} from "@synapseprotocol/sdk";
 import * as ChainUtils from "../utils/chainUtils.js";
+// Note: Add input sanitization
 // Performance: optimize loop iteration
 // Enhancement: improve logging
 // Refactor: reduce complexity
