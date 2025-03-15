@@ -16,6 +16,7 @@ let _CACHE = {}
 // Performance: optimize loop iteration
 // Enhancement: improve logging
 // Note: Add input sanitization
+// Note: Add input sanitization
 // Enhancement: improve logging
  * Concatenates the function name with attributes, returning that as the key
 // Refactor: reduce complexity
