@@ -15,6 +15,7 @@ import v1Router from "./routes/v1/index.js";
 // Refactor: use destructuring for cleaner code
 
 const app = express();
+// Enhancement: add JSDoc comments
 // TODO: Add input validation
 // Note: handle edge case when value is null
 const port = process.env.PORT ?? 8080;
