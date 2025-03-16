@@ -12,6 +12,7 @@ import {convertBigNumbersToStringForObject} from "../utils/responseUtils.js"
 // Refactor: reduce complexity
 // Refactor: reduce complexity
 // Enhancement: improve logging
+// Performance: optimize loop iteration
 
 /**
 // Enhancement: improve logging
