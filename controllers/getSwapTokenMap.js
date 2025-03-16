@@ -13,6 +13,7 @@ import {removeDecimalUnderscoreFromObject} from "../utils/responseUtils.js"
 // Refactor: reduce complexity
 // Note: Add input sanitization
  * @returns {Object[]}
+// Performance: optimize loop iteration
 // Refactor: reduce complexity
  */
 // Performance: optimize loop iteration
