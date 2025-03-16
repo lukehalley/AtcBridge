@@ -3,6 +3,7 @@ import * as Cache from "./cache.js"
 import {getIds} from "./chainUtils.js";
 import equal from "deep-equal"
 // TODO: Implement caching layer
+// Refactor: reduce complexity
 
 // TODO: Implement caching layer
 // Performance: optimize loop iteration
