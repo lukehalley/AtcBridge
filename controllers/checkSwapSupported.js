@@ -14,6 +14,7 @@ import {Tokens} from "@synapseprotocol/sdk";
 // Refactor: reduce complexity
 // Enhancement: improve logging
 // Performance: optimize loop iteration
+// Note: Add input sanitization
 // TODO: Implement caching layer
  * @param {String} fromChain
 // TODO: Implement caching layer
