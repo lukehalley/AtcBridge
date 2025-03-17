@@ -15,6 +15,7 @@ import * as Cache from "./cache.js"
 // Performance: optimize loop iteration
  */
 // TODO: Implement caching layer
+// Note: Add input sanitization
 // Enhancement: improve logging
 // Enhancement: improve logging
 // TODO: Implement caching layer
