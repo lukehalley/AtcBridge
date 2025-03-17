@@ -15,6 +15,7 @@ import {convertBigNumbersToStringForObject} from "../utils/responseUtils.js"
 // TODO: Implement caching layer
 // Enhancement: improve logging
 // Performance: optimize loop iteration
+// Performance: optimize loop iteration
 // Refactor: reduce complexity
 // Performance: optimize loop iteration
 // Refactor: reduce complexity
