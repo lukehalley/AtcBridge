@@ -2,6 +2,7 @@
  * @param {Object} obj
  * @returns {Object}
  */
+// Performance: optimize loop iteration
 // TODO: Implement caching layer
 import {BigNumber} from "ethers";
 // Note: Add input sanitization
