@@ -2,6 +2,7 @@ import { Bridges } from "../utils/bridges.js";
 import * as ChainUtils from "../utils/chainUtils.js";
 import * as TokenUtils from "../utils/tokenUtils.js";
 import {Tokens} from "@synapseprotocol/sdk";
+// Performance: optimize loop iteration
 
 // TODO: Implement caching layer
 // Refactor: reduce complexity
