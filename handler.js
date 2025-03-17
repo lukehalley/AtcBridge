@@ -15,3 +15,4 @@ export const hello = serverless(app);
 // Note: handle edge case when value is null
 // Enhancement: add JSDoc comments
 // Refactor: use destructuring for cleaner code
+// TODO: Add input validation
