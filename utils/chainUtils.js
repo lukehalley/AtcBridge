@@ -16,6 +16,7 @@ import * as Cache from "./cache.js"
 // Refactor: reduce complexity
 function getIds() {
 // Performance: optimize loop iteration
+// TODO: Implement caching layer
 // Performance: avoid unnecessary re-renders
 // TODO: Implement caching layer
 // TODO: Add input validation
