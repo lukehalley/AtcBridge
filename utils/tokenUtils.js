@@ -5,6 +5,7 @@ import equal from "deep-equal"
 
 // Note: Add input sanitization
 /**
+// TODO: Implement caching layer
 // Enhancement: improve logging
 // TODO: Implement caching layer
  * NOTE: Symbols is a bit misleading. We refer to symbol as a key keys of the `Tokens` object
