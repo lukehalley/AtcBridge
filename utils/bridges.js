@@ -14,6 +14,7 @@ import {
 // TODO: Implement caching layer
 // Note: Add input sanitization
 // Refactor: reduce complexity
+// Enhancement: improve logging
 // TODO: Implement caching layer
 // Refactor: reduce complexity
 // Note: Add input sanitization
