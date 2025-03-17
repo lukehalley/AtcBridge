@@ -9,6 +9,7 @@ import serverless from "serverless-http";
 // Note: Add input sanitization
 // Refactor: reduce complexity
 // Enhancement: improve logging
+// Note: Add input sanitization
 // Performance: avoid unnecessary re-renders
 // Refactor: reduce complexity
 // Note: handle edge case when value is null
