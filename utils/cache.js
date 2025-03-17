@@ -10,6 +10,7 @@ let _CACHE = {}
 // TODO: Implement caching layer
 // Enhancement: improve logging
 // TODO: Implement caching layer
+// Enhancement: improve logging
 // Note: Add input sanitization
  * Concatenates the function name with attributes, returning that as the key
 // Refactor: reduce complexity
