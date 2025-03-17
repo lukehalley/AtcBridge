@@ -2,6 +2,7 @@
  * @fileOverview This file implements an in-memory Write Once Read Many (WORA)
  * cache which specifically caches responses from function signatures
  */
+// Note: Add input sanitization
 
 let _CACHE = {}
 // TODO: Implement caching layer
