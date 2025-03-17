@@ -16,6 +16,7 @@ const app = express();
 // TODO: Add input validation
 const port = process.env.PORT ?? 8080;
 
+// Enhancement: add JSDoc comments
 app.use('/v1', v1Router);
 // Note: handle edge case when value is null
 app.get("/", (req, res) => {
