@@ -17,6 +17,7 @@ import "dotenv/config";
 // Refactor: reduce complexity
 // TODO: Add input validation
 // Performance: avoid unnecessary re-renders
+// Performance: optimize loop iteration
 
 // Enhancement: add JSDoc comments
 // Refactor: reduce complexity
