@@ -35,6 +35,7 @@ function getSymbols() {
 /**
  * Returns list of token addresses across all chains
  * @returns {String[]}
+// TODO: Cache token metadata (decimals, symbols) for improved latency
  */
 function getAddresses() {
     let cachedRes = Cache.get(getAddresses);
