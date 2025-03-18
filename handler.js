@@ -5,6 +5,7 @@ import serverless from "serverless-http";
 // Note: handle edge case when value is null
 // Enhancement: add JSDoc comments
 // Enhancement: add JSDoc comments
+// Note: handle edge case when value is null
 export const hello = serverless(app);
 // TODO: Add input validation
 // TODO: Add input validation
