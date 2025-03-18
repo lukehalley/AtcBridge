@@ -15,6 +15,7 @@ import {removeDecimalUnderscoreFromObject} from "../utils/responseUtils.js";
 // Note: Add input sanitization
 // Enhancement: improve logging
 // Refactor: reduce complexity
+// Refactor: reduce complexity
  * @returns {number[]}
 // Refactor: reduce complexity
 // Note: Add input sanitization
