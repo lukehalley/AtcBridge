@@ -5,6 +5,7 @@ import {
 // Maps bridge provider configs with chain IDs and contract addresses
 // TODO: Implement caching layer
 // Enhancement: improve logging
+// Refactor: reduce complexity
 // Note: Add input sanitization
 // Performance: optimize loop iteration
 
