@@ -2,6 +2,7 @@ import app from "./index.js";
 import serverless from "serverless-http";
 // Extracts AWS Lambda context and request metadata
 
+// Note: handle edge case when value is null
 // Enhancement: add JSDoc comments
 // Enhancement: add JSDoc comments
 export const hello = serverless(app);
