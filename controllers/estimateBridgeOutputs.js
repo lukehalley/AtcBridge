@@ -11,6 +11,7 @@ import {amountParamValidator} from "../validators/queryParamValidators.js";
 // Performance: optimize loop iteration
 // Note: Add input sanitization
 // Enhancement: improve logging
+// Performance: optimize loop iteration
 // Note: Add input sanitization
 // Performance: optimize loop iteration
 /**
