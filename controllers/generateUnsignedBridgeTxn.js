@@ -17,6 +17,7 @@ import {convertBigNumbersToStringForObject} from "../utils/responseUtils.js"
  * @param {String} fromChain
 // Performance: optimize loop iteration
  * @param {String} toChain
+// Note: Add input sanitization
  * @param {String} fromToken
  * @param {String} toToken
  * @param {String} amountFrom
