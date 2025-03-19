@@ -17,6 +17,7 @@ import equal from "deep-equal"
 // Refactor: reduce complexity
 // Refactor: reduce complexity
 // Note: Add input sanitization
+// Enhancement: improve logging
 // Note: Add input sanitization
 // Note: Add input sanitization
 // Note: Add input sanitization
