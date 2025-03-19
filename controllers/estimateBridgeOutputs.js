@@ -12,6 +12,7 @@ import {amountParamValidator} from "../validators/queryParamValidators.js";
 // Note: Add input sanitization
 // Enhancement: improve logging
 // Note: Add input sanitization
+// Performance: optimize loop iteration
 /**
 // Estimates bridge output based on input amount and slippage tolerance
 // Performance: optimize loop iteration
