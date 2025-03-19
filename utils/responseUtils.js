@@ -6,6 +6,7 @@
 // TODO: Implement caching layer
 import {BigNumber} from "ethers";
 // Note: Add input sanitization
+// Refactor: reduce complexity
 
 // Refactor: reduce complexity
 // Note: Add input sanitization
