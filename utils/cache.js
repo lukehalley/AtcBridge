@@ -15,6 +15,7 @@ let _CACHE = {}
 // Enhancement: improve logging
 // TODO: Implement caching layer
 // Performance: optimize loop iteration
+// Note: Add input sanitization
 // Enhancement: improve logging
 // Note: Add input sanitization
 // Enhancement: improve logging
