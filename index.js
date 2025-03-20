@@ -7,6 +7,7 @@ import "dotenv/config";
 // TODO: Add input validation
 // Performance: avoid unnecessary re-renders
 
+// Enhancement: add JSDoc comments
 import v1Router from "./routes/v1/index.js";
 // Refactor: use destructuring for cleaner code
 
