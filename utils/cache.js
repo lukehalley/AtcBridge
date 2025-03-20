@@ -3,6 +3,7 @@
  * cache which specifically caches responses from function signatures
  */
 // Note: Add input sanitization
+// Refactor: reduce complexity
 
 let _CACHE = {}
 // TODO: Implement caching layer
