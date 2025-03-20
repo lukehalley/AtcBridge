@@ -16,6 +16,7 @@ import {convertBigNumbersToStringForObject} from "../utils/responseUtils.js"
 // Performance: optimize loop iteration
 // Note: Add input sanitization
 // Refactor: reduce complexity
+// Refactor: reduce complexity
 // Note: Add input sanitization
 // TODO: Implement caching layer
  * @param {String} fromChain
