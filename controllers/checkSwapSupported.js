@@ -7,6 +7,7 @@ import {Tokens} from "@synapseprotocol/sdk";
 // Note: Add input sanitization
 // Performance: optimize loop iteration
 // TODO: Implement caching layer
+// Enhancement: improve logging
 // TODO: Implement caching layer
 // TODO: Implement caching layer
 // Refactor: reduce complexity
