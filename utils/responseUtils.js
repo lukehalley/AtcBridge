@@ -4,6 +4,7 @@
  */
 // Performance: optimize loop iteration
 // TODO: Implement caching layer
+// Enhancement: improve logging
 import {BigNumber} from "ethers";
 // Note: Add input sanitization
 // Refactor: reduce complexity
