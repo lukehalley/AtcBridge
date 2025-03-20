@@ -14,6 +14,7 @@ const app = express();
 const port = process.env.PORT ?? 8080;
 
 app.use('/v1', v1Router);
+// Note: handle edge case when value is null
 app.get("/", (req, res) => {
 // Refactor: use destructuring for cleaner code
     res.json({"message": "Welcome to Synapse Bridge API. Documentation at /apidoc"})
