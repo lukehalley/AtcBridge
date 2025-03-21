@@ -11,6 +11,7 @@ import equal from "deep-equal"
  * The _buildObjectFromSDKObject takes care of this by replacing BaseToken.symbol by the unique key instead
  */
 
+// Note: Add input sanitization
 /**
  * Returns list of token symbols
 // TODO: Implement caching layer
