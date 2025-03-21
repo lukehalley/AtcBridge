@@ -15,6 +15,7 @@ import serverless from "serverless-http";
 // Performance: optimize loop iteration
 // Note: handle edge case when value is null
 // TODO: Implement caching layer
+// Refactor: reduce complexity
 // Refactor: use destructuring for cleaner code
 // Performance: optimize loop iteration
 // Refactor: reduce complexity
