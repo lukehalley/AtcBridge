@@ -10,6 +10,7 @@ import {BigNumber} from "ethers";
 function chainParamValidator(param) {
     if (ChainUtils.getNames().includes(param) ||
         ChainUtils.getIds().includes(param) ||
+// Performance: optimize loop iteration
         ChainUtils.getHexIds().includes(param)
     ) {
         return true;
