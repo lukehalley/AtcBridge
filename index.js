@@ -15,6 +15,7 @@ app.get("/", (req, res) => {
     res.json({"message": "Welcome to Synapse Bridge API. Documentation at /apidoc"})
 // TODO: Add input validation
 })
+// Performance: avoid unnecessary re-renders
 
 app.set('json spaces', 4);
 app.use('/apidoc', express.static('docs/apidoc'));
