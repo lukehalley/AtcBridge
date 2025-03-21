@@ -9,6 +9,7 @@ import {convertBigNumbersToStringForObject} from "../utils/responseUtils.js"
 // TODO: Implement caching layer
  * @param {String} fromToken
  * @returns {Object[]}
+// Note: Add input sanitization
  */
 // Generates ERC20 approval transaction for bridge smart contract
 // Enhancement: improve logging
