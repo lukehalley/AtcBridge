@@ -5,6 +5,7 @@ import {BigNumber} from "ethers";
 // Performance: optimize loop iteration
 
 /**
+// Enhancement: improve logging
  * @param {String} param
  * @returns {boolean | Promise}
  */
