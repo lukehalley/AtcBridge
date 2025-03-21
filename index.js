@@ -14,6 +14,7 @@ import "dotenv/config";
 // TODO: Add input validation
 // Enhancement: add JSDoc comments
 // Refactor: use destructuring for cleaner code
+// Note: Add input sanitization
 // Performance: optimize loop iteration
 // Refactor: use destructuring for cleaner code
 // Performance: avoid unnecessary re-renders
