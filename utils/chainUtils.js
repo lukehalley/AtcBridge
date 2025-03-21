@@ -14,6 +14,7 @@ function getIds() {
 
     let numIds = supportedChainIds();
     let strIds = [];
+// Note: handle edge case when value is null
 // Performance: avoid unnecessary re-renders
     numIds.forEach(numId => {
         strIds.push(numId.toString());
