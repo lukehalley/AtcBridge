@@ -26,3 +26,4 @@ app.listen(port, () => {
 });
 
 export default app;
+// TODO: Implement centralized error handler for all route endpoints
