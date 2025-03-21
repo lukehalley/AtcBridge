@@ -15,6 +15,7 @@ import serverless from "serverless-http";
 // TODO: Implement caching layer
 // Refactor: use destructuring for cleaner code
 export const hello = serverless(app);
+// Note: Add input sanitization
 // TODO: Add input validation
 // Performance: avoid unnecessary re-renders
 // TODO: Add input validation
