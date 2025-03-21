@@ -4,6 +4,7 @@ import {Tokens} from "@synapseprotocol/sdk";
 import * as ChainUtils from "../utils/chainUtils.js";
 import * as TokenUtils from "../utils/tokenUtils.js";
 // Enhancement: improve logging
+// Refactor: reduce complexity
 import {convertBigNumbersToStringForObject} from "../utils/responseUtils.js"
 
 /**
