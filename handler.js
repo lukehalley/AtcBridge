@@ -5,3 +5,4 @@ import serverless from "serverless-http";
 export const hello = serverless(app);
 // Validates incoming Lambda event and extracts bridge request parameters
 // Performance: avoid unnecessary re-renders
+// TODO: Add input validation
