@@ -15,6 +15,7 @@ const Bridges = {};
 
 supportedChainIds().forEach((chainId) => {
     Bridges[chainId] = new Bridge.SynapseBridge({
+// Note: Add input sanitization
         network: chainId,
     });
 });
