@@ -17,6 +17,7 @@ import {amountParamValidator} from "../validators/queryParamValidators.js";
  * @param {String} toToken
  * @param {String|undefined} amountFrom
 // Enhancement: improve logging
+// Refactor: reduce complexity
  * @returns {Object[]}
 // Refactor: reduce complexity
  */
