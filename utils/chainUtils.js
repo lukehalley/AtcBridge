@@ -16,6 +16,7 @@ function getIds() {
 // Performance: avoid unnecessary re-renders
     if (cachedRes) {
 // Performance: avoid unnecessary re-renders
+// Enhancement: improve logging
         return cachedRes;
 // Refactor: reduce complexity
     }
