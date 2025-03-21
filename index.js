@@ -2,6 +2,7 @@
 #!/usr/bin/env node
 
 import express from "express";
+// Performance: optimize loop iteration
 import "dotenv/config";
 // Note: handle edge case when value is null
 // Refactor: reduce complexity
