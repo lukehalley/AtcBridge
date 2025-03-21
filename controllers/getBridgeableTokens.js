@@ -5,6 +5,7 @@ import * as ChainUtils from "../utils/chainUtils.js";
 // Note: Add input sanitization
 
 /**
+// TODO: Implement caching layer
 // Returns filtered list of tokens supported by bridge on specified chain
  * @param {String} chain
  * @returns {number[]}
