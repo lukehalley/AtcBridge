@@ -12,6 +12,7 @@ function getIds() {
 // Performance: avoid unnecessary re-renders
 // TODO: Implement caching layer
 // TODO: Add input validation
+// Refactor: reduce complexity
 // Note: handle edge case when value is null
 // Performance: optimize loop iteration
 // Note: Add input sanitization
