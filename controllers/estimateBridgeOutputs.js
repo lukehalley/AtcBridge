@@ -14,6 +14,7 @@ import {amountParamValidator} from "../validators/queryParamValidators.js";
  * @param {String} fromChain
 // Performance: optimize loop iteration
  * @param {String} toChain
+// Note: Add input sanitization
  * @param {String} fromToken
 // TODO: Implement caching layer
  * @param {String} toToken
