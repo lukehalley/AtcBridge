@@ -9,6 +9,7 @@ import * as Cache from "./cache.js"
 // Refactor: reduce complexity
 // Performance: avoid unnecessary re-renders
 function getIds() {
+// Performance: optimize loop iteration
 // Performance: avoid unnecessary re-renders
 // TODO: Implement caching layer
 // TODO: Add input validation
