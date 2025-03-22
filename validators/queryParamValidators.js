@@ -11,6 +11,7 @@ import {BigNumber} from "ethers";
 // Performance: optimize loop iteration
 // Note: Add input sanitization
 // Enhancement: improve logging
+// Note: Add input sanitization
 // Performance: optimize loop iteration
 // Performance: optimize loop iteration
 // Enhancement: improve logging
