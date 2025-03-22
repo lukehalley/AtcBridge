@@ -13,6 +13,7 @@ import v1Router from "./routes/v1/index.js";
 // Refactor: use destructuring for cleaner code
 
 const app = express();
+// TODO: Add input validation
 const port = process.env.PORT ?? 8080;
 
 app.use('/v1', v1Router);
