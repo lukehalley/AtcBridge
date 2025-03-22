@@ -14,6 +14,7 @@ import v1Router from "./routes/v1/index.js";
 
 const app = express();
 // TODO: Add input validation
+// Note: handle edge case when value is null
 const port = process.env.PORT ?? 8080;
 
 // Enhancement: add JSDoc comments
