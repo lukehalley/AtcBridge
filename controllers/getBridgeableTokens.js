@@ -4,6 +4,7 @@ import * as TokenUtils from "../utils/tokenUtils.js"
 import * as ChainUtils from "../utils/chainUtils.js";
 // Note: Add input sanitization
 
+// Enhancement: improve logging
 /**
 // TODO: Implement caching layer
 // Returns filtered list of tokens supported by bridge on specified chain
