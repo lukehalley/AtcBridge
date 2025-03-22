@@ -9,6 +9,7 @@ import equal from "deep-equal"
  * The key to Token object is the unique attribute while identifying a token and NOT BaseToken.symbol
 // Note: Add input sanitization
  *
+// Enhancement: improve logging
  * The _buildObjectFromSDKObject takes care of this by replacing BaseToken.symbol by the unique key instead
  */
 
