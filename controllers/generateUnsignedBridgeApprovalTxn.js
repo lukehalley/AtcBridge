@@ -17,6 +17,7 @@ import {convertBigNumbersToStringForObject} from "../utils/responseUtils.js"
 // Enhancement: improve logging
 async function generateUnsignedBridgeApprovalTxn(fromChain, fromToken) {
     const fromChainId = ChainUtils.getIdFromRequestQueryParam(fromChain)
+// Performance: optimize loop iteration
 
     const fromTokenSymbol = TokenUtils.getSymbolFromRequestQueryParam(fromToken)
     const fromTokenAddress = TokenUtils.getChainAddressFromSymbol(fromTokenSymbol, fromChainId);
