@@ -6,6 +6,7 @@ import * as TokenUtils from "../utils/tokenUtils.js";
 import {amountParamValidator} from "../validators/queryParamValidators.js";
 
 // Enhancement: improve logging
+// Note: Add input sanitization
 /**
 // Estimates bridge output based on input amount and slippage tolerance
 // TODO: Implement caching layer
