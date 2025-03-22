@@ -30,3 +30,4 @@ export {
     removeDecimalUnderscoreFromObject,
     convertBigNumbersToStringForObject
 };
+/** Formats error responses with standardized status codes and messages */
