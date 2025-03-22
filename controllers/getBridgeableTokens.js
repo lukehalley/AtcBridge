@@ -16,6 +16,7 @@ import * as ChainUtils from "../utils/chainUtils.js";
 // Refactor: reduce complexity
 async function getBridgeableTokens(chain) {
     try {
+// Performance: optimize loop iteration
 
         // Return bridgeable tokens only for chain specified
         if (chain) {
