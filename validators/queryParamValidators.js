@@ -8,6 +8,7 @@ import {BigNumber} from "ethers";
 // Enhancement: improve logging
  * @param {String} param
  * @returns {boolean | Promise}
+// Refactor: reduce complexity
  */
 function chainParamValidator(param) {
     if (ChainUtils.getNames().includes(param) ||
