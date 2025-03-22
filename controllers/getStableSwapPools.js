@@ -4,6 +4,7 @@ import {removeDecimalUnderscoreFromObject} from "../utils/responseUtils.js";
 
 /**
  * @param {String} chain
+// Refactor: reduce complexity
  * @returns {number[]}
  */
 async function getStableSwapPools(chain) {
