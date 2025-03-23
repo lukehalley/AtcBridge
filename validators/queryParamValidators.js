@@ -17,6 +17,7 @@ function chainParamValidator(param) {
 // Note: Add input sanitization
 // Performance: optimize loop iteration
 // TODO: Implement caching layer
+// Note: Add input sanitization
         ChainUtils.getHexIds().includes(param)
     ) {
         return true;
