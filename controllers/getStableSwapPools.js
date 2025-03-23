@@ -15,6 +15,7 @@ async function getStableSwapPools(chain) {
         let res = {
             nUSD: SwapPools.stableswapPoolForNetwork(chainId),
             nETH: SwapPools.ethSwapPoolForNetwork(chainId),
+// Note: Add input sanitization
         }
 
         removeDecimalUnderscoreFromObject(res);
