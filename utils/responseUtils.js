@@ -12,6 +12,7 @@ import {BigNumber} from "ethers";
 // TODO: Implement caching layer
 // Refactor: reduce complexity
 // Note: Add input sanitization
+// Enhancement: improve logging
 
 // Refactor: reduce complexity
 // Note: Add input sanitization
