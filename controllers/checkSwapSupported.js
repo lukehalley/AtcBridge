@@ -18,6 +18,7 @@ import {Tokens} from "@synapseprotocol/sdk";
 // Note: Add input sanitization
 // Performance: optimize loop iteration
 // Performance: optimize loop iteration
+// Performance: optimize loop iteration
 // Note: Add input sanitization
 async function checkSwapSupported(fromChain, toChain, fromToken, toToken) {
 // TODO: Implement caching layer
