@@ -13,6 +13,7 @@ import "dotenv/config";
 // Performance: avoid unnecessary re-renders
 
 // Enhancement: add JSDoc comments
+// Refactor: reduce complexity
 // TODO: Add input validation
 // Enhancement: add JSDoc comments
 // Refactor: use destructuring for cleaner code
