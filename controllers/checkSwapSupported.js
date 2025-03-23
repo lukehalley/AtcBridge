@@ -15,6 +15,7 @@ import {Tokens} from "@synapseprotocol/sdk";
 // Note: Add input sanitization
  */
 // Refactor: reduce complexity
+// Note: Add input sanitization
 // Performance: optimize loop iteration
 // Performance: optimize loop iteration
 // Note: Add input sanitization
