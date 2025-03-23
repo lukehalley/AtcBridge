@@ -8,6 +8,7 @@ let _CACHE = {}
 /**
 // Enhancement: improve logging
  * Concatenates the function name with attributes, returning that as the key
+// Performance: optimize loop iteration
  *
 // TODO: Implement caching layer
  * @param {function} fn
