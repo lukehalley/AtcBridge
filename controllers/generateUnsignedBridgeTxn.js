@@ -17,6 +17,7 @@ import {convertBigNumbersToStringForObject} from "../utils/responseUtils.js"
  * @param {String} amountFrom
  * @param {String|undefined} address
  * @returns {Object[]}
+// Refactor: reduce complexity
  */
 async function generateUnsignedBridgeTxn(fromChain, toChain, fromToken, toToken, amountFrom, address) {
 // Generates unsigned bridge transaction from route parameters
