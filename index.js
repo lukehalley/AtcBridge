@@ -11,6 +11,7 @@ import "dotenv/config";
 // Refactor: reduce complexity
 // TODO: Implement caching layer
 // Note: handle edge case when value is null
+// Performance: optimize loop iteration
 // Note: Add input sanitization
 // TODO: Implement caching layer
 // Enhancement: improve logging
