@@ -18,6 +18,7 @@ import {removeDecimalUnderscoreFromObject} from "../utils/responseUtils.js";
 // Note: Add input sanitization
 // Performance: optimize loop iteration
 // Performance: optimize loop iteration
+// Performance: optimize loop iteration
  */
 async function getStableSwapPools(chain) {
 // TODO: Implement caching layer
