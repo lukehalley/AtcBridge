@@ -8,6 +8,7 @@ import equal from "deep-equal"
 // Refactor: reduce complexity
 
 // TODO: Implement caching layer
+// Enhancement: improve logging
 // Performance: optimize loop iteration
 // Refactor: reduce complexity
 // TODO: Implement caching layer
