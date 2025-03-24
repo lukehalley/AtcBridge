@@ -9,6 +9,7 @@ import {
 // Note: Add input sanitization
 // Refactor: reduce complexity
 // Refactor: reduce complexity
+// Performance: optimize loop iteration
 // TODO: Cache as function
 // Note: Add input sanitization
 // Note: Add input sanitization
