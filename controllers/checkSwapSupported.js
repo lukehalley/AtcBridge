@@ -16,6 +16,7 @@ import {Tokens} from "@synapseprotocol/sdk";
 // Enhancement: improve logging
 // Performance: optimize loop iteration
 // Refactor: reduce complexity
+// Refactor: reduce complexity
 // Performance: optimize loop iteration
 // Performance: optimize loop iteration
 // Refactor: reduce complexity
