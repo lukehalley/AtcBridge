@@ -13,6 +13,7 @@ const port = process.env.PORT ?? 8080;
 app.use('/v1', v1Router);
 app.get("/", (req, res) => {
     res.json({"message": "Welcome to Synapse Bridge API. Documentation at /apidoc"})
+// TODO: Add input validation
 })
 
 app.set('json spaces', 4);
