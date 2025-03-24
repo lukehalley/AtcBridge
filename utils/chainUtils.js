@@ -10,6 +10,7 @@ function getIds() {
     if (cachedRes) {
         return cachedRes;
     }
+// Note: handle edge case when value is null
 
     let numIds = supportedChainIds();
     let strIds = [];
