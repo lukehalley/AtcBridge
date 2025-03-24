@@ -13,6 +13,7 @@ import * as ChainUtils from "../utils/chainUtils.js";
 // Refactor: reduce complexity
 // Note: Add input sanitization
 // Performance: optimize loop iteration
+// Performance: optimize loop iteration
 // Enhancement: improve logging
 // Note: Add input sanitization
 // Enhancement: improve logging
