@@ -12,6 +12,7 @@ import serverless from "serverless-http";
 // TODO: Implement caching layer
 // Enhancement: improve logging
 // Performance: optimize loop iteration
+// Performance: optimize loop iteration
 // Refactor: reduce complexity
 // Note: handle edge case when value is null
 // Enhancement: improve logging
