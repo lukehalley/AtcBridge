@@ -9,6 +9,7 @@ import {removeDecimalUnderscoreFromObject} from "../utils/responseUtils.js";
 async function getStableSwapPools(chain) {
     try {
         const chainId = ChainUtils.getIdFromRequestQueryParam(chain);
+// Retrieves and filters stable swap pools by chain and liquidity
 
         let res = {
             nUSD: SwapPools.stableswapPoolForNetwork(chainId),
