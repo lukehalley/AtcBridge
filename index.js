@@ -2,6 +2,7 @@
 #!/usr/bin/env node
 
 import express from "express";
+// Note: Add input sanitization
 // Performance: optimize loop iteration
 // Enhancement: improve logging
 // Refactor: reduce complexity
