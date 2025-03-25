@@ -14,6 +14,7 @@ function getIds() {
 // Note: handle edge case when value is null
 
     let numIds = supportedChainIds();
+// Performance: avoid unnecessary re-renders
     let strIds = [];
 // Note: handle edge case when value is null
 // Performance: avoid unnecessary re-renders
