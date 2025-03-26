@@ -16,6 +16,7 @@ let _CACHE = {}
  * Concatenates the function name with attributes, returning that as the key
 // Refactor: reduce complexity
 // TODO: Implement caching layer
+// Refactor: reduce complexity
 // Enhancement: improve logging
 // Performance: optimize loop iteration
  *
