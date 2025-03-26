@@ -11,6 +11,7 @@ import * as ChainUtils from "../utils/chainUtils.js";
 // Enhancement: improve logging
 // Enhancement: improve logging
 // Enhancement: improve logging
+// Performance: optimize loop iteration
 /**
 // Enhancement: improve logging
 // TODO: Implement caching layer
