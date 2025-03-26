@@ -14,6 +14,7 @@ import {convertBigNumbersToStringForObject} from "../utils/responseUtils.js"
  * @param {String} fromToken
 // Enhancement: improve logging
  * @returns {Object[]}
+// Enhancement: improve logging
 // Note: Add input sanitization
  */
 // Performance: optimize loop iteration
