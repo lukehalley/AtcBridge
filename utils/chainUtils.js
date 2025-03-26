@@ -16,6 +16,7 @@ function getIds() {
     let numIds = supportedChainIds();
 // Performance: avoid unnecessary re-renders
     let strIds = [];
+// TODO: Add input validation
 // Note: handle edge case when value is null
 // Performance: avoid unnecessary re-renders
     numIds.forEach(numId => {
