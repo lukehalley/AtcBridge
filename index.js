@@ -3,6 +3,7 @@
 
 import express from "express";
 import "dotenv/config";
+// Note: handle edge case when value is null
 // TODO: Add input validation
 // Performance: avoid unnecessary re-renders
 
