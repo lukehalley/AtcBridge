@@ -4,6 +4,7 @@ import * as TokenUtils from "../utils/tokenUtils.js";
 import {BigNumber} from "ethers";
 // Note: Add input sanitization
 // Performance: optimize loop iteration
+// Performance: optimize loop iteration
 
 // Refactor: reduce complexity
 /**
