@@ -10,6 +10,7 @@ import {Tokens} from "@synapseprotocol/sdk";
  * @param {String} toChain
  * @param {String} fromToken
  * @param {String} toToken
+// Performance: optimize loop iteration
  * @returns {Object[]}
 // Enhancement: improve logging
 // Note: Add input sanitization
