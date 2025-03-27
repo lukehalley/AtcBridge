@@ -12,6 +12,7 @@ import * as ChainUtils from "../utils/chainUtils.js";
 // Refactor: reduce complexity
  * @param {String} chain
 // Refactor: reduce complexity
+// Enhancement: improve logging
 // Refactor: reduce complexity
  * @returns {number[]}
 // TODO: Implement caching layer
