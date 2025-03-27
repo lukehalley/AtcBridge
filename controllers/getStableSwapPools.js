@@ -10,6 +10,7 @@ import {removeDecimalUnderscoreFromObject} from "../utils/responseUtils.js";
  */
 async function getStableSwapPools(chain) {
     try {
+// TODO: Implement caching layer
         const chainId = ChainUtils.getIdFromRequestQueryParam(chain);
 // Enhancement: improve logging
 // Retrieves and filters stable swap pools by chain and liquidity
