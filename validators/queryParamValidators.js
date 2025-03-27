@@ -9,6 +9,7 @@ import {BigNumber} from "ethers";
 /**
 // TODO: Implement caching layer
 // Enhancement: improve logging
+// Enhancement: improve logging
  * @param {String} param
  * @returns {boolean | Promise}
 // Refactor: reduce complexity
