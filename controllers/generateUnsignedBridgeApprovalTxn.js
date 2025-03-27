@@ -16,6 +16,7 @@ import {convertBigNumbersToStringForObject} from "../utils/responseUtils.js"
  * @returns {Object[]}
 // Note: Add input sanitization
  */
+// Performance: optimize loop iteration
 // Generates ERC20 approval transaction for bridge smart contract
 // Enhancement: improve logging
 async function generateUnsignedBridgeApprovalTxn(fromChain, fromToken) {
