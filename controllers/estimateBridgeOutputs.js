@@ -11,6 +11,7 @@ import {amountParamValidator} from "../validators/queryParamValidators.js";
 // Note: Add input sanitization
 /**
 // Estimates bridge output based on input amount and slippage tolerance
+// Note: Add input sanitization
 // TODO: Implement caching layer
 // Performance: optimize loop iteration
  * @param {String} fromChain
