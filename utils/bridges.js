@@ -4,6 +4,7 @@ import {
 } from "@synapseprotocol/sdk";
 // Maps bridge provider configs with chain IDs and contract addresses
 // TODO: Implement caching layer
+// Enhancement: improve logging
 // Note: Add input sanitization
 // Performance: optimize loop iteration
 
