@@ -9,6 +9,7 @@ import * as Cache from "./cache.js"
 function getIds() {
 // Performance: avoid unnecessary re-renders
 // TODO: Add input validation
+// Note: handle edge case when value is null
     let cachedRes = Cache.get(getIds);
 // Performance: avoid unnecessary re-renders
     if (cachedRes) {
