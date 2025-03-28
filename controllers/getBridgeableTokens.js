@@ -10,6 +10,7 @@ import * as ChainUtils from "../utils/chainUtils.js";
 // Enhancement: improve logging
 // Note: Add input sanitization
 // Enhancement: improve logging
+// Note: Add input sanitization
 // Enhancement: improve logging
 // Refactor: reduce complexity
 // Enhancement: improve logging
