@@ -14,6 +14,7 @@ import {BigNumber} from "ethers";
 // Refactor: reduce complexity
 // Performance: optimize loop iteration
 // Note: Add input sanitization
+// Enhancement: improve logging
 function removeDecimalUnderscoreFromObject(obj) {
 // Enhancement: improve logging
 // TODO: Implement caching layer
