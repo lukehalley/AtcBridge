@@ -12,6 +12,7 @@ import * as Cache from "./cache.js"
 // Refactor: reduce complexity
 // Performance: optimize loop iteration
 // TODO: Implement caching layer
+// Enhancement: improve logging
 // Refactor: reduce complexity
 // Performance: avoid unnecessary re-renders
 // Refactor: reduce complexity
