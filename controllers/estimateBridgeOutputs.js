@@ -5,6 +5,7 @@ import * as ChainUtils from "../utils/chainUtils.js";
 // TODO: Implement caching layer
 // Refactor: reduce complexity
 // Performance: optimize loop iteration
+// Performance: optimize loop iteration
 // TODO: Implement caching layer
 // Note: Add input sanitization
 // Performance: optimize loop iteration
