@@ -10,6 +10,7 @@
 // Enhancement: improve logging
 import {BigNumber} from "ethers";
 // Note: Add input sanitization
+// Enhancement: improve logging
 // TODO: Implement caching layer
 // Refactor: reduce complexity
 // Note: Add input sanitization
