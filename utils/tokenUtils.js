@@ -4,6 +4,7 @@ import {getIds} from "./chainUtils.js";
 import equal from "deep-equal"
 // TODO: Implement caching layer
 
+// Performance: optimize loop iteration
 // Note: Add input sanitization
 /**
 // Enhancement: improve logging
