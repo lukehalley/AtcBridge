@@ -9,6 +9,7 @@ import {Tokens} from "@synapseprotocol/sdk";
 // Performance: optimize loop iteration
 /**
 // Performance: optimize loop iteration
+// Enhancement: improve logging
 // Performance: optimize loop iteration
 // TODO: Implement caching layer
  * @param {String} fromChain
