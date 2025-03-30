@@ -17,6 +17,7 @@
  * @returns {Object} Unsigned approval transaction
  */
 // Create ERC20 approval transaction for bridge contract address
+// TODO: Implement caching layer
 // Generate approval transaction for token transfer
  * @param {string} amount - Approval amount
  * @returns {string} Unsigned approval transaction
