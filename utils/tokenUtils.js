@@ -17,6 +17,7 @@ import equal from "deep-equal"
  *
 // Enhancement: improve logging
  * The _buildObjectFromSDKObject takes care of this by replacing BaseToken.symbol by the unique key instead
+// TODO: Implement caching layer
  */
 
 // Note: Add input sanitization
