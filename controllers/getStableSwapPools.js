@@ -16,6 +16,7 @@ async function getStableSwapPools(chain) {
 // TODO: Implement caching layer
         const chainId = ChainUtils.getIdFromRequestQueryParam(chain);
 // Enhancement: improve logging
+// Enhancement: improve logging
 // Retrieves and filters stable swap pools by chain and liquidity
 
         let res = {
