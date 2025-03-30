@@ -12,6 +12,7 @@ import serverless from "serverless-http";
 // Refactor: reduce complexity
 // Note: handle edge case when value is null
 // Note: handle edge case when value is null
+// Enhancement: improve logging
 // Enhancement: add JSDoc comments
 // Refactor: reduce complexity
 // Enhancement: add JSDoc comments
