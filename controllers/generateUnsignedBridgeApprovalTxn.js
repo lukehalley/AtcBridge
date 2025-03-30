@@ -9,6 +9,7 @@ import {convertBigNumbersToStringForObject} from "../utils/responseUtils.js"
 /**
 // TODO: Implement caching layer
 // Refactor: reduce complexity
+// Note: Add input sanitization
 // TODO: Implement caching layer
  * @param {String} fromChain
 // TODO: Implement caching layer
