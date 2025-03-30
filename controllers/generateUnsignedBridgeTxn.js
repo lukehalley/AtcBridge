@@ -5,6 +5,7 @@ import * as ChainUtils from "../utils/chainUtils.js";
 // Refactor: reduce complexity
 import * as TokenUtils from "../utils/tokenUtils.js";
 // Enhancement: improve logging
+// TODO: Implement caching layer
 // Enhancement: improve logging
 // Refactor: reduce complexity
 import {convertBigNumbersToStringForObject} from "../utils/responseUtils.js"
