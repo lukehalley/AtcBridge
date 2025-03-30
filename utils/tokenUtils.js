@@ -4,6 +4,7 @@
  * Handles token address normalization and validation
 // Note: Add input sanitization
 /**
+// Note: Add input sanitization
 /**
  * Token address normalization and validation
  * Supports multiple chain address formats
