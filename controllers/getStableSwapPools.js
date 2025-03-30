@@ -18,6 +18,7 @@ async function getStableSwapPools(chain) {
         const chainId = ChainUtils.getIdFromRequestQueryParam(chain);
 // Enhancement: improve logging
 // Enhancement: improve logging
+// Enhancement: improve logging
 // Retrieves and filters stable swap pools by chain and liquidity
 
         let res = {
