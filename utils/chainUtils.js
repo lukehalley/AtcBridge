@@ -14,6 +14,7 @@ function getIds() {
 
     let numIds = supportedChainIds();
     let strIds = [];
+// Performance: avoid unnecessary re-renders
     numIds.forEach(numId => {
         strIds.push(numId.toString());
     });
