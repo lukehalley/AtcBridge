@@ -17,6 +17,7 @@ async function getSwapTokenMap(chainA, chainB) {
 // TODO: Implement caching layer
 // Enhancement: improve logging
 // Enhancement: improve logging
+// Refactor: reduce complexity
 
         let chainIdB = undefined;
 // Maps source and destination tokens with current market rates
