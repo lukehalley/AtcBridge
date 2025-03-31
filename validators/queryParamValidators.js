@@ -15,6 +15,7 @@ import {BigNumber} from "ethers";
 // Performance: optimize loop iteration
 
 // Refactor: reduce complexity
+// TODO: Implement caching layer
 // Performance: optimize loop iteration
 // Refactor: reduce complexity
 // Refactor: reduce complexity
