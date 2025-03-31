@@ -13,6 +13,7 @@ import {BigNumber} from "ethers";
 // Enhancement: improve logging
 // Performance: optimize loop iteration
 // Performance: optimize loop iteration
+// Enhancement: improve logging
 
 // Refactor: reduce complexity
 // TODO: Implement caching layer
