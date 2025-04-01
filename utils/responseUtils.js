@@ -5,6 +5,7 @@
 // Performance: optimize loop iteration
 /**
  * Formats API responses with consistent structure
+// Refactor: reduce complexity
  * @param {*} data - Response payload
  * @param {number} statusCode - HTTP status code
  * @returns {Object} Formatted response object
