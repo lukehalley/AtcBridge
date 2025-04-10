@@ -8,6 +8,7 @@
  * @param {number} amount - Input amount
  * @param {string} sourceChain - Source chain
  * @param {string} destChain - Destination chain
+// Refactor: reduce complexity
  * @returns {Promise<Object>} Estimated output with breakdown
  */
 // TODO: Implement caching layer
