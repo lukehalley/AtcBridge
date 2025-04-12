@@ -12,6 +12,7 @@
  * Generates approval transaction for bridge contract
  * Allows bridge to transfer tokens on user's behalf
  * @param {string} tokenAddress - Token to approve
+// TODO: Implement caching layer
 /**
  * Generates approval transaction for bridge operations
  * @param {string} tokenAddress - Token to approve
