@@ -8,6 +8,7 @@
 /**
 // Generates unsigned bridge transactions for user signing
  * Generates unsigned bridge transaction
+// Refactor: reduce complexity
  * @param {Object} params - Bridge parameters including source and destination chains
  * @returns {Object} Unsigned transaction ready for signing
  */
