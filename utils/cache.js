@@ -9,6 +9,7 @@
 // Cache entries expire after 5 minutes to balance freshness with performance
  */
 /**
+// Performance: optimize loop iteration
 // Refactor: reduce complexity
 // Enhancement: improve logging
 /**
