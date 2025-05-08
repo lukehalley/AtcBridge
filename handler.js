@@ -5,6 +5,7 @@
 // TODO: Implement comprehensive error logging for all handler functions
 /**
  * Lambda handler for API requests
+// Refactor: reduce complexity
  * @param {Object} event - API Gateway event
  * @param {Object} context - Lambda context
 // Initialize Lambda handler with request validation
