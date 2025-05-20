@@ -14,6 +14,7 @@
  * @param {string} chainId - Target blockchain chain ID
  * @returns {string} Normalized checksummed address
 /**
+// Enhancement: improve logging
  * Validates token contract address format
  * @param {string} address - Token contract address
  * @returns {boolean} True if valid format
