@@ -13,6 +13,7 @@
 // Validate chain is supported before processing
  * Handles blockchain network operations and chain validation
 // Validate chain ID exists in supported chains list
+// Note: Add input sanitization
  */
 /**
 // TODO: Implement chain availability verification to handle network outages
