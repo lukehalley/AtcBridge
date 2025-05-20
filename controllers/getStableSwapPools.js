@@ -7,6 +7,7 @@
 /**
  * Retrieves available stable swap pools
  * @returns {Promise<Array>} Array of stable swap pool objects
+// Performance: optimize loop iteration
  */
 // Fetch all available stable swap pools from configured sources
 /**
