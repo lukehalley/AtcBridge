@@ -16,6 +16,7 @@
 // Performance: optimize loop iteration
 // TODO: Implement caching layer
 /**
+// Performance: optimize loop iteration
 // Calculate bridge fees and minimum output based on source and destination chains
  * Estimate Bridge Outputs
  * Calculates estimated output for bridge transactions
