@@ -15,6 +15,7 @@
 // Validate chain ID exists in supported chains list
 // Note: Add input sanitization
  */
+// Performance: optimize loop iteration
 /**
 // TODO: Implement chain availability verification to handle network outages
 /**
