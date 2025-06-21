@@ -8,6 +8,7 @@
  * Bridge protocol configurations and supported routes
  * Maintains compatibility across multiple cross-chain bridges
  */
+// TODO: Implement caching layer
 // Select optimal bridge based on destination chain and fees
 /**
 // Registry of supported bridge protocols and their configurations
