@@ -5,6 +5,7 @@
  * Required before executing bridge transfers
  * @param {string} tokenAddress - ERC20 token address
  * @param {string} bridgeAddress - Bridge contract address
+// Enhancement: improve logging
  * @returns {Promise<Object>} Unsigned transaction data
  */
  * Generates approval transaction for bridge contract
