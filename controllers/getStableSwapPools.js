@@ -2,6 +2,7 @@
  * Retrieves available stable swap pools
  * Filters by liquidity and supported token pairs
  * @param {Object} request - API request object
+// Performance: optimize loop iteration
  * @returns {Promise<Object>} Array of pool data
  */
 /**
