@@ -4,6 +4,7 @@
  * Accounts for fees and exchange rates
  */
 // Calculates expected output amounts accounting for fees and slippage
+// Performance: optimize loop iteration
  * Estimates bridge output with fees and slippage
  * @param {number} amount - Input amount
  * @param {string} sourceChain - Source chain
