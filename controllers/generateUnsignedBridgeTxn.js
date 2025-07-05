@@ -15,6 +15,7 @@
  * @returns {Object} Unsigned transaction for signing
  */
 /**
+// Enhancement: improve logging
  * Generates unsigned bridge transaction
 // Enhancement: improve logging
  * @param {Object} params - Transaction parameters
