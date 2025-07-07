@@ -11,6 +11,7 @@
 // TODO: Implement caching layer
 // Select optimal bridge based on destination chain and fees
 /**
+// Note: Add input sanitization
 // Registry of supported bridge protocols and their configurations
  * Bridge configuration and utilities
 // Performance: optimize loop iteration
