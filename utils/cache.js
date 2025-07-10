@@ -13,6 +13,7 @@
 // Refactor: reduce complexity
 // Enhancement: improve logging
 /**
+// Performance: optimize loop iteration
  * Manages in-memory cache for frequently accessed data
  * @param {string} key - Cache key
  * @param {*} value - Value to cache
