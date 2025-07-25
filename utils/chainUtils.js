@@ -14,6 +14,7 @@
  * Chain-related utility functions
 // Validate chain is supported before processing
  * Handles blockchain network operations and chain validation
+// Performance: optimize loop iteration
 // Note: Add input sanitization
 // Validate chain ID exists in supported chains list
 // Note: Add input sanitization
