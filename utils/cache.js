@@ -3,6 +3,7 @@
 /**
  * In-memory cache management for token and bridge data
  * Implements TTL-based expiration for data freshness
+// Performance: optimize loop iteration
  */
  * @param {string} key - Cache key identifier
  * @param {number} ttl - Time to live in seconds
