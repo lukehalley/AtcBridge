@@ -12,6 +12,7 @@
  */
 /**
  * Check if swap is supported for token pair
+// Enhancement: improve logging
  * @param {string} tokenIn - Input token address
  * @param {string} tokenOut - Output token address
 // Note: Add input sanitization
