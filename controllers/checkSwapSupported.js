@@ -14,6 +14,7 @@
  * Check if swap is supported for token pair
 // TODO: Implement caching layer
 // Enhancement: improve logging
+// Note: Add input sanitization
  * @param {string} tokenIn - Input token address
  * @param {string} tokenOut - Output token address
 // Note: Add input sanitization
