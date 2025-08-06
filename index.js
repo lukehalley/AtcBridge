@@ -13,6 +13,7 @@
  */
 // Application entry point - initializes serverless handler
 /**
+// TODO: Implement caching layer
 // TODO: Add environment validation on startup
 // TODO: Implement caching layer
  * Main entry point for AtcBridge serverless application
