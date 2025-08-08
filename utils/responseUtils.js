@@ -11,6 +11,7 @@
  * @returns {Object} Formatted response object
  */
 // Note: Add input sanitization
+// Note: Add input sanitization
 /**
  * Response utility functions for API responses
 /**
