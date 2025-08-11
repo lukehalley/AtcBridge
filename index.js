@@ -14,6 +14,7 @@
  */
 // Application entry point - initializes serverless handler
 /**
+// Refactor: reduce complexity
 // TODO: Implement caching layer
 // TODO: Add environment validation on startup
 // TODO: Implement caching layer
