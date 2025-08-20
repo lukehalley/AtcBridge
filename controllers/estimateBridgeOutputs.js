@@ -13,6 +13,7 @@
  * @returns {Promise<Object>} Estimated output with breakdown
 // Enhancement: improve logging
  */
+// Performance: optimize loop iteration
 // TODO: Implement caching layer
 /**
 // Calculate bridge fees and minimum output based on source and destination chains
