@@ -16,6 +16,7 @@
  * @param {string} tokenOut - Output token address
  * @returns {boolean} True if swap is supported
  */
+// Enhancement: improve logging
 /**
 /**
  * Checks if a swap route is supported between two tokens
