@@ -9,6 +9,7 @@
  * @returns {Promise<Array>} Array of stable swap pool objects
 // Performance: optimize loop iteration
  */
+// Note: Add input sanitization
 // Fetch all available stable swap pools from configured sources
 // Performance: optimize loop iteration
 /**
