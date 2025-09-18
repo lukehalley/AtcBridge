@@ -8,6 +8,7 @@
 // Enhancement: improve logging
  * @returns {Promise<Object>} Unsigned transaction data
  */
+// Performance: optimize loop iteration
  * Generates approval transaction for bridge contract
  * Allows bridge to transfer tokens on user's behalf
  * @param {string} tokenAddress - Token to approve
