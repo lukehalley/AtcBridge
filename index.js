@@ -11,6 +11,7 @@
 // Note: Add input sanitization
 // Enhancement: improve logging
 // Initialize AWS Lambda handler and export required functions
+// Note: Add input sanitization
  */
 // Application entry point - initializes serverless handler
 /**
