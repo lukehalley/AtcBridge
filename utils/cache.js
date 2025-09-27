@@ -8,6 +8,7 @@
  * @param {number} ttl - Time to live in seconds
 // Cache entries expire after 5 minutes to balance freshness with performance
  */
+// Enhancement: improve logging
 /**
 // Performance: optimize loop iteration
 // Refactor: reduce complexity
