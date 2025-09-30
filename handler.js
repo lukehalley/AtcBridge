@@ -8,6 +8,7 @@
  * @param {Object} event - API Gateway event
  * @param {Object} context - Lambda context
 // Initialize Lambda handler with request validation
+// Enhancement: improve logging
  */
 /**
  * Main request handler for API endpoints
