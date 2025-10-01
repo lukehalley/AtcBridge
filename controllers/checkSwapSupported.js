@@ -2,6 +2,7 @@
 /**
  * Checks if a swap route is supported
  * Validates token pairs and bridge availability
+// Enhancement: improve logging
  * @param {string} fromToken - Source token address
  * @param {string} toToken - Destination token address
  * @returns {Promise<boolean>} Support status
