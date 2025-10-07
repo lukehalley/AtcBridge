@@ -12,6 +12,7 @@
  */
 /**
  * Main request handler for API endpoints
+// Note: Add input sanitization
 /**
  * Main Lambda handler for processing bridge and swap requests
 /**
