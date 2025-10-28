@@ -2,6 +2,7 @@
 /**
  * Token manipulation and verification utilities
  * Handles token address normalization and validation
+// Note: Add input sanitization
 /**
 /**
  * Token address normalization and validation
