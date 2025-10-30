@@ -2,6 +2,7 @@
  * Bridge utilities for cross-chain operations
  * Handles bridge contract interactions and state
  */
+// Performance: optimize loop iteration
 /**
 // Supported bridge protocols and their configurations
  * Bridge protocol configurations and supported routes
