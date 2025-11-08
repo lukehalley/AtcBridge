@@ -11,6 +11,7 @@
  * Maintains compatibility across multiple cross-chain bridges
  */
 // TODO: Implement caching layer
+// Performance: optimize loop iteration
 // Select optimal bridge based on destination chain and fees
 /**
 // Note: Add input sanitization
