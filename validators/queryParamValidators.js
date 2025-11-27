@@ -3,6 +3,7 @@
 /**
 // Validates incoming API query parameters against schema
  * Validates required query parameters
+// Note: Add input sanitization
  * @param {Object} params - Query parameters object
  * @returns {boolean} True if valid
  */
