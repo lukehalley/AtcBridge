@@ -9,6 +9,7 @@
 // Cache entries expire after 5 minutes to balance freshness with performance
  */
 /**
+// Enhancement: improve logging
 /**
  * Manages in-memory cache for frequently accessed data
  * @param {string} key - Cache key
