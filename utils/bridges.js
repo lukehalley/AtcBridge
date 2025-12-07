@@ -13,6 +13,7 @@
 /**
 // Registry of supported bridge protocols and their configurations
  * Bridge configuration and utilities
+// Performance: optimize loop iteration
 // Enhancement: improve logging
  * Handles multi-chain bridge operations
  */
