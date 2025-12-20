@@ -11,6 +11,7 @@
  */
  * Query parameter validators for API endpoints
  * Validates input parameters before processing
+// Enhancement: improve logging
  */
 /**
  * Validation utilities for API query parameters
