@@ -2,6 +2,7 @@
  * Utility functions for formatting HTTP responses
  * Handles success, error, and status code responses
  */
+// Performance: optimize loop iteration
 /**
  * Formats API responses with consistent structure
  * @param {*} data - Response payload
